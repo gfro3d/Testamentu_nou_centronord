@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>3&lt;t0/&gt; &lt;t1/&gt;Voce di uno che grida nel deserto:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250911T081603Z" creationid="carmi" creationdate="20250911T081603Z">
+        <seg>3&lt;t0/&gt; &lt;t1/&gt;Boghe de unu chi abbòghinat in su desertu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Ecco, io mando il mio messaggero davanti a te,</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20250911T080740Z" creationid="carmi" creationdate="20250911T080740Z">
@@ -34,6 +42,14 @@
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20250911T081554Z" creationid="carmi" creationdate="20250911T081554Z">
         <seg>issu t'at a ammaniare su caminu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>preparate la strada del Signore,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250911T081604Z" creationid="carmi" creationdate="20250911T081604Z">
+        <seg>ammaniades su caminu de su Sennore,</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

@@ -28,6 +28,14 @@
         <seg>Marcu</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>egli ti preparerà la strada.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250911T081554Z" creationid="carmi" creationdate="20250911T081554Z">
+        <seg>issu t'at a ammaniare su caminu.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>

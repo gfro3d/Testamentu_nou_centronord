@@ -8,8 +8,8 @@
       <tuv lang="it">
         <seg>1,1&lt;t0/&gt; Inizio del vangelo di Gesù Cristo, Figlio di Dio. &lt;t1/&gt;2&lt;t2/&gt; Come è scritto nel profeta Isaia:</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20250911T080028Z" creationid="carmi" creationdate="20250911T080028Z">
-        <seg>1,1&lt;t0/&gt; Cumintzu de su vangelu de Gesùs Cristos, Fìgiu de Deus. &lt;t1/&gt;2&lt;t2/&gt; Comente est iscritu in su profeta Isaia:</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T082418Z" creationid="carmi" creationdate="20250911T080028Z">
+        <seg>1,1&lt;t0/&gt; Cumintzu de su evangèliu de Gesùs Cristos, Fizu de Deus. &lt;t1/&gt;2&lt;t2/&gt; Comente est iscritu in su profeta Isaia:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22,10 +22,106 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>13&lt;t0/&gt; Uscì di nuovo lungo il mare; tutta la folla veniva a lui ed egli li ammaestrava. &lt;t1/&gt;14&lt;t2/&gt; Nel passare, vide Levi, il figlio di Alfeo, seduto al banco delle imposte, e gli disse: «Seguimi».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073240Z" creationid="carmi" creationdate="20250912T073240Z">
+        <seg>13&lt;t0/&gt; Aiat torradu a essire longu su mare; totu sa truma beniat a issu e issu los ammaestrava. &lt;t1/&gt;14&lt;t2/&gt; In su de colare, aiat bidu Levi, su fìgiu de Alfeo, sèidu a su bancu de sas impostas, e l'aiat naradu: «Sighi·mi».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14&lt;t0/&gt; Dopo che Giovanni fu arrestato, Gesù si recò nella Galilea predicando il vangelo di Dio e diceva: &lt;t1/&gt;15&lt;t2/&gt; «Il tempo è compiuto e il regno di Dio è vicino; convertitevi e credete al vangelo».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073158Z" creationid="carmi" creationdate="20250912T073158Z">
+        <seg>14&lt;t0/&gt; A pustis de chi Giovanni fiat istadu arrestadu, Gesùs si fiat giutu in sa Galilea preighende su vangelu de Deus e naraiat: &lt;t1/&gt;15&lt;t2/&gt; «Su tempus est acumpridu e su rennu de Deus est probe; cunvertide·bos e creides a su vangelu».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15&lt;t0/&gt; Mentre Gesù stava a mensa in casa di lui, molti pubblicani e peccatori si misero a mensa insieme con Gesù e i suoi discepoli; erano molti infatti quelli che lo seguivano. &lt;t1/&gt;16&lt;t2/&gt; Allora gli scribi della setta dei farisei, vedendolo mangiare con i peccatori e i pubblicani, dicevano ai suoi discepoli: «Come mai egli mangia e beve in compagnia dei pubblicani e dei peccatori?». &lt;t3/&gt;17&lt;t4/&gt; Avendo udito questo, Gesù disse loro: «Non sono i sani che hanno bisogno del medico, ma i malati; non sono venuto per chiamare i giusti, ma i peccatori».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073244Z" creationid="carmi" creationdate="20250912T073244Z">
+        <seg>15&lt;t0/&gt; Mentras Gesùs istaiat a mensa in domo de issu, medas pubblicani e peccatori si fiant postos a mensa paris cun Gesùs e sos dischentes suos; fiant medas difatis sos chi lu sighiant. &lt;t1/&gt;16&lt;t2/&gt; Tando sos scribi de sa seta de sos farisei, bidende·lu mandigare cun sos peccatori e sos pubblicani, naraiant a sos dischentes suos: «Comente mai issu màndigat e bufat in cumpangia de sos pubblicani e de sos peccatori?». &lt;t3/&gt;17&lt;t4/&gt; Aende intesu custu, Gesùs lis aiat naradu: «Non sunt sos sanos chi tenent bisòngiu de su mèigu, ma sos malàidos; non so bènnidu pro mutire sos giustos, ma sos peccatori».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>16&lt;t0/&gt; Passando lungo il mare della Galilea, vide Simone e Andrea, fratello di Simone, mentre gettavano le reti in mare; erano infatti pescatori. &lt;t1/&gt;17&lt;t2/&gt; Gesù disse loro: «Seguitemi, vi farò diventare pescatori di uomini». &lt;t3/&gt;18&lt;t4/&gt; E subito, lasciate le reti, lo seguirono. &lt;t5/&gt;19&lt;t6/&gt; Andando un poco oltre, vide sulla barca anche Giacomo di Zebedèo e Giovanni suo fratello mentre riassettavano le reti. &lt;t7/&gt;20&lt;t8/&gt; Li chiamò.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073203Z" creationid="carmi" creationdate="20250912T073203Z">
+        <seg>16&lt;t0/&gt; Colende longu su mare de sa Galilea, aiat bidu Simone e Andrea, frade de Simone, mentras bessaiant sas retes in mare; fiant difatis piscadores. &lt;t1/&gt;17&lt;t2/&gt; Gesùs lis aiat naradu: «Sighide·mi, b'apo a fàghere devènnere piscadores de òmines». &lt;t3/&gt;18&lt;t4/&gt; E deretu, lassadas sas retes, l'aiant sighidu. &lt;t5/&gt;19&lt;t6/&gt; Andende agigu ultres, aiat bidu subra de sa barca fintzas Giacomo de Zebedèo e Giovanni su frade mentras riassettavano sas retes. &lt;t7/&gt;20&lt;t8/&gt; Li aiat mutidu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>18&lt;t0/&gt; Ora i discepoli di Giovanni e i farisei stavano facendo un digiuno.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073246Z" creationid="carmi" creationdate="20250912T073246Z">
+        <seg>18&lt;t0/&gt; Como sos dischentes de Giovanni e sos farisei fiant faghende unu geunu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>2,1&lt;t0/&gt; Ed entrò di nuovo a Cafarnao dopo alcuni giorni.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073226Z" creationid="carmi" creationdate="20250912T073226Z">
+        <seg>2,1&lt;t0/&gt; Ed aiat torradu a intrare a Cafarnao a pustis de unas cantas dies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>21&lt;t0/&gt; Andarono a Cafarnao e, entrato proprio di sabato nella sinagoga, Gesù si mise ad insegnare. &lt;t1/&gt;22&lt;t2/&gt; Ed erano stupiti del suo insegnamento, perché insegnava loro come uno che ha autorità e non come gli scribi. &lt;t3/&gt;23&lt;t4/&gt; Allora un uomo che era nella sinagoga, posseduto da uno spirito immondo, si mise a gridare: &lt;t5/&gt;24&lt;t6/&gt; «Che c'entri con noi, Gesù Nazareno?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073206Z" creationid="carmi" creationdate="20250912T073206Z">
+        <seg>21&lt;t0/&gt; Fiant andados a Cafarnao e, intradu etotu de sàbadu in sa sinagoga, Gesùs si fiat postu a insinnare. &lt;t1/&gt;22&lt;t2/&gt; Ed fiant trassidos de s'insignamentu suo, ca lis insinnaiat comente a unu chi tenet autoridade e non comente a sos scribi. &lt;t3/&gt;23&lt;t4/&gt; Tando un'òmine chi fiat in sa sinagoga, possedidu dae un'ispìritu immondo, si fiat postu a abboghinare: &lt;t5/&gt;24&lt;t6/&gt; «Che nch'intras cun nois, Gesùs Nazareno?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>29&lt;t0/&gt; E, usciti dalla sinagoga, si recarono subito in casa di Simone e di Andrea, in compagnia di Giacomo e di Giovanni. &lt;t1/&gt;30&lt;t2/&gt; La suocera di Simone era a letto con la febbre e subito gli parlarono di lei. &lt;t3/&gt;31&lt;t4/&gt; Egli, accostatosi, la sollevò prendendola per mano; la febbre la lasciò ed essa si mise a servirli.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073220Z" creationid="carmi" creationdate="20250912T073220Z">
+        <seg>29&lt;t0/&gt; E, essidos dae sa sinagoga, si fiant giutos deretu in domo de Simone e de Andrea, in cumpangia de Giacomo e de Giovanni. &lt;t1/&gt;30&lt;t2/&gt; Sa sogra de Simone fiat in letu cun sa calentura e deretu l'aiant faeddadu de issa. &lt;t3/&gt;31&lt;t4/&gt; Issu, aende·si acostadu, la fiat pesadu pighende·la pro manu; sa calentura l'aiat lassadu e issa si fiat postu a los serbire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>32&lt;t0/&gt; Venuta la sera, dopo il tramonto del sole, gli portavano tutti i malati e gli indemoniati. &lt;t1/&gt;33&lt;t2/&gt; Tutta la città era riunita davanti alla porta. &lt;t3/&gt;34&lt;t4/&gt; Guarì molti che erano afflitti da varie malattie e scacciò molti demòni; ma non permetteva ai demòni di parlare, perché lo conoscevano.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073221Z" creationid="carmi" creationdate="20250912T073221Z">
+        <seg>32&lt;t0/&gt; Venuta su sero, a pustis de s'intrinada de su sole, li giughiant totu sos malàidos e sos indemoniati. &lt;t1/&gt;33&lt;t2/&gt; Totu sa tzitade fiat riunida dae in antis sa ghenna. &lt;t3/&gt;34&lt;t4/&gt; Aiat sanadu medas chi fiant afigidos dae vàrias maladias e scacciò medas demòni; ma non permitiat a sos demòni de faeddare, ca lu connoschiant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>35&lt;t0/&gt; Al mattino si alzò quando ancora era buio e, uscito di casa, si ritirò in un luogo deserto e là pregava. &lt;t1/&gt;36&lt;t2/&gt; Ma Simone e quelli che erano con lui si misero sulle sue tracce &lt;t3/&gt;37&lt;t4/&gt; e, trovatolo, gli dissero: «Tutti ti cercano!». &lt;t5/&gt;38&lt;t6/&gt; Egli disse loro: «Andiamocene altrove per i villaggi vicini, perché io predichi anche là; per questo infatti sono venuto!». &lt;t7/&gt;39&lt;t8/&gt; E andò per tutta la Galilea, predicando nelle loro sinagoghe e scacciando i demòni.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073223Z" creationid="carmi" creationdate="20250912T073223Z">
+        <seg>35&lt;t0/&gt; A su mangianu si fiat pesadu cando ancora fiat iscuru e, essidu de domo, si fiat retiradu in unu logu desertu e in cue pregaiat. &lt;t1/&gt;36&lt;t2/&gt; Ma Simone e sos chi fiant cun issu si fiant postos subra de sos rastros suos &lt;t3/&gt;37&lt;t4/&gt; e, aende·lu agatadu, l'aiant naradu: «Totus ti chircant!». &lt;t5/&gt;38&lt;t6/&gt; Issu lis aiat naradu: «Andemus·nos·nche aterue pro sos bidditzolos serentes, ca deo prèighe fintzas in cue; pro custu difatis so bènnidu!». &lt;t7/&gt;39&lt;t8/&gt; E fiat andadu pro totu sa Galilea, preighende in sas sinagogas issoro e scacciando sos demòni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>3&lt;t0/&gt; &lt;t1/&gt;Voce di uno che grida nel deserto:</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20250911T081603Z" creationid="carmi" creationdate="20250911T081603Z">
         <seg>3&lt;t0/&gt; &lt;t1/&gt;Boghe de unu chi abbòghinat in su desertu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>3&lt;t0/&gt; Si recarono da lui con un paralitico portato da quattro persone. &lt;t1/&gt;4&lt;t2/&gt; Non potendo però portarglielo innanzi, a causa della folla, scoperchiarono il tetto nel punto dov'egli si trovava e, fatta un'apertura, calarono il lettuccio su cui giaceva il paralitico. &lt;t3/&gt;5&lt;t4/&gt; Gesù, vista la loro fede, disse al paralitico: «Figliolo, ti sono rimessi i tuoi peccati».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073230Z" creationid="carmi" creationdate="20250912T073230Z">
+        <seg>3&lt;t0/&gt; Si fiant giutos de issu cun unu paralìticu giutu dae bator pessones. &lt;t1/&gt;4&lt;t2/&gt; Non podende però bi lu giùghere innanzi, a càusa de sa truma, scoperchiarono su cobertura in su puntu ue issu s'agataiat e, fata un'abertura, aiant caladu su lettuccio subra de cale giaceva su paralìticu. &lt;t3/&gt;5&lt;t4/&gt; Gesùs, bista sa fide issoro, aiat naradu a su paralìticu: «Figliolo, ti sunt torrados a pònnere sos pecados tuos».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>40&lt;t0/&gt; Allora venne a lui un lebbroso: lo supplicava in ginocchio e gli diceva: «Se vuoi, puoi guarirmi!». &lt;t1/&gt;41&lt;t2/&gt; Mosso a compassione, stese la mano, lo toccò e gli disse: «Lo voglio, guarisci!». &lt;t3/&gt;42&lt;t4/&gt; Subito la lebbra scomparve ed egli guarì. &lt;t5/&gt;43&lt;t6/&gt; E, ammonendolo severamente, lo &lt;t7/&gt;rimandò e gli disse: &lt;t8/&gt;44&lt;t9/&gt; «Guarda di non dir niente a nessuno, ma va', presentati al sacerdote, e offri per la tua purificazione quello che Mosè ha ordinato, a testimonianza per loro». &lt;t10/&gt;45&lt;t11/&gt; Ma quegli, allontanatosi, cominciò a proclamare e a divulgare il fatto, al punto che Gesù non poteva più entrare pubblicamente in una città, ma se ne stava fuori, in luoghi deserti, e venivano a lui da ogni parte.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073224Z" creationid="carmi" creationdate="20250912T073224Z">
+        <seg>40&lt;t0/&gt; Tando fiat bènnidu a issu unu lebbrosu: lu suplicaiat in ghenugru e li naraiat: «Si chere, mi pode sanare!». &lt;t1/&gt;41&lt;t2/&gt; Mòvidu a compassione, aiat tèndidu sa manu, l'aiat tocadu e l'aiat naradu: «Lu chèrgio, sana!». &lt;t3/&gt;42&lt;t4/&gt; Deretu sa lebbra aiat iscumpartu e issu aiat sanadu. &lt;t5/&gt;43&lt;t6/&gt; E, ammonendolo in manera severa, l'aiat &lt;t7/&gt; tasidu e l'aiat naradu: &lt;t8/&gt;44&lt;t9/&gt; «Càstiat de non nàrrere nudda a perunu, ma anda, presentados a su satzerdote, e oferis pro sa purificatzione tua sa chi Moses at ordinadu, a testimonia pro issas». &lt;t10/&gt;45&lt;t11/&gt; Ma cuddos, aende·si istesiadu, aiat cumintzadu a proclamare e a divulgare su fatu, a su puntu chi Gesùs non podiat prus intrare publicamente a una tzitade, ma si nd'istaiat foras, in logos desertos, e beniant a issu dae cada parte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,10 +134,50 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>6&lt;t0/&gt; Seduti là erano alcuni scribi che pensavano in cuor loro: &lt;t1/&gt;7&lt;t2/&gt; «Perché costui parla così?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073231Z" creationid="carmi" creationdate="20250912T073231Z">
+        <seg>6&lt;t0/&gt; Sèidos in cue fiant unos cantos scribi chi pessaiant in cuor issos: &lt;t1/&gt;7&lt;t2/&gt; «Ca custu faeddat gasi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>8&lt;t0/&gt; Ma Gesù, avendo subito conosciuto nel suo spirito che così pensavano tra sé, disse loro: «Perché pensate così nei vostri cuori? &lt;t1/&gt;9&lt;t2/&gt; Che cosa è più facile: dire al paralitico: Ti sono rimessi i peccati, o dire: Alzati, prendi il tuo lettuccio e cammina? &lt;t3/&gt;10&lt;t4/&gt; Ora, perché sappiate che il Figlio dell'uomo ha il potere sulla terra di rimettere i peccati, &lt;t5/&gt;11&lt;t6/&gt; ti ordino - disse al paralitico - alzati, prendi il tuo lettuccio e va' a casa tua». &lt;t7/&gt;12&lt;t8/&gt; Quegli si alzò, prese il suo lettuccio e se ne andò in presenza di tutti e tutti si meravigliarono e lodavano Dio dicendo: «Non abbiamo mai visto nulla di simile!».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073237Z" creationid="carmi" creationdate="20250912T073237Z">
+        <seg>8&lt;t0/&gt; Ma Gesùs, aende subidu connotu in s'ispìritu suo chi gasi pessaiant intre sese, lis aiat naradu: «Ca pessades gasi in sos coros bostros? &lt;t1/&gt;9&lt;t2/&gt; Ite est prus fàtzile: nàrrere a su paralìticu: Ti sunt torrados a pònnere sos pecados, o nàrrere: Pesados, pigas su tuo lettuccio e caminat? &lt;t3/&gt;10&lt;t4/&gt; Como, ca iscais chi su Fìgiu de s'òmine tenet su podere subra de sa terra de torrare a pònnere sos pecados, &lt;t5/&gt;11&lt;t6/&gt; t'òrdino - aiat naradu a su paralìticu - pesados, pigas su tuo lettuccio e anda a domo tua». &lt;t7/&gt;12&lt;t8/&gt; Cuddos si fiat pesadu, pigadas su suo lettuccio e si nche fiat andadu a presèntzia de totus e totus si fiant meravigiados e lodaiant Deus narende: «No amus mai bidu nudda de sìmile!».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>9&lt;t0/&gt; In quei giorni Gesù venne da Nazaret di Galilea e fu battezzato nel Giordano da Giovanni. &lt;t1/&gt;10&lt;t2/&gt; E, uscendo dall'acqua, vide aprirsi i cieli e lo Spirito discendere su di lui come una colomba. &lt;t3/&gt;11&lt;t4/&gt; E si sentì una voce dal cielo: «Tu sei il Figlio mio prediletto, in te mi sono compiaciuto».</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20250912T073041Z" creationid="carmi" creationdate="20250912T073041Z">
         <seg>9&lt;t0/&gt; In cuddas dies Gesùs fiat bènnidu dae Nazarèt de Galilea e fiat istadu batijadu in su Giordanu de Giovanni. &lt;t1/&gt;10&lt;t2/&gt; E, essende dae s'abba, aiat bidu aberende·si sos chelos e s'Ispìritu calare susu de issu comente a una colomba. &lt;t3/&gt;11&lt;t4/&gt; E si fiat intesu una boghe de su chelu: «Tue ses su Fìgiu meu prediletto, in tene mi sunt compiaciuto».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Bestemmia!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073233Z" creationid="carmi" creationdate="20250912T073233Z">
+        <seg>Irroca!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Chi può rimettere i peccati se non Dio solo?».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073234Z" creationid="carmi" creationdate="20250912T073234Z">
+        <seg>Chie podet torrare a pònnere sos pecados si non Deus solu?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Comanda persino agli spiriti immondi e gli obbediscono!». &lt;t13/&gt;28&lt;t14/&gt; La sua fama si diffuse subito dovunque nei dintorni della Galilea.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073219Z" creationid="carmi" creationdate="20250912T073219Z">
+        <seg>Cumanda finas a sos ispìritos immondi e l'ubbidint!». &lt;t13/&gt;28&lt;t14/&gt; Sa fama sua si fiat difùndidu deretu in ue si siat in sos dintorni de sa Galilea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,10 +198,66 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Ed essi, lasciato il loro padre Zebedèo sulla barca con i garzoni, lo seguirono.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073204Z" creationid="carmi" creationdate="20250912T073204Z">
+        <seg>Ed issos, lassadu su babbu Zebedèo subra de sa barca cun sos garzoni, l'aiant sighidu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Egli, alzatosi, lo seguì.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073242Z" creationid="carmi" creationdate="20250912T073242Z">
+        <seg>Issu, aende·si pesadu, l'aiat sighidu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Esci da quell'uomo». &lt;t9/&gt;26&lt;t10/&gt; E lo spirito immondo, straziandolo e gridando forte, uscì da lui. &lt;t11/&gt;27&lt;t12/&gt; Tutti furono presi da timore, tanto che si chiedevano a vicenda: «Che è mai questo?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073216Z" creationid="carmi" creationdate="20250912T073216Z">
+        <seg>Essis dae cuddu òmine». &lt;t9/&gt;26&lt;t10/&gt; E s'ispìritu immondo, straziandolo e abboghinende forte, fiat essidu dae issu. &lt;t11/&gt;27&lt;t12/&gt; Totus fiant istados pigados dae timoria, tantu chi si pediant pare: «Ite est mai custu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Io so chi tu sei: il santo di Dio». &lt;t7/&gt;25&lt;t8/&gt; E Gesù lo sgridò: «Taci!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073214Z" creationid="carmi" creationdate="20250912T073214Z">
+        <seg>Deo isco chie tue ses: su santu de Deus». &lt;t7/&gt;25&lt;t8/&gt; E Gesùs l'aiat briadu: «Calla!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Marco</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20250911T075924Z" creationid="carmi" creationdate="20250911T075924Z">
         <seg>Marcu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Sei venuto a rovinarci!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073211Z" creationid="carmi" creationdate="20250912T073211Z">
+        <seg>Ses bènnidu a nch'arruinare!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Si seppe che era in casa &lt;t1/&gt;2&lt;t2/&gt; e si radunarono tante persone, da non esserci più posto neanche davanti alla porta, ed egli annunziava loro la parola.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073228Z" creationid="carmi" creationdate="20250912T073228Z">
+        <seg>Si fiat ischidu chi fiat in domo &lt;t1/&gt;2&lt;t2/&gt; e si radunarono pessones meda, de non nch'èssere prus postu mancu dae in antis sa ghenna, e issu annunziava issos sa paràula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Una dottrina nuova insegnata con autorità.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20250912T073218Z" creationid="carmi" creationdate="20250912T073218Z">
+        <seg>Una dotrina noa insinnada cun autoridade.</seg>
       </tuv>
     </tu>
     <tu>

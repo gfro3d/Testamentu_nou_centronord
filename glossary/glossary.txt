@@ -15,3 +15,5 @@ chinare	incrinare
 uscire	bessire	essire
 colomba	columba
 compiacere	a tènnere in prètziu
+mi sono compiaciuto	ti tenzo in prètziu
+prediletto	su prus istimadu

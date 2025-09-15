@@ -12,3 +12,6 @@ Accorreva	Acudiat
 cintura	chintorza	chintu
 fianchi	lumbos	fiancos
 chinare	incrinare
+uscire	bessire	essire
+colomba	columba
+compiacere	a tènnere in prètziu

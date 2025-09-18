@@ -24,3 +24,7 @@ Andrea	Andria
 Giacomo	Giagu
 Zebedèo	Zebedeu
 Ed	E
+Cafarnao	Carfanau
+scribi	mastros de leze	iscribas
+immondo	malu	titule
+Nazareno	Nazarenu

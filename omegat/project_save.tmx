@@ -88,8 +88,8 @@
       <tuv lang="it">
         <seg>18&lt;t0/&gt; Ora i discepoli di Giovanni e i farisei stavano facendo un digiuno.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20250912T073246Z" creationid="carmi" creationdate="20250912T073246Z">
-        <seg>18&lt;t0/&gt; Como sos dischentes de Giovanni e sos farisei fiant faghende unu geunu.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20250919T074137Z" creationid="carmi" creationdate="20250912T073246Z">
+        <seg>18&lt;t0/&gt; Como sos dischentes de Giuanne e sos fariseos fiant a sa gèuna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -396,6 +396,14 @@
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20250918T073859Z" creationid="carmi" creationdate="20250912T073211Z">
         <seg>Ses bènnidu a nos arruinare!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Si recarono allora da Gesù e gli dissero: «Perché i discepoli di Giovanni e i discepoli dei farisei digiunano, mentre i tuoi discepoli non digiunano?». &lt;t1/&gt;19&lt;t2/&gt; Gesù disse loro: «Possono forse digiunare gli invitati a nozze quando lo sposo è con loro?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20250919T074345Z" creationid="Gianfranco" creationdate="20250919T074345Z">
+        <seg>Fint andados tando a ue Gesùs e l'aiant naradu: «Proite sos dischentes de Giuanne e sos dischentes de sos fariseos abbarrant gèunos, e sos dischentes tuos nono?». &lt;t1/&gt;19&lt;t2/&gt; Gesùs lis aiat naradu: «Podent fortzis geunare sos invitados a unu cojuviu cando paris cun issos b'est s'isposu?</seg>
       </tuv>
     </tu>
     <tu>

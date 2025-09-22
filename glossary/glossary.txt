@@ -1,7 +1,7 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
 vangelo	evangèliu
 Figlio	Fizu
-Ecco	Acò	(mirade / bize)
+Ecco	Acò	(mira / bi·nche)
 messaggero	nùntziu
 preparerà	at a aprontare	at a ammaniare
 raddrizzate	adderetade

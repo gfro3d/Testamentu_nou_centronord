@@ -24,7 +24,6 @@ Andrea	Andria
 Giacomo	Giagu
 Zebedèo	Zebedeu
 Ed	E
-Cafarnao	Carfanau
 scribi	mastros de leze	iscribas
 immondo	malu	titule
 Nazareno	Nazarenu
@@ -50,4 +49,5 @@ predicare	nuntziare
 demoni	dimònios
 demòni	dimònios
 seduto	sètzidu
+Cafarnao	Cafàrnau
 Cafarnao	Cafàrnau

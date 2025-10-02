@@ -210,8 +210,8 @@
       <tuv lang="it">
         <seg>26&lt;t0/&gt; Diceva: «Il regno di Dio è come un uomo che getta il seme nella terra; &lt;t1/&gt;27&lt;t2/&gt; dorma o vegli, di notte o di giorno, il seme germoglia e cresce; come, egli stesso non lo sa. &lt;t3/&gt;28&lt;t4/&gt; Poiché la terra produce spontaneamente, prima lo stelo, poi la spiga, poi il chicco pieno nella spiga. &lt;t5/&gt;29&lt;t6/&gt; Quando il frutto è pronto, subito si mette mano alla falce, perché è venuta la mietitura».</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20251002T093658Z" creationid="Gianfranco" creationdate="20251002T093658Z">
-        <seg>26&lt;t0/&gt; Naraiat: «Su rennu de Deus est comente a un'òmine chi ghetat su sèmene a terra; &lt;t1/&gt;27&lt;t2/&gt; chi siat dormidu o ischidu, a de note o a de die, su sèmene essit e si nche bolat; comente, mancu issu nd'ischit. &lt;t3/&gt;28&lt;t4/&gt; Ca sa terra produet cunforma a su naturale suo, in antis su filu, a pustis s'ispiga, e posca su granu prenu in s'ispiga. &lt;t5/&gt;29&lt;t6/&gt; Cando su frutu est grempidu, deretu si ponet manu a sa farche, ca est bènnida sa messadura».</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251002T093830Z" creationid="Gianfranco" creationdate="20251002T093658Z">
+        <seg>26&lt;t0/&gt; Naraiat: «Su rennu de Deus est comente a un'òmine chi ghetat su sèmene a terra; &lt;t1/&gt;27&lt;t2/&gt; chi siat dormidu o ischidu, a de note o a de die, su sèmene essit e si nche bolat; comente, mancu issu nd'ischit. &lt;t3/&gt;28&lt;t4/&gt; Ca sa terra produet cunforma a su naturale suo, in antis su filu, a pustis s'ispiga, e posca su granu prenu in s'ispiga. &lt;t5/&gt;29&lt;t6/&gt; Cando su frutu est grempidu, deretu si pigat sa farche, ca est tempus de messare».</seg>
       </tuv>
     </tu>
     <tu>
@@ -236,6 +236,14 @@
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20250924T075459Z" creationid="carmi" creationdate="20250924T073202Z">
         <seg>3,1&lt;t0/&gt; Tando Gesùs fit torradu a intrare a sa sinagoga,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>30&lt;t0/&gt; Diceva: «A che cosa possiamo paragonare il regno di Dio o con quale parabola possiamo descriverlo? &lt;t1/&gt;31&lt;t2/&gt; Esso è come un granellino di senapa che, quando viene seminato per terra, è il più piccolo di tutti semi che sono sulla terra; &lt;t3/&gt;32&lt;t4/&gt; ma appena seminato cresce e diviene più grande di tutti gli ortaggi e fa rami tanto grandi che gli uccelli del cielo possono ripararsi alla sua ombra».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251002T100758Z" creationid="Gianfranco" creationdate="20251002T100758Z">
+        <seg>30&lt;t0/&gt; Aiat naradu: «A ite podimus paragonare su rennu de Deus o cun cale paràbola lu podimus descrìere? &lt;t1/&gt;31&lt;t2/&gt; Issu est comente a unu granellino de senapa chi, cando est semenadu pro terra, est su prus piticu de totus sèmenes chi sunt subra de sa terra; &lt;t3/&gt;32&lt;t4/&gt; ma in pessu chi semenadu creschet e devenit prus mannu de totu sas ortalìtzias e faghet ramos tantu mannos chi sos pugiones de su chelu si podent acontzare a s'umbra sua».</seg>
       </tuv>
     </tu>
     <tu>

@@ -63,3 +63,4 @@ lucerniere	isperàgliu
 terreno profondo	pizu de terra	terrinu fundudu bastante
 intendere	intèndere	ascurtare
 parabole	paràbulas
+parabola	paràbula

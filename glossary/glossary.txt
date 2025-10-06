@@ -74,3 +74,6 @@ udito	intesu
 trambustu	badalocu
 sapienza	sabiesa
 carpentiere	mastru de linna
+bastone	bàculu	fuste
+scuotete	ischitzinade
+infermi	malàidos

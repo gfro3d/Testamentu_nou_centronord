@@ -338,8 +338,8 @@
       <tuv lang="it">
         <seg>31&lt;t0/&gt; Di ritorno dalla regione di Tiro, passò per Sidone, dirigendosi verso il mare di Galilea in pieno territorio della Decàpoli. &lt;t1/&gt;32&lt;t2/&gt; E gli condussero un sordomuto, pregandolo di imporgli la mano. &lt;t3/&gt;33&lt;t4/&gt; E portandolo in disparte lontano dalla folla, gli pose le dita negli orecchi e con la saliva gli toccò la lingua; &lt;t5/&gt;34&lt;t6/&gt; guardando quindi verso il cielo, emise un sospiro e disse: «Effatà» cioè: «Apriti!». &lt;t7/&gt;35&lt;t8/&gt; E subito gli si aprirono gli orecchi, si sciolse il nodo della sua lingua e parlava correttamente. &lt;t9/&gt;36&lt;t10/&gt; E comandò loro di non dirlo a nessuno.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20251006T094322Z" creationid="carmi" creationdate="20251006T094322Z">
-        <seg>31&lt;t0/&gt; Torrende dae su de Tiru, fit coladu in Sidone, andende cara a su mare de Galilea in mesu a sos tretos de sa Decàpoli. &lt;t1/&gt;32&lt;t2/&gt; E nde l'aiant batidu unu surdu e mudu, preghende·lu de li pònnere sa manu subra. &lt;t3/&gt;33&lt;t4/&gt; E giughende·lu a un'ala a tesu dae sa zente, li aiat postu sos pòddighes in origras e cun sa salia li aiat tocadu sa limba; &lt;t5/&gt;34&lt;t6/&gt; duncas, abbaidende cara a chelu, aiat bogadu unu sùlidu e aiat naradu: «Effatà» est a nàrrere: «Aberi·ti!». &lt;t7/&gt;35&lt;t8/&gt; E deretu li si fint abertas sas origras, si li fit isortu su nodu de sa limba e faeddaiat bene. &lt;t9/&gt;36&lt;t10/&gt; E lis aiat cumandadu de non nde nàrrere a nemos.</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20251006T094414Z" creationid="carmi" creationdate="20251006T094322Z">
+        <seg>31&lt;t0/&gt; Torrende dae su de Tiru, fit coladu in Sidone, andende cara a su mare de Galilea in mesu a sos tretos de sa Decàpoli. &lt;t1/&gt;32&lt;t2/&gt; E nde l'aiant batidu unu surdu e mudu, preghende·lu de li pònnere sa manu subra. &lt;t3/&gt;33&lt;t4/&gt; E giughende·lu a un'ala a tesu dae sa zente, li aiat postu sos pòddighes in origras e cun sa salia li aiat tocadu sa limba; &lt;t5/&gt;34&lt;t6/&gt; duncas, abbaidende cara a chelu, aiat bogadu unu sùlidu e aiat naradu: «Effatà» est a nàrrere: «Aberi·ti!». &lt;t7/&gt;35&lt;t8/&gt; E deretu li si fint abertas sas origras, si li fit isortu su nodu de sa limba e faeddaiat bene. &lt;t9/&gt;36&lt;t10/&gt; E los aiat pretzetados de non nde nàrrere a nemos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -925,6 +925,14 @@
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251003T095553Z" creationid="Gianfranco" creationdate="20251003T095553Z">
         <seg>Ma issu, bogados totu cantos a foras, s'aiat pigadu in fatu suo su babbu e sa mama de sa pitzinna e sos chi fiant paris cun issu, e fiat intradu a ue fit sa pitzinna. &lt;t11/&gt;41&lt;t12/&gt; Pighende·li sa manu a sa pitzinna, l'aiat naradu: «Talità kum», chi cheret nàrrere: «Pitzoca, deo ti naro, pesa·ti!». &lt;t13/&gt;42&lt;t14/&gt; Deretu sa pitzoca si fit pesada e si fit posta a caminare; teniat dòighi annos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Ma più egli lo raccomandava, più essi ne parlavano &lt;t11/&gt;37&lt;t12/&gt; e, pieni di stupore, dicevano: «Ha fatto bene ogni cosa; fa udire i sordi e fa parlare i muti!».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20251006T094609Z" creationid="carmi" creationdate="20251006T094354Z">
+        <seg>Ma prus issu los pretzetaiat, prus issos nde faeddaiant &lt;t11/&gt;37&lt;t12/&gt; e, ispantados meda, naraiant: «At fatu bene cada cosa; faghet intèndere sos surdos e faghet faeddare sos mudos!».</seg>
       </tuv>
     </tu>
     <tu>

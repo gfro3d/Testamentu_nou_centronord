@@ -641,6 +641,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Avete il cuore indurito? &lt;t7/&gt;18&lt;t8/&gt; &lt;t9/&gt;Avete occhi e non vedete, avete orecchi e non udite&lt;t10/&gt;?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20251007T084021Z" creationid="carmi" creationdate="20251007T084021Z">
+        <seg>Ello su coro intostadu zughides?? &lt;t7/&gt;18&lt;t8/&gt; &lt;t9/&gt;Zughende ogros non bi bidides, zughende origras non bi intendides&lt;t10/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Bestemmia!</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20250919T091142Z" creationid="carmi" creationdate="20250912T073233Z">
@@ -757,6 +765,14 @@
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251006T071909Z" creationid="Gianfranco" creationdate="20251006T071909Z">
         <seg>E medas ascurtende·lu abarraiant ispantados e naraiant: «Dae ue si li benint custas cosas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>E non vi ricordate, &lt;t11/&gt;19&lt;t12/&gt; quando ho spezzato i cinque pani per i cinquemila, quante ceste colme di pezzi avete portato via?».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20251007T084320Z" creationid="carmi" creationdate="20251007T084320Z">
+        <seg>Non bos nd'ammentades de cando apo partzidu chimbe panes pro cuddos chimbemiza, cantas cofas prenas de cantzos nd'azis carradu?».</seg>
       </tuv>
     </tu>
     <tu>
@@ -1014,6 +1030,14 @@
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251006T091441Z" creationid="carmi" creationdate="20251006T091441Z">
         <seg>No lu cumprendides chi totu su chi intrat a s'òmine dae ala de foras no lu podet impestare, &lt;t9/&gt;19&lt;t10/&gt; ca no l'intrat a su coro ma a sa bentre e nch'acabbat in sa fogna?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Non intendete e non capite ancora?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20251007T083815Z" creationid="carmi" creationdate="20251007T083815Z">
+        <seg>Galu a intèndere e a cumprèndere sezis?</seg>
       </tuv>
     </tu>
     <tu>

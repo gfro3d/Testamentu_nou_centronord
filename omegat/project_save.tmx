@@ -120,8 +120,8 @@
       <tuv lang="it">
         <seg>14&lt;t0/&gt; E giunti presso i discepoli, li videro circondati da molta folla e da scribi che discutevano con loro. &lt;t1/&gt;15&lt;t2/&gt; Tutta la folla, al vederlo, fu presa da meraviglia e corse a salutarlo. &lt;t3/&gt;16&lt;t4/&gt; Ed egli li interrogò: «Di che cosa discutete con loro?». &lt;t5/&gt;17&lt;t6/&gt; Gli rispose uno della folla: «Maestro, ho portato da te mio figlio, posseduto da uno spirito muto. &lt;t7/&gt;18&lt;t8/&gt; Quando lo afferra, lo getta al suolo ed egli schiuma, digrigna i denti e si irrigidisce.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20251008T093147Z" creationid="Gianfranco" creationdate="20251008T091505Z">
-        <seg>14&lt;t0/&gt; E lòmpidos a ue fint sos dischentes, aiant bidu chi fint inghiriados dae una truma manna e dae mastros de leze chi fint a chistione cun issos. &lt;t1/&gt;15&lt;t2/&gt; Totu sos de sa truma, bidende·lu, fint meravizados e acurtos a lu saludare. &lt;t3/&gt;16&lt;t4/&gt; Ed issu los aiat porrogados: «De ite seis arresonende cun issos?». &lt;t5/&gt;17&lt;t6/&gt; L'aiat rispostu unu de sa truma: «Mastru, t'apo batidu a fizu meu, possedidu dae un'ispìritu mudu.&lt;t7/&gt;18&lt;t8/&gt; Cando l'abrancat, nche lu ghetat a terra e issu bocat ispruma, trocheddende sas dentes e faghende·si tèteru.r</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251008T093238Z" creationid="Gianfranco" creationdate="20251008T091505Z">
+        <seg>14&lt;t0/&gt; E lòmpidos a ue fint sos dischentes, aiant bidu chi fint inghiriados dae una truma manna e dae mastros de leze chi fint a chistione cun issos. &lt;t1/&gt;15&lt;t2/&gt; Totu sos de sa truma, bidende·lu, fint meravizados e acurtos a lu saludare. &lt;t3/&gt;16&lt;t4/&gt; Ed issu los aiat porrogados: «De ite seis arresonende cun issos?». &lt;t5/&gt;17&lt;t6/&gt; L'aiat rispostu unu de sa truma: «Mastru, t'apo batidu a fizu meu, possedidu dae un'ispìritu mudu.&lt;t7/&gt;18&lt;t8/&gt; Cando l'abrancat, nche lu ghetat a terra e issu bocat ispruma, trocheddende sas dentes e faghende·si tèteru,</seg>
       </tuv>
     </tu>
     <tu>
@@ -707,8 +707,8 @@
       <tuv lang="it">
         <seg>Alla vista di Gesù lo spirito scosse con convulsioni il ragazzo ed egli, caduto a terra, si rotolava spumando. &lt;t13/&gt;21&lt;t14/&gt; Gesù interrogò il padre: «Da quanto tempo gli accade questo?».</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20251008T093132Z" creationid="Gianfranco" creationdate="20251008T093132Z">
-        <seg>Bidende a Gesùs s'ispìritu aiat ischitzinadu a su piseddu chi si fit totu intortigadu e issu, rutu a terra, si roddulaiat boghende ispuma. &lt;t13/&gt;21&lt;t14/&gt; Gesùs aiat interrogadu su babbu: «De cantu tempus l'acadesset custu?».</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251008T093315Z" creationid="Gianfranco" creationdate="20251008T093132Z">
+        <seg>Bidende a Gesùs s'ispìritu aiat ischitzinadu a su piseddu chi si fit totu intortigadu e issu, rutu a terra, si roddulaiat boghende ispruma. &lt;t13/&gt;21&lt;t14/&gt; Gesùs aiat dimandadu a su babbu: «Dae cantu tempus l'est pighende gasi?».</seg>
       </tuv>
     </tu>
     <tu>
@@ -957,6 +957,14 @@
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251003T081341Z" creationid="carmi" creationdate="20251002T091602Z">
         <seg>E  issu lis aiat naradu: &lt;t1/&gt;11&lt;t2/&gt; «A bois est istadu cunfiadu su mistèriu de su rennu de Deus; a sos de foras imbetzes totu est postu in paràbulas, &lt;t3/&gt;12&lt;t4/&gt; pro chi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Ed egli rispose: «Dall'infanzia; &lt;t15/&gt;22&lt;t16/&gt; anzi, spesso lo ha buttato persino nel fuoco e nell'acqua per ucciderlo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251008T093432Z" creationid="Gianfranco" creationdate="20251008T093432Z">
+        <seg>Ed issu aiat rispostu: «Dae minore; &lt;t15/&gt;22&lt;t16/&gt; antzis, medas bortas nche l'at ghetadu fintzas a su fogu e a modde pro lu bochire.</seg>
       </tuv>
     </tu>
     <tu>

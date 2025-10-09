@@ -89,3 +89,4 @@ schiuma	ispruma
 scandalizza	iscàndulit	Ruju / DitzLC
 Chiunque	chie si siat
 accorrere	acùrrere
+scacciarlo	istrajare

@@ -59,7 +59,6 @@ Filippo	Tilipu
 reggersi	rezet ritzu	rezet reu
 satana	sàtana
 moggio	moju
-lucerniere	isperàgliu
 terreno profondo	pizu de terra	terrinu fundudu bastante
 intendere	intèndere	ascurtare
 parabole	paràbulas
@@ -101,3 +100,4 @@ in disparte	a bandas
 scherniranno	ant a inzuriare
 addosso	a subra
 Rabbunì	Rabbinu
+lucerniere	candelobre

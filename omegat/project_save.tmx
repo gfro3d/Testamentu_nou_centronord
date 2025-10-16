@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11&lt;t0/&gt; &lt;t1/&gt;dal Signore è stato fatto questo</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20251016T160250Z" creationid="carmi" creationdate="20251016T160250Z">
+        <seg>11&lt;t0/&gt; &lt;t1/&gt;de su Sennore est istadu fatu custu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11&lt;t0/&gt; Allora vennero i farisei e incominciarono a discutere con lui, chiedendogli un segno dal cielo, per metterlo alla prova. &lt;t1/&gt;12&lt;t2/&gt; Ma egli, traendo un profondo sospiro, disse: «Perché questa generazione chiede un segno?</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251007T090136Z" creationid="Gianfranco" creationdate="20251007T090136Z">
@@ -72,8 +80,16 @@
       <tuv lang="it">
         <seg>12,1&lt;t0/&gt; Gesù si mise a parlare loro in parabole: «Un uomo &lt;t1/&gt;piantò una vigna, vi pose attorno una siepe, scavò un torchio, costruì una torre&lt;t2/&gt;, poi la diede in affitto a dei vignaioli e se ne andò lontano. &lt;t3/&gt;2&lt;t4/&gt; A suo tempo inviò un servo a ritirare da quei vignaioli i frutti della vigna. &lt;t5/&gt;3&lt;t6/&gt; Ma essi, afferratolo, lo bastonarono e lo rimandarono a mani vuote. &lt;t7/&gt;4&lt;t8/&gt; Inviò loro di nuovo un altro servo: anche quello lo picchiarono sulla testa e lo coprirono di insulti. &lt;t9/&gt;5&lt;t10/&gt; Ne inviò ancora un altro, e questo lo uccisero; e di molti altri, che egli ancora mandò, alcuni li bastonarono, altri li uccisero. &lt;t11/&gt;6&lt;t12/&gt; Aveva ancora uno, il figlio prediletto: lo inviò loro per ultimo, dicendo: Avranno rispetto per mio figlio! &lt;t13/&gt;7&lt;t14/&gt; Ma quei vignaioli dissero tra di loro: Questi è l'erede; su, uccidiamolo e l'eredità sarà nostra. &lt;t15/&gt;8&lt;t16/&gt; E afferratolo, lo uccisero e lo gettarono fuori della vigna. &lt;t17/&gt;9&lt;t18/&gt; Che cosa farà dunque il padrone della vigna?</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20251016T073151Z" creationid="carmi" creationdate="20251016T073151Z">
-        <seg>12,1&lt;t0/&gt; Gesùs si fiat postu a lis faeddare in paràbolas: «Un'òmine &lt;t1/&gt;aiat prantadu una bìngia, b'aiat postu a fùrriu una cresura, aiat fossadu unu torchio, aiat costruidu una turre&lt;t2/&gt;, posca l'aiat dadu in afitu a de sos vignaioli e si nche fiat andadu a largu. &lt;t3/&gt;2&lt;t4/&gt; A tempus suo aiat imbiadu unu tzeracu a retirare de cuddos vignaioli sos frutos de sa bìngia. &lt;t5/&gt;3&lt;t6/&gt; Ma issos, aende·lu aferradu, l'aiant berberadu e l'aiant tasidu a manos bòidas. &lt;t7/&gt;4&lt;t8/&gt; Lis aiat imbiadu torra unu àteru tzeracu: fintzas cuddu l'aiant poddadu subra de sa conca e l'aiant cobertu de insulti. &lt;t9/&gt;5&lt;t10/&gt; Nd'aiat imbiadu ancora unu àteru, e custu l'aiant ochidu; e de medas àteros, chi issu ancora aiat mandadu, unos cantos los aiant berberadu, àteros los aiant ochidu. &lt;t11/&gt;6&lt;t12/&gt; Teniat ancora unu, su fìgiu prediletto: bi l'aiat imbiadu pro ùrtimu, narende: Ant a tènnere respetu pro fìgiu meu! &lt;t13/&gt;7&lt;t14/&gt; Ma cuddos vignaioli aiant naradu intre de issos: Custos est s'erederi; susu, ocamus·lu e s'eredade at a èssere nostra. &lt;t15/&gt;8&lt;t16/&gt; E aende·lu aferradu, l'aiant ochidu e l'aiant bessadu foras de sa bìngia. &lt;t17/&gt;9&lt;t18/&gt; Ite at a fàghere duncas su mere de sa bìngia?</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20251016T164234Z" creationid="carmi" creationdate="20251016T073151Z">
+        <seg>12,1&lt;t0/&gt; E Gesùs si fiat postu a lis faeddare in paràbolas: «Un'òmine &lt;t1/&gt;aiat pastinadu una binza e si l'aiat tancada a cresura, b'aiat iscavadu unu lacu e aiat fraigadu una turre&lt;t2/&gt;, a pustis bi l'aiat arrendadu a binzateris e si nche fit mòvidu a indedda. &lt;t3/&gt;2&lt;t4/&gt; A tempus de s'incunza aiat mandadu unu tzeracu a sos arrendatàrios  pro nche pigare sos frutos de sa binza. &lt;t5/&gt;3&lt;t6/&gt; Ma issos l'aiant tentu, l'aiant gaddadu e nche l'aiant bogadu a manos iscutas. &lt;t7/&gt;4&lt;t8/&gt; Lis aiat mandadu torra unu àteru tzeracu: a cuddu puru l'aiant iscutu a conca e l'aiant inzurzadu male. &lt;t9/&gt;5&lt;t10/&gt; Nd'aiat mandadu  unu àteru, e a cussu l'aiant mortu; e a àteros meda, chi aiat sighidu a mandare, a chie l'aiant gaddadu e a chie mortu. &lt;t11/&gt;6&lt;t12/&gt; Galu unu nde teniat, su fizu suo su prus istimadu: a ùrtimu bi l'aiat mandadu, narende: Zai ant a tènnere rispetu pro fizu meu! &lt;t13/&gt;7&lt;t14/&gt; Ma cuddos binzateris aiant naradu intre issos: Custos est s'erederi; ajò ca lu bochimus, e sa sienda at a èssere nostra. &lt;t15/&gt;8&lt;t16/&gt; E l'aiant tentu, l'aiant mortu e nche l'aiant ghetadu a foras de sa binza. &lt;t17/&gt;9&lt;t18/&gt; E ite at a fàghere, duncas, su mere de sa binza?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12&lt;t0/&gt; Allora cercarono di catturarlo, ma ebbero paura della folla; avevano capito infatti che aveva detto quella parabola contro di loro.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20251016T160409Z" creationid="carmi" creationdate="20251016T160409Z">
+        <seg>12&lt;t0/&gt; Tando aiant chircadu de lu caturare, ma aiant tentu timoria de sa truma; aiant cumpresu difatis chi aiat naradu cudda paràbola contra de issas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -98,6 +114,14 @@
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251014T081435Z" creationid="carmi" creationdate="20251002T091632Z">
         <seg>13&lt;t0/&gt; E aiat sighidu narende·lis: «Si non cumprendides custa paràbula, comente las azis a cumprèndere totu sas àteras paràbulas? &lt;t1/&gt;14&lt;t2/&gt; Su semenadore sèmenat sa paràula. &lt;t3/&gt;15&lt;t4/&gt; Cussos peri su caminu sunt sos chi lis sèmenant sa paràula; ma comente l'ascurtant, deretu suprit sàtana, e si nche pigat sa paràula semenada.&lt;t5/&gt;. &lt;t6/&gt;16&lt;t7/&gt; Gasi e totu sos chi retzint su sèmene in logu pedrosu sunt sos chi, comente ascurtant sa paràula, deretu l'acollint cun gosu, &lt;t8/&gt;17&lt;t9/&gt; ma non zughent raighina issoro &lt;t10/&gt;&lt;t11/&gt;, non tenent firmesa e tando, comente b'at tribulia o persighida pro more de sa paràula, deretu si ghetant a terra. &lt;t12/&gt;18&lt;t13/&gt; E àteros sunt sos chi retzint su sèmene in logu de ispina: sunt sos chi ant ascurtadu sa paràula, &lt;t14/&gt;19&lt;t15/&gt; ma nche suprint sos pistighinzos de su mundu e s'ingannu de sa richesa e totu sos àteros disizos, afocant sa paràula e non bogat frutu. &lt;t16/&gt;20&lt;t17/&gt; E sos chi retzint su sèmene in terrinu bonu, sunt sos chi ascurtant sa paràula, la collint e bogant frutu a chie su trinta, a chie su sessanta, a chie de su chentu pro unu».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13&lt;t0/&gt; Gli mandarono però alcuni farisei ed erodiani per coglierlo in fallo nel discorso. &lt;t1/&gt;14&lt;t2/&gt; E venuti, quelli gli dissero: «Maestro, sappiamo che sei veritiero e non ti curi di nessuno; infatti non guardi in faccia agli uomini, ma secondo verità insegni la via di Dio.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20251016T160344Z" creationid="carmi" creationdate="20251016T160344Z">
+        <seg>13&lt;t0/&gt; L'aiant mandadu però unos cantos farisei e erodiani pro lu collire in faghe·lu in s'arresonu. &lt;t1/&gt;14&lt;t2/&gt; E bènnidos, cuddos l'aiant naradu: «Maestro, ischimus chi ses veritiero e non ti curet de nemos; difatis non càstiet in cara a sos òmines, ma segundu veridade insinnet sa bia de Deus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +266,14 @@
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20250923T082734Z" creationid="carmi" creationdate="20250912T073246Z">
         <seg>18&lt;t0/&gt; Tando sos dischentes de Giuanne e sos fariseos fint faghende su zeunu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>18&lt;t0/&gt; Vennero a lui dei sadducei, i quali dicono che non c'è risurrezione, e lo interrogarono dicendo: &lt;t1/&gt;19&lt;t2/&gt; «Maestro, Mosè ci ha lasciato scritto che &lt;t3/&gt;se muore il fratello di uno&lt;t4/&gt; e lascia la moglie &lt;t5/&gt;senza figli, il fratello ne prenda la moglie per dare discendenti al fratello&lt;t6/&gt;. &lt;t7/&gt;20&lt;t8/&gt; C'erano sette fratelli: il primo prese moglie e morì senza lasciare discendenza; &lt;t9/&gt;21&lt;t10/&gt; allora la prese il secondo, ma morì senza lasciare discendenza; e il terzo egualmente, &lt;t11/&gt;22&lt;t12/&gt; e nessuno dei sette lasciò discendenza.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20251016T160321Z" creationid="carmi" creationdate="20251016T160321Z">
+        <seg>18&lt;t0/&gt; Fiant bènnidos a issu de sos sadducei, sos cales narant chi non b'at risurrezione, e l'aiant interrogadu narende: &lt;t1/&gt;19&lt;t2/&gt; «Maestro, Moses nch'at lassadu iscritu chi &lt;t3/&gt;si morit su frade de unu&lt;t4/&gt; e lassat sa mugere &lt;t5/&gt;sena fìgios, su frade nde pighet sa mugere pro dare discendentes a su frade&lt;t6/&gt;. &lt;t7/&gt;20&lt;t8/&gt; B'aiat sete frades: su primu aiat pigadu mugere e aiat mortu sena lassare discendèntzia; &lt;t9/&gt;21&lt;t10/&gt; tando l'aiat pigadu su segundu, ma aiat mortu sena lassare discendèntzia; e su de tres in manera eguale, &lt;t11/&gt;22&lt;t12/&gt; e nemos de sos sete aiat lassadu discendèntzia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -890,6 +922,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Allora disse loro: «Di chi è questa immagine e l'iscrizione?».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20251016T160334Z" creationid="carmi" creationdate="20251016T160334Z">
+        <seg>Tando lis aiat naradu: «De chie est custa imàgine e s'iscritzione?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Allora il re disse alla ragazza: «Chiedimi quello che vuoi e io te lo darò». &lt;t3/&gt;23&lt;t4/&gt; E le fece questo giuramento: «Qualsiasi cosa mi chiederai, te la darò, fosse anche la metà del mio regno». &lt;t5/&gt;24&lt;t6/&gt; La ragazza uscì e disse alla madre: «Che cosa devo chiedere?».</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251006T081311Z" creationid="Gianfranco" creationdate="20251006T081311Z">
@@ -1146,6 +1186,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>E rimasero ammirati di lui.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20251016T160324Z" creationid="carmi" creationdate="20251016T160324Z">
+        <seg>E aiant abarradu ammirados de issu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>E si facevano battezzare da lui nel fiume Giordano, confessando i loro peccati. 6 Giovanni era vestito di peli di cammello, con una cintura di pelle attorno ai fianchi, si cibava di locuste e miele selvatico 7 e predicava: «Dopo di me viene uno che è più forte di me e al quale io non son degno di chinarmi per sciogliere i legacci dei suoi sandali. 8 Io vi ho battezzati con acqua, ma egli vi battezzerà con lo Spirito Santo».</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20250915T103459Z" creationid="carmi" creationdate="20250912T082651Z">
@@ -1182,6 +1230,14 @@
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251013T184833Z" creationid="Gianfranco" creationdate="20251013T184833Z">
         <seg>E deretu li fit torrada sa bista e aiat pigadu a li pònnere in fatu in su caminu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>E, lasciatolo, se ne andarono.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20251016T160347Z" creationid="carmi" creationdate="20251016T160347Z">
+        <seg>E, aende·lu lassadu, si nche fiant andados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1354,6 +1410,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Gli risposero: «Di Cesare». &lt;t7/&gt;17&lt;t8/&gt; Gesù disse loro: «Rendete a Cesare ciò che è di Cesare e a Dio ciò che è di Dio».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20251016T160326Z" creationid="carmi" creationdate="20251016T160326Z">
+        <seg>L'aiant rispòndidu: «De Tzèsare». &lt;t7/&gt;17&lt;t8/&gt; Gesùs lis aiat naradu: «Rendides a Tzèsare custu chi est de Tzèsare e a Deus custu chi est de Deus».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Gli risposero: «Lo possiamo». &lt;t7/&gt;39&lt;t8/&gt; E Gesù disse: «Il calice che io bevo anche voi lo berrete, e il battesimo che io ricevo anche voi lo riceverete. &lt;t9/&gt;40&lt;t10/&gt; Ma sedere alla mia destra o alla mia sinistra non sta a me concederlo; è per coloro per i quali è stato preparato».</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251013T182925Z" creationid="Gianfranco" creationdate="20251013T182925Z">
@@ -1442,10 +1506,26 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>La pietra che i costruttori hanno scartata</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20251016T160238Z" creationid="carmi" creationdate="20251016T160238Z">
+        <seg>Sa pedra chi sos costruidores ant isboligada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>La stese e la sua mano fu risanata. &lt;t9/&gt;6&lt;t10/&gt; E i farisei uscirono subito con gli erodiani e tennero consiglio contro di lui per farlo morire.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20250926T152858Z" creationid="carmi" creationdate="20250924T073216Z">
         <seg>E issu l'aiat illonghiada e sa manu sua fit torra sana. &lt;t9/&gt;6&lt;t10/&gt;E tando sos fariseos fint bessidos deretu, e  paris cun sos erodianos aiant cumintzadu a fàghere cumbinu pro comente l'ispèrdere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Lo dobbiamo dare o no?». &lt;t3/&gt;15&lt;t4/&gt; Ma egli, conoscendo la loro ipocrisia, disse: «Perché mi tentate?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20251016T160340Z" creationid="carmi" creationdate="20251016T160340Z">
+        <seg>Lu devimus dare o no?». &lt;t3/&gt;15&lt;t4/&gt; Ma issu, connoschende s'ipocrisia issoro, aiat naradu: «Ca m'intentades?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1603,6 +1683,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Portatemi un denaro perché io lo veda». &lt;t5/&gt;16&lt;t6/&gt; Ed essi glielo portarono.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20251016T160337Z" creationid="carmi" creationdate="20251016T160337Z">
+        <seg>Giughide·mi unu dinari ca deo lu bidat». &lt;t5/&gt;16&lt;t6/&gt; Ed issos bi l'aiant giutu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Potete bere il calice che io bevo, o ricevere il battesimo con cui io sono battezzato?».</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251013T182527Z" creationid="Gianfranco" creationdate="20251013T182527Z">
@@ -1731,6 +1819,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Verrà e sterminerà quei vignaioli e darà la vigna ad altri. &lt;t19/&gt;10&lt;t20/&gt; Non avete forse letto questa Scrittura:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20251016T160235Z" creationid="carmi" creationdate="20251016T160235Z">
+        <seg>At a bènnere e at a isterminare cuddos vignaioli e at a dare sa bìngia a àteros. &lt;t19/&gt;10&lt;t20/&gt; No ais fortzis letu custa Iscritura:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Voi invece ne avete fatto &lt;t0/&gt;una spelonca di ladri&lt;t1/&gt;!».</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251015T154437Z" creationid="carmi" creationdate="20251015T151850Z">
@@ -1743,6 +1839,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251015T154413Z" creationid="carmi" creationdate="20251015T151845Z">
         <seg>domo de pregadoria pro totu sos pòpulos&lt;t0/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>ed è mirabile agli occhi nostri&lt;t0/&gt;»?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20251016T160318Z" creationid="carmi" creationdate="20251016T160318Z">
+        <seg>e est mirabile a sos ogros nostros&lt;t0/&gt;»?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1815,6 +1919,22 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251003T092817Z" creationid="carmi" creationdate="20251003T090654Z">
         <seg>«Legione mi naro, l'aiat naradu, ca semus in medas». &lt;t17/&gt;10&lt;t18/&gt; E aiat atacadu a lu pregare meda de non nche lu bogare dae cussos oros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>È lecito o no dare il tributo a Cesare?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20251016T160342Z" creationid="carmi" creationdate="20251016T160342Z">
+        <seg>Est lecito o non dare su tributu a Tzèsare?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>è diventata testata d'angolo;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20251016T160247Z" creationid="carmi" creationdate="20251016T160247Z">
+        <seg>est devènnida testada de àngulu;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

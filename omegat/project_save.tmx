@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10&lt;t0/&gt; Benedetto il regno che viene, del nostro padre Davide!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251025T155117Z" creationid="Gianfranco" creationdate="20251025T155117Z">
+        <seg>10&lt;t0/&gt; Beneitu su regnu chi benit, de babbu nostru Dàvide!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10&lt;t0/&gt; Quando poi fu solo, i suoi insieme ai Dodici lo interrogavano sulle parabole.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251003T073551Z" creationid="carmi" creationdate="20251002T091557Z">
@@ -1654,6 +1662,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251025T154255Z" creationid="Gianfranco" creationdate="20251025T154255Z">
         <seg>Osanna!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Osanna&lt;t0/&gt; nel più alto dei cieli!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251025T155726Z" creationid="Gianfranco" creationdate="20251025T155726Z">
+        <seg>Osanna&lt;t0/&gt; in sos prus artos chelos!</seg>
       </tuv>
     </tu>
     <tu>

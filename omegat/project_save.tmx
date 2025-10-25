@@ -1361,6 +1361,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Ed entrato nel tempio, si mise a scacciare quelli che vendevano e comperavano nel tempio; rovesciò i tavoli dei cambiavalute e le sedie dei venditori di colombe &lt;t1/&gt;16&lt;t2/&gt; e non permetteva che si portassero cose attraverso il tempio. &lt;t3/&gt;17&lt;t4/&gt; Ed insegnava loro dicendo: «Non sta forse scritto:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251025T162446Z" creationid="Gianfranco" creationdate="20251025T162446Z">
+        <seg>Ed cando fit intradu a su tèmpiu, si fit postu a nche bogare a sos chi fint bendende e comporende in su tèmpiu; aiat bortiadu sas mesas de sos cambiadinare e sas cadiras de sos bendidores de columbas &lt;t1/&gt;16&lt;t2/&gt; e non cheriat a batire nudda a su tèmpiu. &lt;t3/&gt;17&lt;t4/&gt; E lis daiat imparos narende: «No istat fortzis iscritu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Ed erano enormemente stupiti in se stessi, &lt;t13/&gt;52&lt;t14/&gt; perché non avevano capito il fatto dei pani, essendo il loro cuore indurito.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251006T075823Z" creationid="carmi" creationdate="20251006T075823Z">
@@ -1676,8 +1684,8 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       <tuv lang="it">
         <seg>Non era infatti quella la stagione dei fichi. &lt;t3/&gt;14&lt;t4/&gt; E gli disse: «Nessuno possa mai più mangiare i tuoi frutti».</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20251025T161923Z" creationid="Gianfranco" creationdate="20251025T161723Z">
-        <seg>Ca non fit tempus de figu. &lt;t3/&gt;14&lt;t4/&gt; E li aiat naradu: «Gasi chi non nde màndighet prus nemos de su frutu tuo».</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251025T162051Z" creationid="Gianfranco" creationdate="20251025T161723Z">
+        <seg>Ca non fit tempus de figu. &lt;t3/&gt;14&lt;t4/&gt; E li aiat naradu: «Chi non nde màndighet prus nemos de su frutu tuo».</seg>
       </tuv>
     </tu>
     <tu>

@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11&lt;t0/&gt; Ed entrò a Gerusalemme, nel tempio.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251025T155833Z" creationid="Gianfranco" creationdate="20251025T155833Z">
+        <seg>11&lt;t0/&gt; E fit intradu a Gerusalemme, a su tèmpiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11&lt;t0/&gt; Gli spiriti immondi, quando lo vedevano, gli si gettavano ai piedi gridando: «Tu sei il Figlio di Dio!». &lt;t1/&gt;12&lt;t2/&gt; Ma egli li sgridava severamente perché non lo manifestassero.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251017T145015Z" creationid="carmi" creationdate="20250924T073252Z">
@@ -995,8 +1003,8 @@
       <tuv lang="it">
         <seg>Benedetto colui che viene nel nome del Signore&lt;t0/&gt;!</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20251025T155003Z" creationid="Gianfranco" creationdate="20251025T154303Z">
-        <seg>Beneitu chie benit in nùmene de su Sennore&lt;t0/&gt;!</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251025T155850Z" creationid="Gianfranco" creationdate="20251025T154303Z">
+        <seg>Beneitu chie benit a nùmene de su Sennore&lt;t0/&gt;!</seg>
       </tuv>
     </tu>
     <tu>

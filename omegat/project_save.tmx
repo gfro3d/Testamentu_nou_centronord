@@ -120,8 +120,8 @@
       <tuv lang="it">
         <seg>12&lt;t0/&gt; La mattina seguente, mentre uscivano da Betània, ebbe fame. &lt;t1/&gt;13&lt;t2/&gt; E avendo visto di lontano un fico che aveva delle foglie, si avvicinò per vedere se mai vi trovasse qualche cosa; ma giuntovi sotto, non trovò altro che foglie.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20251025T161644Z" creationid="Gianfranco" creationdate="20251025T160839Z">
-        <seg>12&lt;t0/&gt; Sa die imbeniente, essinde dae Betània, l'at bènnidu fàmene. &lt;t1/&gt;13&lt;t2/&gt; E bidende·nche dae largu una figu fozida, si fit acurtziadu a bìdere si agataiat carchi cosa; ma cando nche lòmpidu a suta, no aiat agatadu àteru sippetzi fògia.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251025T161753Z" creationid="Gianfranco" creationdate="20251025T160839Z">
+        <seg>12&lt;t0/&gt; Sa die imbeniente, essinde dae Betània, l'at bènnidu fàmene. &lt;t1/&gt;13&lt;t2/&gt; E bidende·nche dae largu una figu fozida, si fit acurtziadu a bìdere si b'agataiat carchi cosa; ma cando nche lòmpidu a suta, no aiat agatadu àteru sippetzi fògia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -226,6 +226,14 @@
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20250912T082657Z" creationid="carmi" creationdate="20250912T082657Z">
         <seg>14 A pustis de chi Giovanni fiat istadu arrestadu, Gesùs si fiat giutu in sa Galilea preighende su vangelu de Deus e naraiat: 15 «Su tempus est acumpridu e su rennu de Deus est probe; cunvertide·bos e creides a su vangelu».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15&lt;t0/&gt; Andarono intanto a Gerusalemme.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251025T162043Z" creationid="Gianfranco" creationdate="20251025T162043Z">
+        <seg>15&lt;t0/&gt; Tando fint andados a Gerusalemme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1153,6 +1161,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>E i discepoli l'udirono.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251025T161941Z" creationid="Gianfranco" creationdate="20251025T161941Z">
+        <seg>E sos dischentes aiant intesu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>E il cieco a lui: «Rabbunì, che io riabbia la vista!». &lt;t5/&gt;52&lt;t6/&gt; E Gesù gli disse: «Va', la tua fede ti ha salvato».</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251013T184746Z" creationid="Gianfranco" creationdate="20251013T184746Z">
@@ -1654,6 +1670,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251006T091441Z" creationid="carmi" creationdate="20251006T091441Z">
         <seg>No lu cumprendides chi totu su chi intrat a s'òmine dae ala de foras no lu podet impestare, &lt;t9/&gt;19&lt;t10/&gt; ca no l'intrat a su coro ma a sa bentre e nch'acabbat in sa fogna?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Non era infatti quella la stagione dei fichi. &lt;t3/&gt;14&lt;t4/&gt; E gli disse: «Nessuno possa mai più mangiare i tuoi frutti».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251025T161923Z" creationid="Gianfranco" creationdate="20251025T161723Z">
+        <seg>Ca non fit tempus de figu. &lt;t3/&gt;14&lt;t4/&gt; E li aiat naradu: «Gasi chi non nde màndighet prus nemos de su frutu tuo».</seg>
       </tuv>
     </tu>
     <tu>

@@ -665,6 +665,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>35&lt;t0/&gt; Gesù continuava a parlare, insegnando nel tempio: «Come mai dicono gli scribi che il Messia è figlio di Davide? &lt;t1/&gt;36&lt;t2/&gt; Davide stesso infatti ha detto, mosso dallo Spirito Santo:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20251106T105330Z" creationid="carmi" creationdate="20251106T105330Z">
+        <seg>35&lt;t0/&gt; Gesùs sighiat a faeddare, insinnende in su tèmpiu: «Comente mai narant sos scribi chi su Messia est fìgiu de Davide? &lt;t1/&gt;36&lt;t2/&gt; Davide matessi difatis at naradu, mòvidu dae s'Ispìritu Santo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>35&lt;t0/&gt; In quel medesimo giorno, verso sera, disse loro: «Passiamo all'altra riva». &lt;t1/&gt;36&lt;t2/&gt; E lasciata la folla, lo presero con sé, così com'era, nella barca.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251020T074201Z" creationid="Gianfranco" creationdate="20251002T102230Z">
@@ -1237,6 +1245,14 @@
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251021T073323Z" creationid="Gianfranco" creationdate="20251006T071909Z">
         <seg> E medas ascurtende·lu abarraiant ispantados e naraiant: «Dae ue li benint custas cosas? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>E nessuno aveva più il coraggio di interrogarlo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20251106T105326Z" creationid="carmi" creationdate="20251106T105326Z">
+        <seg>E nemos teniat prus su coràgiu de l'interrogare.</seg>
       </tuv>
     </tu>
     <tu>

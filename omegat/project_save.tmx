@@ -923,8 +923,8 @@
       <tuv lang="it">
         <seg>38&lt;t0/&gt; Diceva loro mentre insegnava: «Guardatevi dagli scribi, che amano passeggiare in lunghe vesti, ricevere saluti nelle piazze, &lt;t1/&gt;39&lt;t2/&gt; avere i primi seggi nelle sinagoghe e i primi posti nei banchetti. &lt;t3/&gt;40&lt;t4/&gt; Divorano le case delle vedove e ostentano di fare lunghe preghiere; essi riceveranno una condanna più grave».</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20251106T105541Z" creationid="carmi" creationdate="20251106T105541Z">
-        <seg>38&lt;t0/&gt; Lis naraiat mentras insinnaiat: «Castiade·bos de sos scribi, chi amant passigiare in longas bestes, retzire saludes in sas pratzas, &lt;t1/&gt;39&lt;t2/&gt; tènnere sos primos sègios in sas sinagogas e sos primos postos in sos ispuntinos. &lt;t3/&gt;40&lt;t4/&gt; Devorant sas domos de sas viudas e isciorant de fàghere longas pregadorias; issos ant a retzire una cundenna prus grave».</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251107T110554Z" creationid="carmi" creationdate="20251106T105541Z">
+        <seg>38&lt;t0/&gt; Cando lis daiat imparos lis naraiat: «Dazi cara a sos iscribas, chi lis agradat a essire postos de bestes longas, e chi los saludent in sa pratza, &lt;t1/&gt;39&lt;t2/&gt; a tènnere sas primas cadreas in sas sinagogas e sos primos postos in sos cumbidos. &lt;t3/&gt;40&lt;t4/&gt; Nche lis màndigant sas domos a sas sas viudas e si nde bogant chi pregant meda; sa cundenna chi l'at a tocare a issos at èssere sa prus manna».</seg>
       </tuv>
     </tu>
     <tu>
@@ -1643,8 +1643,8 @@
       <tuv lang="it">
         <seg>E la numerosa folla lo ascoltava volentieri.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20251106T105540Z" creationid="carmi" creationdate="20251106T105540Z">
-        <seg>E sa numerosa truma l'ascurtaiat volentieri.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251107T105932Z" creationid="carmi" creationdate="20251106T105540Z">
+        <seg>E sa truma manna l'ascurtaiat cun praghere.</seg>
       </tuv>
     </tu>
     <tu>

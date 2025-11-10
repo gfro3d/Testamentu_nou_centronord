@@ -124,3 +124,4 @@ Gerusalemme	Gerusalemme
 Giordano	Giordanu
 Nazaret	Nazaret
 Galilea	Galilea
+Simone	Simone

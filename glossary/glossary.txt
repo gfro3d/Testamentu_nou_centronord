@@ -117,3 +117,10 @@ costruttori	fraigadores	fraigamuros
 scartata	iscartadu	lassadu a banda
 testata d'angolo	pedra de assentu	RUBATTUpietra angolare sf. [corner stone, pierre
 ipocrisia	farsidade	ipocrisia
+Gesù Cristo	Gesùs Cristos
+Isaia	Isaia
+Giudea	Giudea
+Gerusalemme	Gerusalemme
+Giordano	Giordanu
+Nazaret	Nazaret
+Galilea	Galilea

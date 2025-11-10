@@ -125,3 +125,5 @@ Giordano	Giordanu
 Nazaret	Nazaret
 Galilea	Galilea
 Simone	Simone
+Davide	Dàvide
+Abiatàr	Abiatàr

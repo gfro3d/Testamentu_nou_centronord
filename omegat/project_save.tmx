@@ -40,8 +40,8 @@
       <tuv lang="it">
         <seg>10&lt;t0/&gt; Benedetto il regno che viene, del nostro padre Davide!</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20251025T155117Z" creationid="Gianfranco" creationdate="20251025T155117Z">
-        <seg>10&lt;t0/&gt; Beneitu su regnu chi benit, de babbu nostru Dàvide!</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20251112T155434Z" creationid="Gianfranco" creationdate="20251025T155117Z">
+        <seg>10&lt;t0/&gt; Beneitu su regnu chi est benende, de babbu nostru Dàvide!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1435,8 +1435,8 @@
       <tuv lang="it">
         <seg>Benedetto colui che viene nel nome del Signore&lt;t0/&gt;!</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20251025T155850Z" creationid="Gianfranco" creationdate="20251025T154303Z">
-        <seg>Beneitu chie benit a nùmene de su Sennore&lt;t0/&gt;!</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20251112T155345Z" creationid="Gianfranco" creationdate="20251025T154303Z">
+        <seg>Beneitu chie est benende a nùmene de su Sennore&lt;t0/&gt;!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1595,8 +1595,8 @@
       <tuv lang="it">
         <seg>E dopo aver guardato ogni cosa attorno, essendo ormai l'ora tarda, uscì con i Dodici diretto a Betània.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20251025T161105Z" creationid="Gianfranco" creationdate="20251025T160623Z">
-        <seg>E cando aiat miradu totu a inghìriu, prus a tardu, dae chi nche fit giai ora, fit mòvidu deretu paris cun sos dòighi a Betània. </seg>
+      <tuv lang="sc" changeid="carmi" changedate="20251112T155954Z" creationid="Gianfranco" creationdate="20251025T160623Z">
+        <seg>E mirende totu a inghìriu, dae chi nche fit a tardu, fit mòvidu deretu a Betània paris cun sos dòighi . </seg>
       </tuv>
     </tu>
     <tu>

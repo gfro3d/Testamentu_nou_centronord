@@ -272,8 +272,8 @@
       <tuv lang="it">
         <seg>14&lt;t0/&gt; Quando vedrete &lt;t1/&gt;l'abominio della desolazione&lt;t2/&gt; stare là dove non conviene, chi legge capisca, allora quelli che si trovano nella Giudea fuggano ai monti; &lt;t3/&gt;15&lt;t4/&gt; chi si trova sulla terrazza non scenda per entrare a prender qualcosa nella sua casa; &lt;t5/&gt;16&lt;t6/&gt; chi è nel campo non torni indietro a prendersi il mantello. &lt;t7/&gt;17&lt;t8/&gt; Guai alle donne incinte e a quelle che allatteranno in quei giorni! &lt;t9/&gt;18&lt;t10/&gt; Pregate che ciò non accada d'inverno; &lt;t11/&gt;19&lt;t12/&gt; perché quei giorni saranno &lt;t13/&gt;una tribolazione, quale non è mai stata dall'inizio della creazione&lt;t14/&gt;, fatta da Dio, &lt;t15/&gt;fino al presente&lt;t16/&gt;, né mai vi sarà. &lt;t17/&gt;20&lt;t18/&gt; Se il Signore non abbreviasse quei giorni, nessun uomo si salverebbe.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20251128T095302Z" creationid="carmi" creationdate="20251106T105551Z">
-        <seg>14&lt;t0/&gt; Cando ais a bìdere &lt;t1/&gt;s'abominio de sa desolatzione&lt;t2/&gt; istare in cue ue non cumbenit, chie leghet cumprendat, tando sos chi s'agatant in sa Giudea fuant a sos montes; &lt;t3/&gt;15&lt;t4/&gt; chie s'agatat subra de sa terratza non pendat pro intrare a pigare calicuna cosa in domo sua; &lt;t5/&gt;16&lt;t6/&gt; chie est in su campu non torret in dae segus a si pigare su manteddu. &lt;t7/&gt;17&lt;t8/&gt; Dannos a sas fèminas incinte e a sas chi ant a allatare in cuddas dies! &lt;t9/&gt;18&lt;t10/&gt; Pregade chi custa no acontessat in ierru; &lt;t11/&gt;19&lt;t12/&gt; ca cussas dies ant a èssere &lt;t13/&gt;una tribbulia, comente non bi nd'at àpidu dae su cumintzu de sa creatzione&lt;t14/&gt;chi at fatu Deus, &lt;t15/&gt;finas a como&lt;t16/&gt;, nen bi nd'at a èssere mai. &lt;t17/&gt;20&lt;t18/&gt; Si su Sennore non diat incurtziare cussas dies, perun'òmine si diat sarvare.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251128T105340Z" creationid="carmi" creationdate="20251106T105551Z">
+        <seg>14&lt;t0/&gt; Cando ais a bìdere &lt;t1/&gt;s'abomìniu/refudu de s'isperdìtziu&lt;t2/&gt; in cue ue non bi cheret, chie leghet cumprendat, tando sos chi sunt in Giudea si nche fuant a sos montes; &lt;t3/&gt;15&lt;t4/&gt; chie est in sa sutea non nche pendat a domo sua a/pro nche pigare cosa; &lt;t5/&gt;16&lt;t6/&gt; chie est in su sartu/in campagna non torret a dae segus a si nde pigare su manteddu. &lt;t7/&gt;17&lt;t8/&gt; Guai/arguai a sas fèminas gràvidas/prinzas e a sas chi allatant in cuddas dies! &lt;t9/&gt;18&lt;t10/&gt; Pregade chi custu non càpitet in ierru; &lt;t11/&gt;19&lt;t12/&gt; ca in cussas dies b'at a àere &lt;t13/&gt; tribbulia, comente non bi nd'at àpidu dae su cumintzu de sa creatzione&lt;t14/&gt;chi at fatu Deus, &lt;t15/&gt;finas a como&lt;t16/&gt;, nen bi nd'at a  mai. &lt;t17/&gt;20&lt;t18/&gt; Si su Sennore non diat incurtziare cussas dies, perun'òmine si diat sarvare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1291,8 +1291,8 @@
       <tuv lang="it">
         <seg>9&lt;t0/&gt; Ma voi badate a voi stessi!</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20251106T105549Z" creationid="carmi" creationdate="20251106T105549Z">
-        <seg>9&lt;t0/&gt; Ma bois contivizade a bois matessi!</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251128T101128Z" creationid="carmi" creationdate="20251106T105549Z">
+        <seg>9&lt;t0/&gt; Ma bois tenide·bos contu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2500,7 +2500,7 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       <tuv lang="it">
         <seg>Questo sarà il principio dei dolori.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20251106T105548Z" creationid="carmi" creationdate="20251106T105548Z">
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251128T101054Z" creationid="carmi" creationdate="20251106T105548Z">
         <seg>Custu at a èssere su printzìpiu de sos dolores.</seg>
       </tuv>
     </tu>
@@ -2668,8 +2668,8 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       <tuv lang="it">
         <seg>Vi consegneranno ai sinedri, sarete percossi nelle sinagoghe, comparirete davanti a governatori e re a causa mia, per render testimonianza davanti a loro. &lt;t1/&gt;10&lt;t2/&gt; Ma prima è necessario che il vangelo sia proclamato a tutte le genti. &lt;t3/&gt;11&lt;t4/&gt; E quando vi condurranno via per consegnarvi, non preoccupatevi di ciò che dovrete dire, ma dite ciò che in quell'ora vi sarà dato: poiché non siete voi a parlare, ma lo Spirito Santo. &lt;t5/&gt;12&lt;t6/&gt; Il fratello consegnerà a morte il fratello, il padre il figlio e i figli insorgeranno contro i genitori e li metteranno a morte. &lt;t7/&gt;13&lt;t8/&gt; Voi sarete odiati da tutti a causa del mio nome, ma chi avrà perseverato sino alla fine sarà salvato.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20251106T105550Z" creationid="carmi" creationdate="20251106T105550Z">
-        <seg>B'ant a cunsignare a sos sinedri, ais a èssere surrados in sas sinagogas, ais a cumpàrrere dae in antis guvernadores e re a càusa mea, pro rèndere testimonia in dae in antis issoro. &lt;t1/&gt;10&lt;t2/&gt; Ma in antis est netzessàriu chi su vangelu siat proclamadu a totu sas gentes. &lt;t3/&gt;11&lt;t4/&gt; E cando b'ant a giùghere bia pro bos cunsignare, non bos apessamenteis de custu chi ais a dèvere nàrrere, ma narades custu chi in cudda ora b'at a èssere dadu: ca non seis bois a faeddare, ma s'Ispìritu Santo. &lt;t5/&gt;12&lt;t6/&gt; Su frade at a cunsignare a morte su frade, su babbu su fìgiu e sos fìgios insorgeranno contra sos babbos e los ant a pònnere a morte. &lt;t7/&gt;13&lt;t8/&gt; Bois ais a èssere odiados dae totus a càusa de su nùmene meu, ma chie at a tènnere perseverato finas a sa fine at a èssere sarvadu.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251128T104105Z" creationid="carmi" creationdate="20251106T105550Z">
+        <seg>Bos ant a intregare a sos sinèdrios, bos ant a iscùdere/cariare in sas sinagogas, ais a essire/istare in dae in antis a guvernadores e res pro more meu, a testimonia pro issos. &lt;t1/&gt;10&lt;t2/&gt; Ma in antis cheret/est pretzisu chi s'evangèliu s'annùntziet a totu sas zentes. &lt;t3/&gt;11&lt;t4/&gt; E cando bos nch'ant a pigare pro bos intregare, non bos pighet pessamentu pro su chi ais a dèvere nàrrere, ma narade su chi in cuddu momentu bos ant a dare/bos est dadu: ca non seis bois chi sezis faeddende, ma s'Ispìritu Santu. &lt;t5/&gt;12&lt;t6/&gt; Su frade at a mandare a morte a su frade, su babbu a su fìgiu e sos fìgios si nch'ant a pesare contra a sos babbos e los ant a pònnere a morte/bochire. &lt;t7/&gt;13&lt;t8/&gt; A bois bos ant a odiare totus pro neghe de su nùmene meu, ma chie at a aguantare finas a sa fine at a èssere sarvu.</seg>
       </tuv>
     </tu>
     <tu>

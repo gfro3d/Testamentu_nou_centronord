@@ -1163,8 +1163,8 @@
       <tuv lang="it">
         <seg>63&lt;t0/&gt; Allora il sommo sacerdote, stracciandosi le vesti, disse: «Che bisogno abbiamo ancora di testimoni? &lt;t1/&gt;64&lt;t2/&gt; Avete udito la bestemmia; che ve ne pare?».</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20251130T193054Z" creationid="carmi" creationdate="20251106T105749Z">
-        <seg>63&lt;t0/&gt; Tando su  satzerdote mazore, tirende·si·nche sas bestes, aiat naradu: «Bisonzu galu de testimonzos b'at? &lt;t1/&gt;64&lt;t2/&gt; Zai l'ais intesu irrochende; ite bos paret?».</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251130T193235Z" creationid="carmi" creationdate="20251106T105749Z">
+        <seg>63&lt;t0/&gt; Tando su  satzerdote mazore, tirende·si·nche sas bestes, aiat naradu: «Galu bisonzu de testimonzos b'at? &lt;t1/&gt;64&lt;t2/&gt; Zai l'ais intesu irrochende; ite bos paret?».</seg>
       </tuv>
     </tu>
     <tu>
@@ -2604,8 +2604,8 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       <tuv lang="it">
         <seg>Tutti sentenziarono che era reo di morte.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20251106T105750Z" creationid="carmi" creationdate="20251106T105750Z">
-        <seg>Totus sentenziarono chi fiat reu de morte.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251130T193444Z" creationid="carmi" creationdate="20251106T105750Z">
+        <seg>Totus cantos aiant sententziadu ca fit reu de morte.</seg>
       </tuv>
     </tu>
     <tu>

@@ -61,8 +61,6 @@ satana	sàtana
 moggio	moju
 terreno profondo	pizu de terra	terrinu fundudu bastante
 intendere	intèndere	ascurtare
-parabole	paràbulas
-parabola	paràbula
 Gerasèni	Gerasenos
 figlioletta	fizichedda
 Or	como
@@ -151,3 +149,5 @@ giovanetto	pitzocu	giòvanu; pitzinnu
 sentenziarono	aiant sententziadu
 schiaffeggiarlo	a lu pigare a iscavanadas
 imprecare	frastimare
+parabole	paràbbulas
+parabola	paràbbula

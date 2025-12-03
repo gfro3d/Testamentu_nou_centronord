@@ -538,8 +538,8 @@
       <tuv lang="it">
         <seg>22&lt;t0/&gt; Mentre mangiavano prese il pane e, pronunziata la benedizione, lo spezzò e lo diede loro, dicendo: «Prendete, questo è il mio corpo». &lt;t1/&gt;23&lt;t2/&gt; Poi prese il calice e rese grazie, lo diede loro e ne bevvero tutti. &lt;t3/&gt;24&lt;t4/&gt; E disse: «Questo è il mio sangue, il sangue dell'alleanza versato per molti. &lt;t5/&gt;25&lt;t6/&gt; In &lt;t7/&gt;verità vi dico che io non berrò più del frutto della vite fino al giorno in cui lo berrò nuovo nel regno di Dio».</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20251202T093354Z" creationid="carmi" creationdate="20251106T105726Z">
-        <seg>22&lt;t0/&gt; E cando fint mandighende, aiat pigadu su pane, aiat naradu sa beneditzione, l'aiat truncadu e bi l'aiat dadu, narende: «Pigade, custu est su corpus meu». &lt;t1/&gt;23&lt;t2/&gt; A pustis aiat pigadu su càlighe e aiat torradu gràtzias, bi l'aiat dadu e nd'aiant bìbidu totus. &lt;t3/&gt;24&lt;t4/&gt; E aiat naradu: «Custu est su sàmbene meu, su sàmbene de s'alleàntzia ghissadu pro medas. &lt;t5/&gt;25&lt;t6/&gt;  &lt;t7/&gt;Bos lu naro a beru: deo non nd'apo a bìbere prus   frutu de sa binza finas a sa die chi l'apo a bìbere nou in su rennu de Deus».</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251203T091739Z" creationid="carmi" creationdate="20251106T105726Z">
+        <seg>22&lt;t0/&gt; E cando fint mandighende, aiat pigadu su pane, aiat naradu sa beneditzione, l'aiat truncadu e bi l'aiat dadu, narende: «Pigade, custu est su corpus meu». &lt;t1/&gt;23&lt;t2/&gt; A pustis aiat pigadu su càlighe e aiat torradu gràtzias, bi l'aiat dadu e nd'aiant bìbidu totus. &lt;t3/&gt;24&lt;t4/&gt; E aiat naradu: «Custu est su sàmbene meu, su sàmbene de s'alleàntzia ghissadu pro medas. &lt;t5/&gt;25&lt;t6/&gt;  &lt;t7/&gt;Bos lu naro a beru, deo non nd'apo a bìbere prus frutu de sa bide finas a sa die chi l'apo a bìbere nou in su rennu de Deus».</seg>
       </tuv>
     </tu>
     <tu>
@@ -1427,8 +1427,8 @@
       <tuv lang="it">
         <seg>Bene per quell'uomo se non fosse mai nato!».</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20251202T092628Z" creationid="carmi" creationdate="20251106T105725Z">
-        <seg>Menzus fit istadu pro issu a no esseret mai nàschidu!».</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20251203T091032Z" creationid="carmi" creationdate="20251106T105725Z">
+        <seg>Menzus fit istadu pro issu a/chi no esseret mai nàschidu!».</seg>
       </tuv>
     </tu>
     <tu>

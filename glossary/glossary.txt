@@ -151,3 +151,4 @@ schiaffeggiarlo	a lu pigare a iscavanadas
 imprecare	frastimare
 parabole	paràbbulas
 parabola	paràbbula
+Giuda	Giudas

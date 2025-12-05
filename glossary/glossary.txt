@@ -153,3 +153,4 @@ parabole	paràbbulas
 parabola	paràbbula
 Giuda	Giudas
 Giudei	Zudeos	Giudeos
+Pilato	Pilatu

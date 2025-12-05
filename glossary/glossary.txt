@@ -152,3 +152,4 @@ imprecare	frastimare
 parabole	paràbbulas
 parabola	paràbbula
 Giuda	Giudas
+Giudei	Zudeos	Giudeos

@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="it">
+        <seg>1,10&lt;s0/&gt;Ezechia generò Manasse, Manasse generò Amos, Amos generò Giosia,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260118T175711Z" creationid="carmi" creationdate="20260118T175711Z">
+        <seg>1,10&lt;s0/&gt;Ezechia aiat generadu Manasse, Manasse aiat generadu Amos, Amos aiat generadu Giosia,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,11&lt;s0/&gt;Giosia generò Ieconia e i suoi fratelli, al tempo della deportazione in Babilonia.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260118T175713Z" creationid="carmi" creationdate="20260118T175713Z">
+        <seg>1,11&lt;s0/&gt;Giosia aiat generadu Ieconia e sos frades suos, a su tempus de sa disterrada in Babilònia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,1&lt;s0/&gt;Genealogia di Gesù Cristo figlio di Davide, figlio di Abramo.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260118T174852Z" creationid="carmi" creationdate="20260118T174743Z">
@@ -42,6 +58,54 @@
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260118T175211Z" creationid="carmi" creationdate="20260118T175211Z">
         <seg>1,3&lt;s0/&gt;Giuda generesit a Fares e Zara de Tamar, Fares generesit a Esrom, Esrom generesit a Aram,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,4&lt;s0/&gt;Aram generò Aminadab, Aminadab generò Naasson, Naasson generò Salmon,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260118T175509Z" creationid="carmi" creationdate="20260118T175509Z">
+        <seg>1,4&lt;s0/&gt;Aram generesit a Aminadab, Aminadab generesit a Naasson, Naasson generesit a Salmon,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,5&lt;s0/&gt;Salmon generò Booz da Racab, Booz generò Obed da Rut, Obed generò Iesse,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260118T175619Z" creationid="carmi" creationdate="20260118T175619Z">
+        <seg>1,5&lt;s0/&gt;Salmon generesit a Booz de Racab, Booz generesit a Obed de Rut, Obed generesit a Jesse,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,6&lt;s0/&gt;Iesse generò il re Davide.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260118T175657Z" creationid="carmi" creationdate="20260118T175657Z">
+        <seg>1,6&lt;s0/&gt;Jesse generesit a su re Dàvide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,7&lt;s0/&gt;Salomone generò Roboamo, Roboamo generò Abìa, Abìa generò Asaf,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260118T175703Z" creationid="carmi" creationdate="20260118T175703Z">
+        <seg>1,7&lt;s0/&gt;Salomonas aiat generadu Roboamo, Roboamo aiat generadu Abìa, Abìa aiat generadu Asaf,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,8&lt;s0/&gt;Asaf generò Giosafat, Giosafat generò Ioram, Ioram generò Ozia,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260118T175706Z" creationid="carmi" creationdate="20260118T175706Z">
+        <seg>1,8&lt;s0/&gt;Asaf aiat generadu Giosafat, Giosafat aiat generadu Ioram, Ioram aiat generadu Ozia,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,9&lt;s0/&gt;Ozia generò Ioatam, Ioatam generò Acaz, Acaz generò Ezechia,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260118T175708Z" creationid="carmi" creationdate="20260118T175708Z">
+        <seg>1,9&lt;s0/&gt;Ozia aiat generadu Ioatam, Ioatam aiat generadu Acaz, Acaz aiat generadu Ezechia,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1525,6 +1589,14 @@
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20250918T075447Z" creationid="carmi" creationdate="20250912T073219Z">
         <seg>Cumanda finas a sos ispìritos malu e li ponent mente!». &lt;t13/&gt;28&lt;t14/&gt; Sa fama sua si fit ispainada deretu in totue a inghìriu de sa Galilea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Davide generò Salomone da quella che era stata la moglie di Urìa,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260118T175700Z" creationid="carmi" creationdate="20260118T175700Z">
+        <seg>Davide aiat generadu Salomonas de sa chi fiat istada sa mugere de Urìa,</seg>
       </tuv>
     </tu>
     <tu>

@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="it">
+        <seg>1,1&lt;s0/&gt;Genealogia di Gesù Cristo figlio di Davide, figlio di Abramo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260118T174852Z" creationid="carmi" creationdate="20260118T174743Z">
+        <seg>1,1&lt;s0/&gt;Genealogia de Gesùs Cristos fizu de Dàvide, fizu de Abramu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,1&lt;t0/&gt; Inizio del vangelo di Gesù Cristo, Figlio di Dio. &lt;t1/&gt;2&lt;t2/&gt; Come è scritto nel profeta Isaia:</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20250922T074956Z" creationid="carmi" creationdate="20250911T080028Z">
@@ -18,6 +26,14 @@
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20250912T090854Z" creationid="carmi" creationdate="20250912T082741Z">
         <seg>1,1 Cumintzu de su evangèliu de Gesùs Cristos, Fizu de Deus. 2 Comente b'est iscritu in su profeta Isaia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,2&lt;s0/&gt;Abramo generò Isacco, Isacco generò Giacobbe, Giacobbe generò Giuda e i suoi fratelli,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260118T174800Z" creationid="carmi" creationdate="20260118T174800Z">
+        <seg>1,2&lt;s0/&gt;Abramo aiat generadu Isacco, Isacco aiat generadu Giacobbe, Giacobbe aiat generadu Giuda e sos frades suos,</seg>
       </tuv>
     </tu>
     <tu>

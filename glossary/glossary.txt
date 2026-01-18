@@ -161,3 +161,4 @@ Alessandro	Lisandru
 Gòlgota	Gòlgota
 Rufo	Rufus
 Abramo	Abramu
+generò	generesit

@@ -8,32 +8,32 @@
       <tuv lang="it">
         <seg>1,10&lt;s0/&gt;Ezechia generò Manasse, Manasse generò Amos, Amos generò Giosia,</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260118T175711Z" creationid="carmi" creationdate="20260118T175711Z">
-        <seg>1,10&lt;s0/&gt;Ezechia aiat generadu Manasse, Manasse aiat generadu Amos, Amos aiat generadu Giosia,</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260118T181823Z" creationid="carmi" creationdate="20260118T175711Z">
+        <seg>1,10&lt;s0/&gt;Ezechia generesit a Manasse, Manasse generesit a Amos, Amos generesit a Giosia,</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>1,11&lt;s0/&gt;Giosia generò Ieconia e i suoi fratelli, al tempo della deportazione in Babilonia.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260118T175713Z" creationid="carmi" creationdate="20260118T175713Z">
-        <seg>1,11&lt;s0/&gt;Giosia aiat generadu Ieconia e sos frades suos, a su tempus de sa disterrada in Babilònia.</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260118T181831Z" creationid="carmi" creationdate="20260118T175713Z">
+        <seg>1,11&lt;s0/&gt;Giosia generesit a Ieconia e sos frades suos, a su tempus de sa disterrada in Babilònia.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>1,12&lt;s0/&gt;Dopo la deportazione in Babilonia, Ieconia generò Salatiel, Salatiel generò Zorobabele,</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260118T175716Z" creationid="carmi" creationdate="20260118T175716Z">
-        <seg>1,12&lt;s0/&gt;A pustis de sa disterrada in Babilònia, Ieconia aiat generadu Salatiel, Salatiel aiat generadu Zorobabele,</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260118T181857Z" creationid="carmi" creationdate="20260118T175716Z">
+        <seg>1,12&lt;s0/&gt;A pustis de sa disterrada in Babilònia, Ieconia generesit a Salatiel, Salatiel generesit a Zorobabele,</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>1,13&lt;s0/&gt;Zorobabele generò Abiud, Abiud generò Elìacim, Elìacim generò Azor,</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260118T175720Z" creationid="carmi" creationdate="20260118T175720Z">
-        <seg>1,13&lt;s0/&gt;Zorobabele aiat generadu Abiud, Abiud aiat generadu Elìacim, Elìacim aiat generadu Azor,</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260118T181924Z" creationid="carmi" creationdate="20260118T175720Z">
+        <seg>1,13&lt;s0/&gt;Zorobabele generesit a Abiud, Abiud generesit a Elìacim, Elìacim generesit a Azor,</seg>
       </tuv>
     </tu>
     <tu>
@@ -120,8 +120,8 @@
       <tuv lang="it">
         <seg>1,5&lt;s0/&gt;Salmon generò Booz da Racab, Booz generò Obed da Rut, Obed generò Iesse,</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260118T175619Z" creationid="carmi" creationdate="20260118T175619Z">
-        <seg>1,5&lt;s0/&gt;Salmon generesit a Booz de Racab, Booz generesit a Obed de Rut, Obed generesit a Jesse,</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260118T181705Z" creationid="carmi" creationdate="20260118T175619Z">
+        <seg>1,5&lt;s0/&gt;Salmòn generesit a Booz de Racab, Booz generesit a Obed de Rut, Obed generesit a Jesse,</seg>
       </tuv>
     </tu>
     <tu>
@@ -136,8 +136,8 @@
       <tuv lang="it">
         <seg>1,7&lt;s0/&gt;Salomone generò Roboamo, Roboamo generò Abìa, Abìa generò Asaf,</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260118T180947Z" creationid="carmi" creationdate="20260118T175703Z">
-        <seg>1,7&lt;s0/&gt;Salomon generesit a Roboamu, Roboamu generesit a Abia, Abia aiat generadu Asaf,</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260118T181809Z" creationid="carmi" creationdate="20260118T175703Z">
+        <seg>1,7&lt;s0/&gt;Salomone generesit a Roboamu, Roboamu generesit a Abia, Abia generesit a Asàf,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1643,8 +1643,8 @@
       <tuv lang="it">
         <seg>Davide generò Salomone da quella che era stata la moglie di Urìa,</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260118T181026Z" creationid="carmi" creationdate="20260118T175700Z">
-        <seg>Dàvide generesit a Salomon dae sa chi innantis fit sa muzere de Uria,</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260118T181717Z" creationid="carmi" creationdate="20260118T175700Z">
+        <seg>Dàvide generesit a Salomone dae sa chi innantis fit sa muzere de Uria,</seg>
       </tuv>
     </tu>
     <tu>

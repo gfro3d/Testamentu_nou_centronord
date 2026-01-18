@@ -164,3 +164,5 @@ Abramo	Abramu
 generò	generesit
 Giacobbe	Giacobbu	Giacobbe ?
 Iesse	Jesse
+Salomone	Salomon	Salomonu Salomone
+Urìa	Uria

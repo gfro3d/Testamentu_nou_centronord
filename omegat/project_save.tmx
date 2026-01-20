@@ -946,8 +946,10 @@
       <tuv lang="it">
         <seg>3,3&lt;s0/&gt;Egli è colui che fu annunziato dal profeta Isaia quando disse: Voce di uno che grida nel deserto: Preparate la via del Signore, raddrizzate i suoi sentieri!</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260118T185511Z" creationid="carmi" creationdate="20260118T185511Z">
-        <seg>3,3&lt;s0/&gt;Issu est cussu chi fiat istadu annunziato de su profeta Isaia cando aiat naradu: Boghe de unu chi abbòghinat in su desertu: Ammaniade sa bia de su Sennore, deretadas sas àndalas suas!</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260120T105700Z" creationid="carmi" creationdate="20260118T185511Z">
+        <seg>3,3&lt;s0/&gt;Issu est su chi aiat nuntziadu su profeta Isaia cando aiat naradu: Boghe de unu aboghinende in su desertu: 
+aprontade su caminu de su Sennore, adderetade sas àndalas suas!
+</seg>
       </tuv>
     </tu>
     <tu>

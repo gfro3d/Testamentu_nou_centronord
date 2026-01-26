@@ -640,8 +640,16 @@
       <tuv lang="it">
         <seg>2,12&lt;s0/&gt;Avvertiti poi in sogno di non tornare da Erode, per un'altra strada fecero ritorno al loro paese.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260126T111212Z" creationid="Gianfranco" creationdate="20260126T111212Z">
-        <seg>In su sonnu lis aiant dadu s'avertimentu de non torrare a ue Erode, e colende dae un'àteru caminu si nche fint torrados a sa bidda issoro. </seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260126T111233Z" creationid="Gianfranco" creationdate="20260126T111212Z">
+        <seg>In su sonnu lis aiant dadu s'avertimentu de non torrare a ue Erode, e colende dae un'àteru caminu si nche fint torrados a bidda issoro. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>2,13&lt;s0/&gt;Essi erano appena partiti, quando un angelo del Signore apparve in sogno a Giuseppe e gli disse:&lt;s1/&gt;"Alzati, prendi con te il bambino e sua madre e fuggi in Egitto, e resta là finché non ti&lt;s2/&gt;avvertirò, perché Erode sta cercando il bambino per ucciderlo".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260126T111754Z" creationid="Gianfranco" creationdate="20260126T111754Z">
+        <seg>Comente fint mòvidos, Zosepe s'aiat bidu in su sonnu un'ànghelu de su Sennore e li aiat naradu: "Pesa, piga a su pitzinnu e a sa mama e fughi a Egitu, e abbarra inie finas a cando non ti lu naro deo, ca Erode est chirchende a su pitzinnu pro lu mòrrere".  </seg>
       </tuv>
     </tu>
     <tu>

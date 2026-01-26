@@ -1558,8 +1558,8 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       <tuv lang="it">
         <seg>4,1&lt;s0/&gt;Allora Gesù fu condotto dallo Spirito nel deserto per esser tentato dal diavolo.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260126T115316Z" creationid="Gianfranco" creationdate="20260126T115316Z">
-        <seg>Tando a Gesùs nche l'aiant zutu a ue s'Ispìritu in su desertu pro lu tenteare su dimòniu/diàulu. </seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260126T115326Z" creationid="Gianfranco" creationdate="20260126T115316Z">
+        <seg>Tando a Gesùs nche l'aiant zutu a ue s'Ispìritu in su desertu a lu tenteare su dimòniu/diàulu. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1616,6 +1616,14 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260123T112829Z" creationid="carmi" creationdate="20260120T113156Z">
         <seg>4,25&lt;s0/&gt;E trumas mannas aiant cumintzadu a li pònnere in fatu dae Galilea, dae sa Decàpoli, dae Gerusalemme, dae Giudea e dae s'àter'ala de su Giordanu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>4,2&lt;s0/&gt;E dopo aver digiunato quaranta giorni e quaranta notti, ebbe fame.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260126T115502Z" creationid="Gianfranco" creationdate="20260126T115502Z">
+        <seg>E a pustis de nche àere fatu baranta dies e baranta notes zèunu, l'aiat tocadu sa gana.</seg>
       </tuv>
     </tu>
     <tu>

@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>2,1&lt;s0/&gt;Gesù nacque a Betlemme di Giudea, al tempo del re Erode.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260126T102330Z" creationid="Gianfranco" creationdate="20260126T102330Z">
+        <seg>Gesus est nàschidu in Betlemme de Giudea, cando bi fit su re Erode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>2,1&lt;t0/&gt; Ed entrò di nuovo a Cafarnao dopo alcuni giorni.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20250924T091925Z" creationid="carmi" creationdate="20250912T073226Z">

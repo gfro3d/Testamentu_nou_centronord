@@ -2444,10 +2444,130 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>7,10&lt;s0/&gt;O se gli chiede un pesce, darà una serpe?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260202T091205Z" creationid="carmi" creationdate="20260202T091205Z">
+        <seg>7,10&lt;s0/&gt;O si li pedit unu pische, at a dare una tzerpe?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,11&lt;s0/&gt;Se voi dunque che siete cattivi sapete dare cose buone ai vostri figli, quanto più il Padre&lt;s1/&gt;vostro che è nei cieli darà cose buone a quelli che gliele domandano!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260202T091206Z" creationid="carmi" creationdate="20260202T091206Z">
+        <seg>7,11&lt;s0/&gt;Si bois duncas chi seis malos ischides dare cosas bonas a sos fìgios bostros, cantu prus su Babbu&lt;s1/&gt;bostru chi est in sos chelos at a dare cosas bonas a sos chi bi las pregontant!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,12&lt;s0/&gt;Tutto quanto volete che gli uomini facciano a voi, anche voi fatelo a loro: questa infatti è la Legge ed i Profeti.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260202T091206Z" creationid="carmi" creationdate="20260202T091206Z">
+        <seg>7,12&lt;s0/&gt;Totu cantu cherides chi sos òmines fatzant a bois, fintzas bois faghide·lu a issos: custa difatis est sa Lege e sos Profetas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,13&lt;s0/&gt;Entrate per la porta stretta, perché larga è la porta e spaziosa la via che conduce alla&lt;s1/&gt;perdizione, e molti sono quelli che entrano per essa;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260202T091207Z" creationid="carmi" creationdate="20260202T091207Z">
+        <seg>7,13&lt;s0/&gt;Intradas pro sa ghenna istrinta, ca larga est sa ghenna e ispatziosa sa bia chi giughet a sa&lt;s1/&gt;perditzione, e medas sunt sos chi intrant pro issa;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,14&lt;s0/&gt;quanto stretta invece è la porta e angusta la via che conduce alla vita, e quanto pochi sono quelli che la trovano!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260202T091208Z" creationid="carmi" creationdate="20260202T091208Z">
+        <seg>7,14&lt;s0/&gt;cantu istrinta imbetzes est sa ghenna e angusta sa bia chi giughet a sa vida, e cantu pagos sunt sos chi l'agatant!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,15&lt;s0/&gt;Guardatevi dai falsi profeti che vengono a voi in veste di pecore, ma dentro son lupi rapaci.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260202T091418Z" creationid="carmi" creationdate="20260202T091418Z">
+        <seg>7,15&lt;s0/&gt;Castiade·bos de sos farsos profetas chi benint a bois in beste de berbeghes, ma intro sunt lupos rapaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,1&lt;s0/&gt;Non giudicate, per non essere giudicati;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260202T091158Z" creationid="carmi" creationdate="20260202T091158Z">
+        <seg>7,1&lt;s0/&gt;Non giudicadas, pro no èssere giudicados;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>7,1&lt;t0/&gt; Allora si riunirono attorno a lui i farisei e alcuni degli scribi venuti da Gerusalemme. &lt;t1/&gt;2&lt;t2/&gt; Avendo visto che alcuni dei suoi discepoli prendevano cibo con mani immonde, cioè non lavate - &lt;t3/&gt;3&lt;t4/&gt; i farisei &lt;t5/&gt;infatti e tutti i Giudei non mangiano se non si sono lavate le mani fino al gomito, attenendosi alla tradizione degli antichi, &lt;t6/&gt;4&lt;t7/&gt; e tornando dal mercato non mangiano senza aver fatto le abluzioni, e osservano molte altre cose per tradizione, come lavature di bicchieri, stoviglie e oggetti di rame - &lt;t8/&gt;5&lt;t9/&gt; quei farisei e scribi lo interrogarono: «Perché i tuoi discepoli non si comportano secondo la tradizione degli antichi, ma prendono cibo con mani immonde?». &lt;t10/&gt;6&lt;t11/&gt; Ed egli rispose loro: «Bene ha profetato Isaia di voi, ipocriti, come sta scritto:</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251117T103714Z" creationid="Gianfranco" creationdate="20251006T092307Z">
         <seg>7,1&lt;t0/&gt; Tando fint acudidos a inghìriu suo sos fariseos e unos cantu iscribas bènnidos dae Gerusalemme. &lt;t1/&gt;2&lt;t2/&gt; Bidende chi unos cantu dischentes suos si fint mandighende sos panes a manos brutas, est a nàrrere chentza sabunadas - &lt;t3/&gt;3&lt;t4/&gt; sos fariseos &lt;t5/&gt;difatis e totus sos Giudeos non bi màndigant si non s'ant sabunadu sas manos finas a su cuidale, mantenende su connotu de sos antigos, &lt;t6/&gt;4&lt;t7/&gt; e comente torrant dae su mercadu non bi màndigant chenza si sabunare / purificare, e dant cara a medas àteras cosas pro mantènnere su connotu: a sabunare sas tassas, sos isterzos e sos trastos de ràmene - &lt;t8/&gt;5&lt;t9/&gt; cuddos fariseos e iscribas l'aiant reguntadu: «Proite sos dischentes tuos non si cumportant cunforma a su connotu de sos antigos, ma màndigant cun sas manos brutas?». &lt;t10/&gt;6&lt;t11/&gt;  E issu lis aiat naradu: «Isaia giai at profetizadu bene de bois, ipòcritas, dae chi b'est iscritu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,2&lt;s0/&gt;perché col giudizio con cui giudicate sarete giudicati, e con la misura con la quale misurate sarete misurati.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260202T091159Z" creationid="carmi" creationdate="20260202T091159Z">
+        <seg>7,2&lt;s0/&gt;ca cun su cabu cun cale giuigadas ais a èssere giudicados, e cun sa medida cun sa cale medidas ais a èssere mesurados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,3&lt;s0/&gt;Perché osservi la pagliuzza nell'occhio del tuo fratello, mentre non ti accorgi della trave che hai nel tuo occhio?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260202T091200Z" creationid="carmi" creationdate="20260202T091200Z">
+        <seg>7,3&lt;s0/&gt;Ca osservet sa pagliuzza in s'ogru de su frade tuo, mentras non t'assupris de sa trae chi tenes in s'ogru tuo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,4&lt;s0/&gt;O come potrai dire al tuo fratello: permetti che tolga la pagliuzza dal tuo occhio, mentre&lt;s1/&gt;nell'occhio tuo c'è la trave?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260202T091201Z" creationid="carmi" creationdate="20260202T091201Z">
+        <seg>7,4&lt;s0/&gt;O comente as a pòdere nàrrere a su frade tuo: permites chi doghet sa pagliuzza dae s'ogru tuo, mentras&lt;s1/&gt;in s'ogru tuo b'est sa trae?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,5&lt;s0/&gt;Ipocrita, togli prima la trave dal tuo occhio e poi ci vedrai bene per togliere la pagliuzza&lt;s1/&gt;dall'occhio del tuo fratello.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260202T091201Z" creationid="carmi" creationdate="20260202T091201Z">
+        <seg>7,5&lt;s0/&gt;Ipòcrita, dogas in antis sa trae dae s'ogru tuo e posca nch'as a bìdere bene pro dogare sa pagliuzza&lt;s1/&gt;dae s'ogru de su frade tuo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,6&lt;s0/&gt;Non date le cose sante ai cani e non gettate le vostre perle davanti ai porci, perché non le calpestino con le loro zampe e poi si voltino per sbranarvi.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260202T091202Z" creationid="carmi" creationdate="20260202T091202Z">
+        <seg>7,6&lt;s0/&gt;Non dadas sas cosas santas a sos canes e non bessadas sas perlas bostras dae in antis sos nche pònnere, ca non las apètighent cun sas brancas issoro e posca si bortent pro sbranarvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,7&lt;s0/&gt;Chiedete e vi sarà dato; cercate e troverete; bussate e vi sarà aperto;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260202T091202Z" creationid="carmi" creationdate="20260202T091202Z">
+        <seg>7,7&lt;s0/&gt;Pedides e b'at a èssere dadu; chircades e ais a agatare; bussate e b'at a èssere abertu;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,8&lt;s0/&gt;perché chiunque chiede riceve, e chi cerca trova e a chi bussa sarà aperto.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260202T091203Z" creationid="carmi" creationdate="20260202T091203Z">
+        <seg>7,8&lt;s0/&gt;ca cale si siat pedit retzit, e chie chircat agatat e a chie bussa at a èssere abertu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,9&lt;s0/&gt;Chi tra di voi al figlio che gli chiede un pane darà una pietra?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260202T091204Z" creationid="carmi" creationdate="20260202T091204Z">
+        <seg>7,9&lt;s0/&gt;Chie intre de bois a su fìgiu chi li pedit unu pane at a dare una pedra?</seg>
       </tuv>
     </tu>
     <tu>

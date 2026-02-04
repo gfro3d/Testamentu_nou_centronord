@@ -3014,8 +3014,8 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       <tuv lang="it">
         <seg>8,3&lt;s0/&gt;E Gesù stese la mano e lo toccò dicendo: "Lo voglio, sii sanato".</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260204T120348Z" creationid="Gianfranco" creationdate="20260204T120348Z">
-        <seg>8,3&lt;s0/&gt;E Gesus l'aiat naradu: "Lo voglio, sii sanato".</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260204T122851Z" creationid="Gianfranco" creationdate="20260204T120348Z">
+        <seg>8,3&lt;s0/&gt;E Gesus l'aiat naradu: "Zai cherzo, sanadu sias".</seg>
       </tuv>
     </tu>
     <tu>
@@ -3784,6 +3784,14 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251104T095359Z" creationid="Gianfranco" creationdate="20251006T072610Z">
         <seg>E issu lis pariat iscandalosu. &lt;t5/&gt;4&lt;t6/&gt; Ma Gesùs lis aiat naradu: «Unu profeta no est minispretziadu si no in pàtria sua, in mesu de sos parentes suos e in domo sua». &lt;t7/&gt;5&lt;t8/&gt; E inie non aiat pòdidu pònnere in atu perunu meràculu, ma aiat impostu petzi sas manos a pagos malàidos e los aiat sanados. &lt;t9/&gt;6&lt;t10/&gt; E fit meravizadu ca non bi crediant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>E subito la sua lebbra&lt;s1/&gt;scomparve.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260204T123011Z" creationid="Gianfranco" creationdate="20260204T123011Z">
+        <seg>E deretu sa lebbra&lt;s1/&gt;nche li fit passada.</seg>
       </tuv>
     </tu>
     <tu>

@@ -280,16 +280,16 @@
       <tuv lang="it">
         <seg>10,29&lt;s0/&gt;Due passeri non si vendono forse per un soldo?</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260205T090334Z" creationid="carmi" creationdate="20260205T090334Z">
-        <seg>10,29&lt;s0/&gt;Due furfuràrgios non si bendent fortzis pro unu soddu?</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260205T171203Z" creationid="carmi" creationdate="20260205T090334Z">
+        <seg>10,29&lt;s0/&gt;Ello due furfuràrzos non si bendent a unu soddu?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>10,30&lt;s0/&gt;Quanto a voi, perfino i capelli del vostro capo sono tutti contati;</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260205T090335Z" creationid="carmi" creationdate="20260205T090335Z">
-        <seg>10,30&lt;s0/&gt;Cantu a bois, peri sos pilos de su capu bostru sunt totus contados;</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260205T171501Z" creationid="carmi" creationdate="20260205T090335Z">
+        <seg>10,30&lt;s0/&gt;E bois puru, fintzas sos pilos in conca bostra faghet a los contare;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4398,8 +4398,8 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       <tuv lang="it">
         <seg>Eppure neanche uno di essi cadrà a terra senza che il Padre vostro lo voglia.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260205T090334Z" creationid="carmi" creationdate="20260205T090334Z">
-        <seg>Epuru mancu unu de issos at a rùere a terra sena chi su Babbu bostru lu chèrgiat.</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260205T171305Z" creationid="carmi" creationdate="20260205T090334Z">
+        <seg>Epuru / E mancari gasi manc'unu de issos nch'at a rùere a terra sena chi Babbu bostru lu cherzat.</seg>
       </tuv>
     </tu>
     <tu>

@@ -288,16 +288,16 @@
       <tuv lang="it">
         <seg>10,30&lt;s0/&gt;Quanto a voi, perfino i capelli del vostro capo sono tutti contati;</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260205T171501Z" creationid="carmi" creationdate="20260205T090335Z">
-        <seg>10,30&lt;s0/&gt;E bois puru, fintzas sos pilos in conca bostra faghet a los contare;</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260207T165122Z" creationid="carmi" creationdate="20260205T090335Z">
+        <seg>10,30&lt;s0/&gt;(E bois puru), fintzas sos pilos in conca bostra faghet a los contare;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>10,31&lt;s0/&gt;non abbiate dunque timore: voi valete più di molti passeri!</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260205T171547Z" creationid="carmi" creationdate="20260205T090336Z">
-        <seg>10,31&lt;s0/&gt;non tenzais timoria, duncas: bois bos balides de prus de medas furfuràrgios!</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260207T165157Z" creationid="carmi" creationdate="20260205T090336Z">
+        <seg>10,31&lt;s0/&gt;non tenzedas timoria / non timedas, duncas: bois bos balides de prus de meda(s)   furfuràrgios!</seg>
       </tuv>
     </tu>
     <tu>
@@ -312,8 +312,8 @@
       <tuv lang="it">
         <seg>10,33&lt;s0/&gt;chi invece mi rinnegherà davanti agli uomini, anch'io lo rinnegherò davanti al Padre mio che è nei cieli.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260205T171655Z" creationid="carmi" creationdate="20260205T090337Z">
-        <seg>10,33&lt;s0/&gt;chie imbetzes m'at a rinnegare cara a sos òmines, gasi etotu deo l'apo a rinnegare dae cara a Babbu meu chi est in sos chelos.</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260207T165243Z" creationid="carmi" creationdate="20260205T090337Z">
+        <seg>10,33&lt;s0/&gt;chie imbetzes m'at a dennegare cara a sos òmines, gasi etotu deo l'apo a dennegare dae cara a Babbu meu chi est in sos chelos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4398,8 +4398,8 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       <tuv lang="it">
         <seg>Eppure neanche uno di essi cadrà a terra senza che il Padre vostro lo voglia.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260205T171305Z" creationid="carmi" creationdate="20260205T090334Z">
-        <seg>Epuru / E mancari gasi manc'unu de issos nch'at a rùere a terra sena chi Babbu bostru lu cherzat.</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260207T165103Z" creationid="carmi" creationdate="20260205T090334Z">
+        <seg>Epuru / E mancari gasi manc'unu de issos nch'at a rùere a terra sena chi / si non ca Babbu bostru lu cherzat / cheret.</seg>
       </tuv>
     </tu>
     <tu>

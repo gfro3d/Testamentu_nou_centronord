@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10,3&lt;s0/&gt;Filippo e Bartolomeo, Tommaso e Matteo il pubblicano, Giacomo di Alfeo e Taddeo,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260210T125317Z" creationid="Gianfranco" creationdate="20260210T125317Z">
+        <seg>10,3&lt;s0/&gt;Tilipu e Bàrtulu, Tomasu e Mateu su publicanu, Giagu de Alfeu e Taddeu,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10,40&lt;s0/&gt;Chi accoglie voi accoglie me, e chi accoglie me accoglie colui che mi ha mandato.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260207T165441Z" creationid="carmi" creationdate="20260205T090342Z">

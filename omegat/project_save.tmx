@@ -424,8 +424,8 @@
       <tuv lang="it">
         <seg>11,10&lt;s0/&gt;Egli è colui, del quale sta scritto: Ecco, io mando davanti a te il mio messaggero che preparerà la tua via davanti a te.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260205T090403Z" creationid="carmi" creationdate="20260205T090403Z">
-        <seg>11,10&lt;s0/&gt;Issu est cussu, de su cale istat iscritu: Aco', deo mando in dae in antis tuo su missu meu chi at a ammaniare sa bia tua in dae in antis tuo.</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260210T092349Z" creationid="carmi" creationdate="20260205T090403Z">
+        <seg>11,10&lt;s0/&gt;Issu est cussu, pro chi b'est iscritu: Mirade, deo mando a dae in antis tuo su missu meu chi t'at a aprontare su caminu in dae in antis tuo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -560,8 +560,8 @@
       <tuv lang="it">
         <seg>11,9&lt;s0/&gt;E allora, che cosa siete andati a vedere?</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260205T090401Z" creationid="carmi" creationdate="20260205T090401Z">
-        <seg>11,9&lt;s0/&gt;E tando, ite seis andados a bìdere?</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260210T092133Z" creationid="carmi" creationdate="20260205T090401Z">
+        <seg>11,9&lt;s0/&gt;E tando, ite sezis andados a bìdere?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3886,8 +3886,8 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       <tuv lang="it">
         <seg>Coloro che portano&lt;s1/&gt;morbide vesti stanno nei palazzi dei re!</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260205T090400Z" creationid="carmi" creationdate="20260205T090400Z">
-        <seg>Cussos chi giughent&lt;s1/&gt;moddes bestes istant in sos palatzos de sos res!</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260210T092124Z" creationid="carmi" creationdate="20260205T090400Z">
+        <seg>Sos chi giughent postas&lt;s1/&gt;bestes moddes / foddosas istant in sos palatzos de sos res!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5183,8 +5183,8 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       <tuv lang="it">
         <seg>Sì, vi dico, anche più di un profeta.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260205T090402Z" creationid="carmi" creationdate="20260205T090402Z">
-        <seg>Eja, bi naro, fintzas prus de unu profeta.</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260210T092200Z" creationid="carmi" creationdate="20260205T090402Z">
+        <seg>Eja, bos naro, de prus puru de unu profeta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5223,16 +5223,16 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       <tuv lang="it">
         <seg>Un profeta?</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260205T090402Z" creationid="carmi" creationdate="20260205T090402Z">
-        <seg>Unu profeta?</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260210T092143Z" creationid="carmi" creationdate="20260205T090402Z">
+        <seg>A unu profeta?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>Un uomo avvolto in morbide vesti?</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260210T091915Z" creationid="carmi" creationdate="20260210T091915Z">
-        <seg>Un'òmine postu de bestes moddes?</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260210T092104Z" creationid="carmi" creationdate="20260210T091915Z">
+        <seg>Un'òmine postu de bestes moddes / foddosas?</seg>
       </tuv>
     </tu>
     <tu>

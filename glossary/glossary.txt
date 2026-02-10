@@ -196,3 +196,5 @@ Gaderèni	Gadarenos
 indemoniati	abbundorados	indemoniados
 Bartolomeo	Bàrtulu	Bèrtulu
 Samaritani	Samaritano
+Sòdoma	Sòdoma
+Gomorra	Gomorra

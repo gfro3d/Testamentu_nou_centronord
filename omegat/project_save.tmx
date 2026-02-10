@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10,8&lt;s0/&gt;Guarite gli infermi, risuscitate i morti, sanate i lebbrosi, cacciate i demòni.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260210T130922Z" creationid="Gianfranco" creationdate="20260210T130922Z">
+        <seg>10,8&lt;s0/&gt;Sanade a sos malàidos, torrade sos mortos a bida, sanade sos lebbrosos, ispatzade/bogade sos dimònios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10&lt;t0/&gt; Allora Giuda Iscariota, uno dei Dodici, si recò dai sommi sacerdoti, per consegnare loro Gesù. &lt;t1/&gt;11&lt;t2/&gt; Quelli all'udirlo si rallegrarono e promisero di dargli denaro.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251203T085314Z" creationid="carmi" creationdate="20251106T105717Z">

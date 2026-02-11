@@ -896,16 +896,16 @@
       <tuv lang="it">
         <seg>12,41&lt;s0/&gt;Quelli di Nìnive si alzeranno a giudicare questa generazione e la condanneranno, perché essi si convertirono alla predicazione di Giona.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260211T172520Z" creationid="carmi" creationdate="20260210T105147Z">
-        <seg>12,41&lt;s0/&gt;Sos de Nìnive s'ant a pesare a zuigare a custa generatzione e l'ant a cundennare, ca issos si fint cunvertidos a sa preigadura de Giona.</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260211T172650Z" creationid="carmi" creationdate="20260210T105147Z">
+        <seg>12,41&lt;s0/&gt;Sos de Nìnive s'ant a pesare a zuigare a custa generatzione e l'ant a cundennare, ca issos si fint cunvertidos a sa preigadura de / cando lis aiat preigadu Giona.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>12,42&lt;s0/&gt;La regina del sud si leverà a giudicare questa generazione e la condannerà, perché essa venne dall'estremità della terra per ascoltare la sapienza di Salomone; ecco, ora qui c'è più di Salomone!</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260210T105149Z" creationid="carmi" creationdate="20260210T105149Z">
-        <seg>12,42&lt;s0/&gt;Sa reina de su sud s'at a catzare a giudicare custa generatzione e l'at a cundennare, ca issa fiat bènnidu dae s'estremidade de sa terra pro ascurtare sa sapièntzia de Salomonas; mi', como inoghe b'at prus de Salomonas!</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260211T173258Z" creationid="carmi" creationdate="20260210T105149Z">
+        <seg>12,42&lt;s0/&gt;Sa reina de su sud si nd'at a pesare a zuigare a custa generatzione e l'at a cundennare, ca issa fit arribbada dae su trèmene / cabu de sa terra pro ascurtare sa sabiesa de Salomone; e mi', prus de Salomone b'at inoghe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4830,8 +4830,8 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       <tuv lang="it">
         <seg>Ecco, ora qui c'è più di Giona!</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260211T172635Z" creationid="carmi" creationdate="20260210T105148Z">
-        <seg>  Mi', como inoghe b'at prus de Giona!</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260211T172755Z" creationid="carmi" creationdate="20260210T105148Z">
+        <seg>E mi', prus de Giona b'at inoghe!</seg>
       </tuv>
     </tu>
     <tu>

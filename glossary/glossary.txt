@@ -25,7 +25,7 @@ Giacomo	Giagu
 Zebedèo	Zebedeu
 Ed	E
 scribi	mastros de leze	iscribas
-immondo	malu	titule
+immondo	malu (evil)	titule (unclean)
 Nazareno	Nazarenu
 straziandolo	pessichinde·lu	trumetende·lu
 scacciò	nch'aiat bogadu	aiat zagaradu

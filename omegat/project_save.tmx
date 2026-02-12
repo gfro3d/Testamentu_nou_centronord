@@ -664,8 +664,16 @@
       <tuv lang="it">
         <seg>11,18&lt;s0/&gt;È venuto Giovanni, che non mangia e non beve, e hanno detto: Ha un demonio.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260212T092748Z" creationid="Gianfranco" creationdate="20260212T092748Z">
-        <seg>11,18&lt;s0/&gt;Est bènnidu Giuanne, non pro mandigare nen pro bìvere, e aiant naradu: zughet unu dimòniu/est indemoniadu.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260212T095120Z" creationid="Gianfranco" creationdate="20260212T092748Z">
+        <seg>11,18&lt;s0/&gt;Est bènnidu Giuanne, no a mandigare nè a bìvere, e aiant naradu: zughet unu dimòniu/est indemoniadu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,19&lt;s0/&gt;È venuto il Figlio dell'uomo, che mangia e beve, e dicono: Ecco un mangione e un beone, amico dei pubblicani e dei peccatori.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260212T095723Z" creationid="Gianfranco" creationdate="20260212T095059Z">
+        <seg>11,19&lt;s0/&gt;Est bènnidu su Fizu de s'òmine, no a mandigare nen a bìvere, e aiant naradu: mi a unu (òmine) cane de isterzu/mandigantinu e coturone, amigu de sos publicanos e de sos pecadores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,6 +690,14 @@
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251112T163017Z" creationid="Gianfranco" creationdate="20251025T151624Z">
         <seg>11,1&lt;t0/&gt;Cando nche fint a curtzu a Gerusalemme, conca a Bètfage e Betània, in s'oru de su Monte de sas Olias, aiat mandadu a duos dischentes suos &lt;t1/&gt;2&lt;t2/&gt; e lis aiat naradu: «Achirrade a sa bidda chi tenides in dae in antis, e comente intrades deretu azis a agatare unu poleddu presu, chi est galu a si lu sètzere nemos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,20&lt;s0/&gt;Allora si mise a rimproverare le città nelle quali aveva compiuto il maggior numero di miracoli, perché non si erano convertite:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260212T100256Z" creationid="Gianfranco" creationdate="20260212T100256Z">
+        <seg>11,20&lt;s0/&gt;Tando si fit postu a brigare a sas tzitades ue nch'aiat fatu medas de sos meràculos suos, ca non si fint cunvertidas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5304,6 +5320,14 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251128T100136Z" creationid="carmi" creationdate="20251106T105552Z">
         <seg>Pro more peroe de sos eletos chi s'at isseberadu las at incurtziadas cussas dies. &lt;t19/&gt;21&lt;t20/&gt; Tando, si calicunu bos at a nàrrere: "Mirade, su Cristu est inoghe, mirade, est in cue", non bi crededas; &lt;t21/&gt;22&lt;t22/&gt; ca  messias farsos e farsos profetas ant a essire a campu e ant a fàghere sinnos e ispantos pro trampare, si at a fàghere , a sos eletos puru. &lt;t23/&gt;23&lt;t24/&gt; Bois peroe istade a s'atenta!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Ma alla sapienza è stata resa giustizia dalle sue opere".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260212T095858Z" creationid="Gianfranco" creationdate="20260212T095858Z">
+        <seg>Ma a sa sabiesa li ant fatu zustìtzia sas òperas suas".</seg>
       </tuv>
     </tu>
     <tu>

@@ -960,8 +960,8 @@
       <tuv lang="it">
         <seg>12,45&lt;s0/&gt;Allora va, si prende sette altri spiriti peggiori ed entra a prendervi dimora; e la nuova&lt;s1/&gt;condizione di quell'uomo diventa peggiore della prima.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260212T084048Z" creationid="carmi" creationdate="20260210T105152Z">
-        <seg>12,45&lt;s0/&gt;Tando andat, si pigat in fatu àteros sete ispìritos peus de issu e intrat a istare inie; e sa cunditzione&lt;s1/&gt;noa de cuss'òmine est peus de sa de in antis .</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T095748Z" creationid="carmi" creationdate="20260210T105152Z">
+        <seg>12,45&lt;s0/&gt;Tando andat, si pigat in fatu àteros sete ispìritos peus de issu e intrat a istare inie; e sa cunditzione&lt;s1/&gt;noa / s'istadu nou de cuss'òmine est peus de sa de in antis .</seg>
       </tuv>
     </tu>
     <tu>
@@ -976,8 +976,8 @@
       <tuv lang="it">
         <seg>12,47&lt;s0/&gt;Qualcuno gli disse: "Ecco di fuori tua madre e i tuoi fratelli che vogliono parlarti".</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260212T084356Z" creationid="carmi" creationdate="20260210T105154Z">
-        <seg>12,47&lt;s0/&gt;Calicunu l'aiat naradu: "Mi' in foras a mama tua e a frades tuos chi ti cherent faeddare".</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T100939Z" creationid="carmi" creationdate="20260210T105154Z">
+        <seg>12,47&lt;s0/&gt;Calicunu li aiat naradu: "Mi' in foras a mama tua e a frades tuos chi ti cherent faeddare".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1054,10 +1054,242 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>13,10&lt;s0/&gt;Gli si avvicinarono allora i discepoli e gli dissero: "Perché parli loro in parabole?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101019Z" creationid="carmi" creationdate="20260212T101019Z">
+        <seg>13,10&lt;s0/&gt;Li si fiant acurtziados tando sos dischentes e l'aiant naradu: "Ca lis faeddet in paràbolas?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,11&lt;s0/&gt;Egli rispose: "Perché a voi è dato di conoscere i misteri del regno dei cieli, ma a loro non è dato.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101019Z" creationid="carmi" creationdate="20260212T101019Z">
+        <seg>13,11&lt;s0/&gt;Issu aiat rispòndidu: "Ca a bois est dadu de connòschere sos arcanos de su rennu de sos chelos, ma a issos no est dadu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,12&lt;s0/&gt;Così a chi ha sarà dato e sarà nell'abbondanza; e a chi non ha sarà tolto anche quello che ha.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101020Z" creationid="carmi" creationdate="20260212T101020Z">
+        <seg>13,12&lt;s0/&gt;Gasi a chie tenet at a èssere dadu e at a èssere in sa bundàntzia; e a chie non tenet at a èssere dogadu fintzas su chi tenet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,13&lt;s0/&gt;Per questo parlo loro in parabole: perché pur vedendo non vedono, e pur udendo non odono e non comprendono.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101021Z" creationid="carmi" creationdate="20260212T101021Z">
+        <seg>13,13&lt;s0/&gt;Pro custu lis faeddo in paràbolas: ca puru bidende non bident, e puru intendende no intendent e non cumprendent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,14&lt;s0/&gt;E così si adempie per loro la profezia di Isaia che dice: Voi udrete, ma non comprenderete,&lt;s1/&gt;guarderete, ma non vedrete.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101022Z" creationid="carmi" creationdate="20260212T101022Z">
+        <seg>13,14&lt;s0/&gt;E gasi s'acumprit pro issos sa profetzia de Isaia chi narat: Bois udrete, ma non ais a cumprèndere,&lt;s1/&gt;ais a castiare, ma non ais a bìdere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,15&lt;s0/&gt;Perché il cuore di questo popolo si è indurito, son diventati duri di orecchi, e hanno chiuso gli occhi, per non vedere con gli occhi, non sentire con gli orecchi e non intendere con il cuore e convertirsi, e io li risani.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101022Z" creationid="carmi" creationdate="20260212T101022Z">
+        <seg>13,15&lt;s0/&gt;Ca su coro de custu pòpulu s'est tostadu, sunt devènnidos duret de origras, e ant serradu sos ogros, pro non bìdere cun sos ogros, no intèndere cun sas origras e non cumprèndere cun su coro e si cunvertire, e deo los sanet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,16&lt;s0/&gt;Ma beati i vostri occhi perché vedono e i vostri orecchi perché sentono.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101023Z" creationid="carmi" creationdate="20260212T101023Z">
+        <seg>13,16&lt;s0/&gt;Ma biados sos ogros bostros ca bident e sas origras bostras ca intendent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,17&lt;s0/&gt;In verità vi dico: molti profeti e giusti hanno desiderato vedere ciò che voi vedete, e non lo videro, e ascoltare ciò che voi ascoltate, e non l'udirono!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101023Z" creationid="carmi" creationdate="20260212T101023Z">
+        <seg>13,17&lt;s0/&gt;In veridade bi naro: medas profetas e giustos ant disigiadu bìdere custu chi bois bidide, e no l'aiant bidu, e ascurtare custu chi bois ascurtade, e no l'aiant intesu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,18&lt;s0/&gt;Voi dunque intendete la parabola del seminatore:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101024Z" creationid="carmi" creationdate="20260212T101024Z">
+        <seg>13,18&lt;s0/&gt;Bois duncas cumprendides sa paràbola de su seminatore:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,19&lt;s0/&gt;tutte le volte che uno ascolta la parola del regno e non la comprende, viene il maligno e ruba ciò che è stato seminato nel suo cuore: questo è il seme seminato lungo la strada.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101025Z" creationid="carmi" creationdate="20260212T101025Z">
+        <seg>13,19&lt;s0/&gt;totu sas bias chi un'ascurtat sa paràula de su rennu e no la cumprendet, benit su malignu e furat custu chi est istadu semenadu in su coro suo: custu est su sèmene semenadu longu su caminu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,1&lt;s0/&gt;Quel giorno Gesù uscì di casa e si sedette in riva al mare.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T102836Z" creationid="carmi" creationdate="20260212T100942Z">
+        <seg>13,1&lt;s0/&gt;Cussa / Sa die Gesùs fit essidu dae domo e si fit sètzidu in s'oru de mare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>13,1&lt;t0/&gt; Mentre usciva dal tempio, un discepolo gli disse: «Maestro, guarda che pietre e che costruzioni!». &lt;t1/&gt;2&lt;t2/&gt; Gesù gli rispose: «Vedi queste grandi costruzioni?</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251128T142523Z" creationid="carmi" creationdate="20251106T105545Z">
         <seg>13,1&lt;t0/&gt; Essende·nche dae su tèmpiu, unu dischente l'aiat naradu: «o su Mastru, mira ite pedras e ite fràigos!». &lt;t1/&gt;2&lt;t2/&gt; Gesùs li aiat naradu: «Bidende los ses custos fràigos mannos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,20&lt;s0/&gt;Quello che è stato seminato nel terreno sassoso è l'uomo che ascolta la parola e subito&lt;s1/&gt;l'accoglie con gioia,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101025Z" creationid="carmi" creationdate="20260212T101025Z">
+        <seg>13,20&lt;s0/&gt;Su chi est istadu semenadu in su terrinu sassosu est s'òmine chi ascurtat sa paràula e deretu&lt;s1/&gt;l'acollit cun ditza,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,21&lt;s0/&gt;ma non ha radice in sé ed è incostante, sicché appena giunge una tribolazione o persecuzione a causa della parola, egli ne resta scandalizzato.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101026Z" creationid="carmi" creationdate="20260212T101026Z">
+        <seg>13,21&lt;s0/&gt;ma non tenet raighina in sese e est incostante, gasi chi in pessu chi lompet una tribolazione o persecutzione a càusa de sa paràula, issu nde restat iscandalizadu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,22&lt;s0/&gt;Quello seminato tra le spine è colui che ascolta la parola, ma la preoccupazione del mondo e l'inganno della ricchezza soffocano la parola ed essa non dà frutto.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101027Z" creationid="carmi" creationdate="20260212T101027Z">
+        <seg>13,22&lt;s0/&gt;Cuddu semenadu intre sas ispinas est cussu chi ascurtat sa paràula, ma su pessamentu de su mundu e sa trassa de sa richesa isfiadant sa paràula e issa non dat frutu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,23&lt;s0/&gt;Quello seminato nella terra buona è colui che ascolta la parola e la comprende; questi dà frutto e produce ora il cento, ora il sessanta, ora il trenta".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101027Z" creationid="carmi" creationdate="20260212T101027Z">
+        <seg>13,23&lt;s0/&gt;Cuddu semenadu in sa terra bona est cussu chi ascurtat sa paràula e la cumprendet; custos dat frutu e produet como su chentu, como su sessanta, como su trinta".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,24&lt;s0/&gt;Un'altra parabola espose loro così: "Il regno dei cieli si può paragonare a un uomo che ha&lt;s1/&gt;seminato del buon seme nel suo campo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101028Z" creationid="carmi" creationdate="20260212T101028Z">
+        <seg>13,24&lt;s0/&gt;Una àtera paràbola lis aiat espostu gasi: "Su rennu de sos chelos faghet a paragonare a un'òmine chi at&lt;s1/&gt;semenadu de su bonu sèmene in su campu suo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,25&lt;s0/&gt;Ma mentre tutti dormivano venne il suo nemico, seminò zizzania in mezzo al grano e se ne andò.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101028Z" creationid="carmi" creationdate="20260212T101028Z">
+        <seg>13,25&lt;s0/&gt;Ma mentras totus dormiant fiat bènnidu s'inimigu suo, aiat semenadu zizzania in mesu de su trigu e si nche fiat andadu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,26&lt;s0/&gt;Quando poi la messe fiorì e fece frutto, ecco apparve anche la zizzania.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101029Z" creationid="carmi" creationdate="20260212T101029Z">
+        <seg>13,26&lt;s0/&gt;Cando posca sa missas aiat froridu e aiat fatu frutu, aco' aiat apartu fintzas sa zizzania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,27&lt;s0/&gt;Allora i servi andarono dal padrone di casa e gli dissero: Padrone, non hai seminato del buon seme nel tuo campo?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101030Z" creationid="carmi" creationdate="20260212T101030Z">
+        <seg>13,27&lt;s0/&gt;Tando sos tzeracos fiant andados in su mere de domo e l'aiant naradu: Meres, no as semenadu de su bonu sèmene in su campu tuo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,28&lt;s0/&gt;Ed egli rispose loro: Un nemico ha fatto questo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101032Z" creationid="carmi" creationdate="20260212T101032Z">
+        <seg>13,28&lt;s0/&gt;Ed issu lis aiat rispòndidu: Un'inimigu at fatu custu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,29&lt;s0/&gt;No, rispose, perché non succeda che, cogliendo la zizzania, con essa sradichiate anche il grano.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T102739Z" creationid="carmi" creationdate="20260212T102739Z">
+        <seg>13,29&lt;s0/&gt;No, aiat rispòndidu, ca non sutzedat chi, collende sa zizzania, cun issa irraighineis fintzas su trigu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,2&lt;s0/&gt;Si cominciò a raccogliere attorno a lui tanta folla che dovette salire su una barca; là si pose a sedere, mentre tutta la folla rimaneva sulla spiaggia.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T103307Z" creationid="carmi" creationdate="20260212T101007Z">
+        <seg>13,2&lt;s0/&gt;B'aiat cumintzadu a acudire a inghìriu suo gasi zente meda chi li fit tocadu a nch'artziare a una barca; in cue si fiat postu a sètzere, e totu sa truma abarraiat in sa marina / in s'oru de mare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,3&lt;s0/&gt;Egli parlò loro di molte cose in parabole.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101008Z" creationid="carmi" creationdate="20260212T101008Z">
+        <seg>13,3&lt;s0/&gt;Issu lis aiat faeddadu de medas cosas in paràbolas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,4&lt;s0/&gt;E mentre seminava una parte del seme cadde sulla strada e vennero gli uccelli e la divorarono.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101014Z" creationid="carmi" creationdate="20260212T101014Z">
+        <seg>13,4&lt;s0/&gt;E mentras semenaiat una parte de su sèmene aiat rùidu subra de su caminu e fiant bènnidos sos pugiones e l'aiant devoradu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,5&lt;s0/&gt;Un'altra parte cadde in luogo sassoso, dove non c'era molta terra; subito germogliò, perché il&lt;s1/&gt;terreno non era profondo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101015Z" creationid="carmi" creationdate="20260212T101015Z">
+        <seg>13,5&lt;s0/&gt;Una àtera parte aiat rùidu in logu sassosu, ue non b'aiat meda terra; deretu aiat sannidu, ca su&lt;s1/&gt;terrinu non fiat profundu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,6&lt;s0/&gt;Ma, spuntato il sole, restò bruciata e non avendo radici si seccò.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101016Z" creationid="carmi" creationdate="20260212T101016Z">
+        <seg>13,6&lt;s0/&gt;Ma, ispuntadu su sole, fiat restadu brusiada e non tenende raighinas si fiat sicada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,7&lt;s0/&gt;Un'altra parte cadde sulle spine e le spine crebbero e la soffocarono.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101017Z" creationid="carmi" creationdate="20260212T101017Z">
+        <seg>13,7&lt;s0/&gt;Una àtera parte aiat rùidu subra de sas ispinas e sas ispinas fiant crèschidas e l'aiant isfiadadu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,8&lt;s0/&gt;Un'altra parte cadde sulla terra buona e diede frutto, dove il cento, dove il sessanta, dove il trenta.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101017Z" creationid="carmi" creationdate="20260212T101017Z">
+        <seg>13,8&lt;s0/&gt;Una àtera parte aiat rùidu subra de sa terra bona e aiat dadu frutu, ue su chentu, ue su sessanta, ue su trinta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,9&lt;s0/&gt;Chi ha orecchi intenda".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101018Z" creationid="carmi" creationdate="20260212T101018Z">
+        <seg>13,9&lt;s0/&gt;Chie tenet origras cumprendat".</seg>
       </tuv>
     </tu>
     <tu>
@@ -4492,6 +4724,14 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Da dove viene dunque la zizzania?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101030Z" creationid="carmi" creationdate="20260212T101030Z">
+        <seg>Dae ue benit duncas sa zizzania?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Davide generò Salomone da quella che era stata la moglie di Urìa,</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260129T154652Z" creationid="carmi" creationdate="20260118T175700Z">
@@ -4588,6 +4828,14 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>E disse: "Ecco, il seminatore uscì a seminare.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101013Z" creationid="carmi" creationdate="20260212T101013Z">
+        <seg>E aiat naradu: "Aco', su seminatore fiat essidu a semenare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>E dopo aver guardato ogni cosa attorno, essendo ormai l'ora tarda, uscì con i Dodici diretto a Betània.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251112T155954Z" creationid="Gianfranco" creationdate="20251025T160623Z">
@@ -4616,6 +4864,14 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251025T161941Z" creationid="Gianfranco" creationdate="20251025T161941Z">
         <seg>E sos dischentes aiant intesu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>E i servi gli dissero: Vuoi dunque che andiamo a raccoglierla?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260212T101032Z" creationid="carmi" creationdate="20260212T101032Z">
+        <seg>E sos tzeracos l'aiant naradu: Cheres duncas chi andamus a la tòddere?</seg>
       </tuv>
     </tu>
     <tu>

@@ -1274,8 +1274,8 @@
       <tuv lang="it">
         <seg>13,26&lt;s0/&gt;Quando poi la messe fiorì e fece frutto, ecco apparve anche la zizzania.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260213T114733Z" creationid="carmi" creationdate="20260212T101029Z">
-        <seg>13,26&lt;s0/&gt;Cando su laore / trigu aiat froridu e aiat bogadu frutu, mi' (essinde)  sa minnisia puru.</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115425Z" creationid="carmi" creationdate="20260212T101029Z">
+        <seg>13,26&lt;s0/&gt;Cando su laore / trigu aiat froridu e aiat bogadu frutu / aiat bogadu frore e frutu, mi' (essinde)  sa minnisia puru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1408,10 +1408,154 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>14,19&lt;s0/&gt;E dopo aver ordinato alla folla di sedersi sull'erba, prese i cinque pani e i due pesci e, alzati gli occhi al cielo, pronunziò la benedizione, spezzò i pani e li diede ai discepoli e i discepoli li distribuirono alla folla.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115213Z" creationid="carmi" creationdate="20260213T115213Z">
+        <seg>14,19&lt;s0/&gt;E a pustis de àere ordinadu a sa truma de si sèere subra de s'erba, aiat pigadu sos chimbe panes e sos duos pisches e, pesados sos ogros a su chelu, pronunziò sa beneditzione, aiat truncadu sos panes e los aiat dadu a sos dischentes e sos dischentes los aiant distribuidu a sa truma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>14,1&lt;t0/&gt; Mancavano intanto due giorni alla Pasqua e agli Azzimi e i sommi sacerdoti e gli scribi cercavano il modo di impadronirsi di lui con inganno, per ucciderlo. &lt;t1/&gt;2&lt;t2/&gt; Dicevano infatti: «Non durante la festa, perché non succeda un tumulto di popolo».</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251202T085233Z" creationid="carmi" creationdate="20251106T105700Z">
         <seg>14,1&lt;t0/&gt; E mancande duas dies a sa Pasca e a sa festa de sos Panes Àzimos, sos  satzerdotes mazores e sos iscribas fint in chirca de lu tènnere a traitoria pro lu mòrrere. &lt;t1/&gt;2&lt;t2/&gt; Ca naraiant: «In die de festa nono, chi non nos si ziret sa zente».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,20&lt;s0/&gt;Tutti mangiarono e furono saziati; e portarono via dodici ceste piene di pezzi avanzati.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115214Z" creationid="carmi" creationdate="20260213T115214Z">
+        <seg>14,20&lt;s0/&gt;Totus aiant mandigadu e fiant istados saziati; e aiant giutu bia dòighi cofas prenas de cantos avantzados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,21&lt;s0/&gt;Quelli che avevano mangiato erano circa cinquemila uomini, senza contare le donne e i bambini.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115214Z" creationid="carmi" creationdate="20260213T115214Z">
+        <seg>14,21&lt;s0/&gt;Sos chi aiant mandigadu fiant unos chimbe mìgia òmines, sena contare sas fèminas e sos pipios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,22&lt;s0/&gt;Subito dopo ordinò ai discepoli di salire sulla barca e di precederlo sull'altra sponda, mentre egli avrebbe congedato la folla.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115215Z" creationid="carmi" creationdate="20260213T115215Z">
+        <seg>14,22&lt;s0/&gt;Deretu a pustis aiat ordinadu a sos dischentes de artziare subra de sa barca e de lu pretzèdere subra de s'àtera isponda, mentras issu diat àere cungedadu sa truma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,23&lt;s0/&gt;Congedata la folla, salì sul monte, solo, a pregare.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115216Z" creationid="carmi" creationdate="20260213T115216Z">
+        <seg>14,23&lt;s0/&gt;Cungedada sa truma, fiat artziadu subra de su monte, petzi, a pregare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,24&lt;s0/&gt;La barca intanto distava già qualche miglio da terra ed era agitata dalle onde, a causa del vento contrario.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115217Z" creationid="carmi" creationdate="20260213T115217Z">
+        <seg>14,24&lt;s0/&gt;Sa barca peristantu fiat a largu giai carchi mìlliu de terra e fiat agiolotada dae sas undas, a càusa de su bentu contràriu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,25&lt;s0/&gt;Verso la fine della notte egli venne verso di loro camminando sul mare.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115217Z" creationid="carmi" creationdate="20260213T115217Z">
+        <seg>14,25&lt;s0/&gt;Cara a sa fine de sa note issu fiat bènnida versu de issos caminende subra de su mare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,26&lt;s0/&gt;I discepoli, nel vederlo camminare sul mare, furono turbati e dissero: "È un fantasma" e si misero a gridare dalla paura.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115218Z" creationid="carmi" creationdate="20260213T115218Z">
+        <seg>14,26&lt;s0/&gt;sos de I dischentes, in su de lu bìdere caminare subra de su mare, fiant istados tribulados e aiant naradu: "Est unu pantasma" e si fiant postos a abboghinare de sa timoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,27&lt;s0/&gt;Ma subito Gesù parlò loro: "Coraggio, sono io, non abbiate paura".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115218Z" creationid="carmi" creationdate="20260213T115218Z">
+        <seg>14,27&lt;s0/&gt;Ma deretu Gesùs lis aiat faeddadu: "Coràgiu, so deo, non tengiais timoria".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,28&lt;s0/&gt;Pietro gli disse: "Signore, se sei tu, comanda che io venga da te sulle acque".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115219Z" creationid="carmi" creationdate="20260213T115219Z">
+        <seg>14,28&lt;s0/&gt;Pietro l'aiat naradu: "Sennoras, si ses tue, cumandat chi deo bèngia dae tene subra de sas abbas".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,29&lt;s0/&gt;Ed egli disse: "Vieni!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115220Z" creationid="carmi" creationdate="20260213T115220Z">
+        <seg>14,29&lt;s0/&gt;Ed issu aiat naradu: "Beni!".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,30&lt;s0/&gt;Ma per la violenza del vento, s'impaurì e, cominciando ad affondare, gridò: "Signore, salvami!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115221Z" creationid="carmi" creationdate="20260213T115221Z">
+        <seg>14,30&lt;s0/&gt;Ma pro sa violèntzia de su bentu, s'impaurì e, cumintzende a afundare, aiat abboghinadu: "Sennoras, sarva·mi!".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,31&lt;s0/&gt;E subito Gesù stese la mano, lo afferrò e gli disse: "Uomo di poca fede, perché hai dubitato?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115221Z" creationid="carmi" creationdate="20260213T115221Z">
+        <seg>14,31&lt;s0/&gt;E deretu Gesùs aiat tèndidu sa manu, l'aiat aferradu e l'aiat naradu: "Òmine de paga fide, ca as dudadu?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,32&lt;s0/&gt;Appena saliti sulla barca, il vento cessò.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115222Z" creationid="carmi" creationdate="20260213T115222Z">
+        <seg>14,32&lt;s0/&gt;In pessu chi artziados subra de sa barca, su bentu aiat sessadu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,33&lt;s0/&gt;Quelli che erano sulla barca gli si prostrarono davanti, esclamando: "Tu sei veramente il Figlio di Dio!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115222Z" creationid="carmi" creationdate="20260213T115222Z">
+        <seg>14,33&lt;s0/&gt;Sos chi fiant subra de sa barca li si prostrarono in dae in antis, esclamende: "Tue ses a beru su Fìgiu de Deus!".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,34&lt;s0/&gt;Compiuta la traversata, approdarono a Genèsaret.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115223Z" creationid="carmi" creationdate="20260213T115223Z">
+        <seg>14,34&lt;s0/&gt;Acumprida sa traversata, aiant aprodadu a Genèsaret.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,35&lt;s0/&gt;E la gente del luogo, riconosciuto Gesù, diffuse la notizia in tutta la regione; gli portarono tutti i malati,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115224Z" creationid="carmi" creationdate="20260213T115224Z">
+        <seg>14,35&lt;s0/&gt;E sa gente de su logu, reconnotu Gesùs, difùndidas sa noa in totu sa regione; l'aiant giutu totu sos malàidos,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,36&lt;s0/&gt;e lo pregavano di poter toccare almeno l'orlo del suo mantello.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115225Z" creationid="carmi" creationdate="20260213T115225Z">
+        <seg>14,36&lt;s0/&gt;e lu pregaiant de pòdere tocare a su mancu s'oru de su manteddu suo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1480,10 +1624,162 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>15,10&lt;s0/&gt;Poi, riunita la folla, disse: "Ascoltate e intendete!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115233Z" creationid="carmi" creationdate="20260213T115233Z">
+        <seg>15,10&lt;s0/&gt;Posca, riunida sa truma, aiat naradu: "Ascurtade e cumprendide!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,11&lt;s0/&gt;Non quello che entra nella bocca rende impuro l'uomo, ma quello che esce dalla bocca rende impuro l'uomo!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115234Z" creationid="carmi" creationdate="20260213T115234Z">
+        <seg>15,11&lt;s0/&gt;Non su chi intra a sa buca rendet impuru s'òmine, ma su chi essit dae sa buca rendet impuru s'òmine!".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,12&lt;s0/&gt;Allora i discepoli gli si accostarono per dirgli: "Sai che i farisei si sono scandalizzati nel sentire queste parole?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115234Z" creationid="carmi" creationdate="20260213T115234Z">
+        <seg>15,12&lt;s0/&gt;Tando sos dischentes li si fiant acostados pro li nàrrere: "Ischis chi sos farisei si sunt iscandalizados in su de intèndere custas paràulas?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,13&lt;s0/&gt;Ed egli rispose: "Ogni pianta che non è stata piantata dal mio Padre celeste sarà sradicata.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115235Z" creationid="carmi" creationdate="20260213T115235Z">
+        <seg>15,13&lt;s0/&gt;Ed issu aiat rispòndidu: "Cada fundu chi no est istada prantada dae su Babbu tzeleste meu at a èssere irraighinada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,14&lt;s0/&gt;Lasciateli!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115236Z" creationid="carmi" creationdate="20260213T115236Z">
+        <seg>15,14&lt;s0/&gt;Lassade·los!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,15&lt;s0/&gt;Pietro allora gli disse: "Spiegaci questa parabola".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115238Z" creationid="carmi" creationdate="20260213T115238Z">
+        <seg>15,15&lt;s0/&gt;Pietro tando l'aiat naradu: "Ispiega·nos custa paràbola".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,16&lt;s0/&gt;Ed egli rispose: "Anche voi siete ancora senza intelletto?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115238Z" creationid="carmi" creationdate="20260213T115238Z">
+        <seg>15,16&lt;s0/&gt;Ed issu aiat rispòndidu: "Fintzas bois seis ancora sena intelletu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,17&lt;s0/&gt;Non capite che tutto ciò che entra nella bocca, passa nel ventre e va a finire nella fogna?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115239Z" creationid="carmi" creationdate="20260213T115239Z">
+        <seg>15,17&lt;s0/&gt;Non cumpresas chi totu custa chi intrat a sa buca, colat a sa bentre e andat a finire in sa fogna?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,18&lt;s0/&gt;Invece ciò che esce dalla bocca proviene dal cuore.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115240Z" creationid="carmi" creationdate="20260213T115240Z">
+        <seg>15,18&lt;s0/&gt;Imbetzes custu chi essit dae sa buca acudit dae su coro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,19&lt;s0/&gt;Dal cuore, infatti, provengono i propositi malvagi, gli omicidi, gli adultèri, le prostituzioni, i furti, le false testimonianze, le bestemmie.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115341Z" creationid="carmi" creationdate="20260213T115341Z">
+        <seg>15,19&lt;s0/&gt;De su coro, difatis, acudint sos propòsitos malvagi, sos mortores, sos adultèri, sas prostitutziones, sas furas, sas farsas testimonias, sas bestemmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,1&lt;s0/&gt;In quel tempo vennero a Gesù da Gerusalemme alcuni farisei e alcuni scribi e gli dissero:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115226Z" creationid="carmi" creationdate="20260213T115226Z">
+        <seg>15,1&lt;s0/&gt;In cuddu tempus fiant bènnidos a Gesùs dae Gerusalemme unos cantos farisei e unos cantos scribi e l'aiant naradu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>15,1&lt;t0/&gt; Al mattino i sommi sacerdoti, con gli anziani, gli scribi e tutto il sinedrio, dopo aver tenuto consiglio, misero in catene Gesù, lo condussero e lo consegnarono a Pilato. &lt;t1/&gt;2&lt;t2/&gt; Allora Pilato prese a interrogarlo: «Sei tu il re dei Giudei?».</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251205T144128Z" creationid="carmi" creationdate="20251106T105758Z">
         <seg>15,1&lt;t0/&gt; E deretu, a manzanu chitzo, sos satzerdotes mazores, paris cun sos sèneghes, sos iscribas e totu su sinèdriu, a pustis de àere fatu combinu, aiant presu a Gesùs e nche l'aiant zutu e intregadu a Pilatu. &lt;t1/&gt;2&lt;t2/&gt; Tando Pilatu aiat cumintzadu a lu porrogare: «Tue ses su re de sos Zudeos?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,2&lt;s0/&gt;"Perché i tuoi discepoli trasgrediscono la tradizione degli antichi?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115227Z" creationid="carmi" creationdate="20260213T115227Z">
+        <seg>15,2&lt;s0/&gt;"Ca sos dischentes tuos trasgredint sa traditzione de sos antigos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,3&lt;s0/&gt;Ed egli rispose loro: "Perché voi trasgredite il comandamento di Dio in nome della vostra&lt;s1/&gt;tradizione?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115228Z" creationid="carmi" creationdate="20260213T115228Z">
+        <seg>15,3&lt;s0/&gt;Ed issu lis aiat rispòndidu: "Ca bois trasgredides su cumandamentu de Deus in nùmene de sa traditzione&lt;s1/&gt;bostra?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,4&lt;s0/&gt;Dio ha detto: Onora il padre e la madre e inoltre: Chi maledice il padre e la madre sia messo a morte.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115228Z" creationid="carmi" creationdate="20260213T115228Z">
+        <seg>15,4&lt;s0/&gt;Deus at naradu: Onorat su babbu e sa mama e in prus: Chie maleighet su babbu e sa mama siat postu a morte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,5&lt;s0/&gt;Invece voi asserite: Chiunque dice al padre o alla madre: Ciò con cui ti dovrei aiutare è offerto a Dio,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115229Z" creationid="carmi" creationdate="20260213T115229Z">
+        <seg>15,5&lt;s0/&gt;Imbetzes bois afirmades: Cale si siat narat a su babbu o a sa mama: Custu cun cale ti dia dèvere agiuare est ofertu a Deus,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,6&lt;s0/&gt;non è più tenuto a onorare suo padre o sua madre.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115229Z" creationid="carmi" creationdate="20260213T115229Z">
+        <seg>15,6&lt;s0/&gt;no est prus tentu a onorare su babbu o sa mama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,7&lt;s0/&gt;Ipocriti!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115231Z" creationid="carmi" creationdate="20260213T115231Z">
+        <seg>15,7&lt;s0/&gt;Ipòcritas!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,8&lt;s0/&gt;Questo popolo mi onora con le labbra ma il suo cuore è lontano da me.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115232Z" creationid="carmi" creationdate="20260213T115232Z">
+        <seg>15,8&lt;s0/&gt;Custu pòpulu m'onorat cun sas lavras ma su coro suo est a largu in mene.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,9&lt;s0/&gt;Invano essi mi rendono culto, insegnando dottrine che sono precetti di uomini".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115233Z" creationid="carmi" creationdate="20260213T115233Z">
+        <seg>15,9&lt;s0/&gt;De badas issos mi rendent cultu, insinnende dotrinas chi sunt pretzetos de òmines".</seg>
       </tuv>
     </tu>
     <tu>
@@ -4654,6 +4950,14 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Bene ha profetato di voi Isaia, dicendo:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115231Z" creationid="carmi" creationdate="20260213T115231Z">
+        <seg>Bene tenet profetato de bois Isaia, narende:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Bene per quell'uomo se non fosse mai nato!».</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251203T091032Z" creationid="carmi" creationdate="20251106T105725Z">
@@ -4778,6 +5082,14 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20250918T075447Z" creationid="carmi" creationdate="20250912T073219Z">
         <seg>Cumanda finas a sos ispìritos malu e li ponent mente!». &lt;t13/&gt;28&lt;t14/&gt; Sa fama sua si fit ispainada deretu in totue a inghìriu de sa Galilea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Così avete annullato la parola di Dio in nome della vostra tradizione.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115230Z" creationid="carmi" creationdate="20260213T115230Z">
+        <seg>Gasi ais annuddadu sa paràula de Deus in nùmene de sa traditzione bostra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5058,6 +5370,22 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251030T162928Z" creationid="Gianfranco" creationdate="20251009T095059Z">
         <seg>E cando fit in domo, lis aiat dimandadu: «De ite fizis chistionende in caminu?». &lt;t1/&gt;34&lt;t2/&gt; E issos abbarraiant a sa muda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>E quando un cieco guida un altro cieco, tutti e due cadranno in un fosso!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115237Z" creationid="carmi" creationdate="20260213T115237Z">
+        <seg>E cando unu tzurpu ghiat unu àteru tzurpu, ambos duos ant a rùere a unu fossu!".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>E quanti lo toccavano guarivano.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115225Z" creationid="carmi" creationdate="20260213T115225Z">
+        <seg>E cantos lu tocaiant sanaiant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5967,6 +6295,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Pietro, scendendo dalla barca, si mise a camminare sulle acque e andò verso Gesù.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115220Z" creationid="carmi" creationdate="20260213T115220Z">
+        <seg>Pietro, pendende dae sa barca, si fiat postu a caminare subra de sas abbas e fiat andadu cara a Gesùs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Poi aprirono i loro scrigni e gli offrirono in dono oro, incenso e mirra.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260209T114158Z" creationid="Gianfranco" creationdate="20260126T110933Z">
@@ -5995,6 +6331,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260211T164038Z" creationid="carmi" creationdate="20260210T105140Z">
         <seg>Ca sa buca faeddat sende su chi prenat su coro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Poiché non si lavano le mani quando prendono cibo!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115227Z" creationid="carmi" creationdate="20260213T115227Z">
+        <seg>Ca non si sàbunant sas manos cando pigant màndigu!".</seg>
       </tuv>
     </tu>
     <tu>
@@ -6059,6 +6403,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251006T094307Z" creationid="Gianfranco" creationdate="20251006T094307Z">
         <seg>Custu pòpulu m'onorat a paràulas,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Questo rende immondo l'uomo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115241Z" creationid="carmi" creationdate="20260213T115241Z">
+        <seg>Custu rendet immondo s'òmine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6199,6 +6551,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Sono ciechi e guide di ciechi.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115236Z" creationid="carmi" creationdate="20260213T115236Z">
+        <seg>Sunt tzurpos e ghias de tzurpos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Sta scritto: Adora il Signore Dio tuo e a lui solo rendi&lt;s1/&gt;culto".</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260126T122006Z" creationid="Gianfranco" creationdate="20260126T122006Z">
@@ -6299,6 +6659,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251205T120323Z" creationid="carmi" creationdate="20251106T105801Z">
         <seg>Bidende ses (de) totu su chi ti sunt impudende?!». &lt;t7/&gt;5&lt;t8/&gt; Ma Gesùs no aiat naradu prus nudda, tantu chi Pilatu fit abbarradu ispantadu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Venuta la sera, egli se ne stava ancora solo lassù.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T115216Z" creationid="carmi" creationdate="20260213T115216Z">
+        <seg>Bènnida su sero, issu si nd'istaiat ancora petzi lassù.</seg>
       </tuv>
     </tu>
     <tu>

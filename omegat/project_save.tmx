@@ -1490,24 +1490,24 @@
       <tuv lang="it">
         <seg>14,28&lt;s0/&gt;Pietro gli disse: "Signore, se sei tu, comanda che io venga da te sulle acque".</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260213T115219Z" creationid="carmi" creationdate="20260213T115219Z">
-        <seg>14,28&lt;s0/&gt;Pietro l'aiat naradu: "Sennoras, si ses tue, cumandat chi deo bèngia dae tene subra de sas abbas".</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T161547Z" creationid="carmi" creationdate="20260213T115219Z">
+        <seg>14,28&lt;s0/&gt;Pedru li aiat naradu: "Sennore, si ses tue, cumanda chi deo (nche) benza (a ue ses) a pizu de abba".</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>14,29&lt;s0/&gt;Ed egli disse: "Vieni!".</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260213T115220Z" creationid="carmi" creationdate="20260213T115220Z">
-        <seg>14,29&lt;s0/&gt;Ed issu aiat naradu: "Beni!".</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T161604Z" creationid="carmi" creationdate="20260213T115220Z">
+        <seg>14,29&lt;s0/&gt;E issu aiat naradu: "Beni / Ajò!".</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>14,30&lt;s0/&gt;Ma per la violenza del vento, s'impaurì e, cominciando ad affondare, gridò: "Signore, salvami!".</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260213T115221Z" creationid="carmi" creationdate="20260213T115221Z">
-        <seg>14,30&lt;s0/&gt;Ma pro sa violèntzia de su bentu, s'impaurì e, cumintzende a afundare, aiat abboghinadu: "Sennoras, sarva·mi!".</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T161924Z" creationid="carmi" creationdate="20260213T115221Z">
+        <seg>14,30&lt;s0/&gt;Ma pro sa ira / sas frusiadas de su bentu, si fit postu a tìmere e, cumintzende a afundare / andare a fundu, aiat abboghinadu: "Sennore, sarva·mi!".</seg>
       </tuv>
     </tu>
     <tu>
@@ -6297,8 +6297,8 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       <tuv lang="it">
         <seg>Pietro, scendendo dalla barca, si mise a camminare sulle acque e andò verso Gesù.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260213T161110Z" creationid="carmi" creationdate="20260213T115220Z">
-        <seg>Pietro, pendende dae sa barca, si fiat postu a caminare subra de sas abbas e fiat mòvidu cara a Gesùs.</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260213T161634Z" creationid="carmi" creationdate="20260213T115220Z">
+        <seg>Perdu, pendende dae sa barca, si fit postu a caminare a pizu de abba e fiat mòvidu cara a Gesùs.</seg>
       </tuv>
     </tu>
     <tu>

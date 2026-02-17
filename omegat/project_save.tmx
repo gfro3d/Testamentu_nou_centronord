@@ -1770,8 +1770,10 @@
       <tuv lang="it">
         <seg>15,8&lt;s0/&gt;Questo popolo mi onora con le labbra ma il suo cuore è lontano da me.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260213T115232Z" creationid="carmi" creationdate="20260213T115232Z">
-        <seg>15,8&lt;s0/&gt;Custu pòpulu m'onorat cun sas lavras ma su coro suo est a largu in mene.</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260217T092915Z" creationid="carmi" creationdate="20260213T115232Z">
+        <seg>15,8&lt;s0/&gt;Custu pòpulu m'onorat a paràulas,
+ma su coro suo est a largu dae mene.
+.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4952,8 +4954,8 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       <tuv lang="it">
         <seg>Bene ha profetato di voi Isaia, dicendo:</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260213T115231Z" creationid="carmi" creationdate="20260213T115231Z">
-        <seg>Bene tenet profetato de bois Isaia, narende:</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260217T092659Z" creationid="carmi" creationdate="20260213T115231Z">
+        <seg>Isaia zai at profetizadu bene / su zustu de bois, narende:</seg>
       </tuv>
     </tu>
     <tu>

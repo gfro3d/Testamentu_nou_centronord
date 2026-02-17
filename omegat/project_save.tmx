@@ -1658,8 +1658,8 @@
       <tuv lang="it">
         <seg>15,14&lt;s0/&gt;Lasciateli!</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260217T093816Z" creationid="carmi" creationdate="20260213T115236Z">
-        <seg> 15,14&lt;s0/&gt;Lassade·los!</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260217T094611Z" creationid="carmi" creationdate="20260213T115236Z">
+        <seg> 15,14&lt;s0/&gt;Lassade·los (a banda)!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5379,8 +5379,8 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       <tuv lang="it">
         <seg>E quando un cieco guida un altro cieco, tutti e due cadranno in un fosso!".</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260213T115237Z" creationid="carmi" creationdate="20260213T115237Z">
-        <seg>E cando unu tzurpu ghiat unu àteru tzurpu, ambos duos ant a rùere a unu fossu!".</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260217T094728Z" creationid="carmi" creationdate="20260213T115237Z">
+        <seg>E cando unu tzurpu ghiat un'àteru tzurpu, ambos duos nch'ant a rùere a unu fossu!".</seg>
       </tuv>
     </tu>
     <tu>

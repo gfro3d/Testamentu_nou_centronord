@@ -888,6 +888,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,10&lt;s0/&gt;Ed ecco, c'era un uomo che aveva una mano inaridita, ed essi chiesero a Gesù: "È permesso curare di sabato?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260217T125712Z" creationid="Gianfranco" creationdate="20260217T125712Z">
+        <seg>12,10&lt;s0/&gt;E anno', nch'aiat un'òmine cun una manu sica, e issos aiant dimandadu a Gesùs: "Su sàpadu permìtidu est a dare cura?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,1&lt;s0/&gt;In quel tempo Gesù passò tra le messi in giorno di sabato, e i suoi discepoli ebbero fame e cominciarono a cogliere spighe e le mangiavano.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260217T121806Z" creationid="Gianfranco" creationdate="20260217T121806Z">
@@ -1132,6 +1140,22 @@
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260217T125126Z" creationid="Gianfranco" creationdate="20260217T125126Z">
         <seg>12,7&lt;s0/&gt;Se aiazis cumpresu ite cheret nàrrere: Misericòrdia cherzo deo e non sacrifìtziu, no aiazis&lt;s1/&gt;cundennadu a pessones chene curpa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,8&lt;s0/&gt;Perché il Figlio dell'uomo è signore del sabato".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260217T125229Z" creationid="Gianfranco" creationdate="20260217T125229Z">
+        <seg>12,8&lt;s0/&gt;Ca su Fizu de s'òmine est sennore de su sàpadu".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,9&lt;s0/&gt;Allontanatosi di là, andò nella loro sinagoga.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260217T125326Z" creationid="Gianfranco" creationdate="20260217T125326Z">
+        <seg>12,9&lt;s0/&gt;Mòvidu dae in cue, fit andadu a sa sinagoga issoro.</seg>
       </tuv>
     </tu>
     <tu>

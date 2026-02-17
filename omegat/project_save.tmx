@@ -952,6 +952,22 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,18&lt;s0/&gt;Ecco il mio servo che io ho scelto; il mio prediletto, nel quale mi sono compiaciuto.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260217T132006Z" creationid="Gianfranco" creationdate="20260217T132006Z">
+        <seg>12,18&lt;s0/&gt;Mi a su tzeracu chi m'apo isseperadu; su prus istimadu, su chi tenzo in prètziu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,19&lt;s0/&gt;Non contenderà, né griderà, né si udrà sulle piazze la sua voce.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260217T132202Z" creationid="Gianfranco" creationdate="20260217T132202Z">
+        <seg>12,19&lt;s0/&gt;No at a gherrare, nè a abboghinare, nen s'at a intèndere sa boghe sua in sas pratzas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,1&lt;s0/&gt;In quel tempo Gesù passò tra le messi in giorno di sabato, e i suoi discepoli ebbero fame e cominciarono a cogliere spighe e le mangiavano.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260217T121806Z" creationid="Gianfranco" creationdate="20260217T121806Z">
@@ -6526,6 +6542,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260217T091613Z" creationid="carmi" creationdate="20260213T115227Z">
         <seg>Ca non si sàbunant sas manos cando màndigant / si ghetant a mandigare!".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Porrò il&lt;s1/&gt;mio spirito sopra di lui e annunzierà la giustizia alle genti.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260217T132113Z" creationid="Gianfranco" creationdate="20260217T132113Z">
+        <seg>Apo a pònnere&lt;s1/&gt;s'ispìritu meu subra de issu e issu at a annuntziare sa zustìssia a sos pòpulos.</seg>
       </tuv>
     </tu>
     <tu>

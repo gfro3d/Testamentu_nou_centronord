@@ -1722,8 +1722,16 @@
       <tuv lang="it">
         <seg>15,20&lt;s0/&gt;Queste sono le cose che rendono immondo l'uomo, ma il mangiare senza lavarsi le mani non rende immondo l'uomo".</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260217T101709Z" creationid="carmi" creationdate="20260217T101709Z">
-        <seg>15,20&lt;s0/&gt;Custas sunt sas cosas chi rendent immondo s'òmine, ma su de mandigare sena si sabunare sas manos non rendet immondo s'òmine".</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260217T101805Z" creationid="carmi" creationdate="20260217T101709Z">
+        <seg>15,20&lt;s0/&gt;Custas sunt sas cosas chi l'imbrutant a s'òmine, ma su de mandigare chene si sabunare sas manos non l'imbrutat a s'òmine".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,21&lt;s0/&gt;Partito di là, Gesù si diresse verso le parti di Tiro e Sidone.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carmi" changedate="20260217T101855Z" creationid="carmi" creationdate="20260217T101724Z">
+        <seg>15,21&lt;s0/&gt;Mòvidu dae cue, Gesùs fit tucadu cara a sas alas de Tiru e Sidone.</seg>
       </tuv>
     </tu>
     <tu>

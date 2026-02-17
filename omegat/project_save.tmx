@@ -928,6 +928,30 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,15&lt;s0/&gt;Ma Gesù, saputolo, si allontanò di là.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260217T131640Z" creationid="Gianfranco" creationdate="20260217T131640Z">
+        <seg>12,15&lt;s0/&gt;Ma Gesùs, cando aiat ischidu, si nche fit mòvidu dae in cue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,16&lt;s0/&gt;ordinando loro di non divulgarlo,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260217T131757Z" creationid="Gianfranco" creationdate="20260217T131757Z">
+        <seg>12,16&lt;s0/&gt;cumandende·lis/narende·li de no ispàrghere sa boghe/de non de nàrrere,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,17&lt;s0/&gt;perché si adempisse ciò che era stato detto dal profeta Isaia:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260217T131913Z" creationid="Gianfranco" creationdate="20260217T131913Z">
+        <seg>12,17&lt;s0/&gt;pro chi s'esseret cumpridu su chi si fit naradu pro mèdiu de su profeta Isaia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,1&lt;s0/&gt;In quel tempo Gesù passò tra le messi in giorno di sabato, e i suoi discepoli ebbero fame e cominciarono a cogliere spighe e le mangiavano.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260217T121806Z" creationid="Gianfranco" creationdate="20260217T121806Z">
@@ -6230,6 +6254,14 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       <tuv lang="sc" changeid="Gianfranco" changedate="20251016T102001Z" creationid="Gianfranco" creationdate="20251003T092311Z">
         <seg>
 Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Molti lo seguirono ed egli guarì tutti,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260217T131712Z" creationid="Gianfranco" creationdate="20260217T131712Z">
+        <seg>In medas l'aiant postu in fatu e issu los aiat sanados a totus,</seg>
       </tuv>
     </tu>
     <tu>

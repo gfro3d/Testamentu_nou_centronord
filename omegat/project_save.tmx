@@ -1592,6 +1592,22 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>13,38&lt;s0/&gt;Il campo è il mondo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260219T124154Z" creationid="Gianfranco" creationdate="20260219T124154Z">
+        <seg>13,38&lt;s0/&gt;Su campu est su mundu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,39&lt;s0/&gt;e il nemico che l'ha seminata è il diavolo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260219T124306Z" creationid="Gianfranco" creationdate="20260219T124306Z">
+        <seg>13,39&lt;s0/&gt;e s'inimigu chi l'at semenada est su diàulu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>13,3&lt;s0/&gt;Egli parlò loro di molte cose in parabole.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260212T103327Z" creationid="carmi" creationdate="20260212T101008Z">
@@ -6178,6 +6194,14 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Il seme buono sono i figli del regno; la zizzania sono i figli del maligno,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260219T124246Z" creationid="Gianfranco" creationdate="20260219T124246Z">
+        <seg>Su sèmene bonu sunt sos fizos de su rennu; sa zizàina/lullumalu sunt fizos de su malinnu,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Il vento cessò e vi fu grande bonaccia. &lt;t9/&gt;40&lt;t10/&gt; Poi disse loro: «Perché siete così paurosi?</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251027T114239Z" creationid="Gianfranco" creationdate="20251002T104400Z">
@@ -6270,6 +6294,14 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251112T162048Z" creationid="carmi" creationdate="20251010T100633Z">
         <seg>a domo mea li ant a nàrrere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>La mietitura rappresenta la fine del mondo, e i mietitori sono gli angeli.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260219T124351Z" creationid="Gianfranco" creationdate="20260219T124351Z">
+        <seg>Sa messadura/messaria est s'agabbu de su mundu, e sos messadores sunt sos ànghelos.</seg>
       </tuv>
     </tu>
     <tu>

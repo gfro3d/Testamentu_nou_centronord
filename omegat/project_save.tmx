@@ -1704,6 +1704,38 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>13,50&lt;s0/&gt;e li getteranno nella fornace ardente, dove sarà pianto e stridore di denti.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260219T132319Z" creationid="Gianfranco" creationdate="20260219T132319Z">
+        <seg>[fuzzy]13,42&lt;s0/&gt;e los ant a ghetare a su furru ue b'at a àere petzi prantu e arròdios de dentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,51&lt;s0/&gt;Avete capito tutte queste cose?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260219T132339Z" creationid="Gianfranco" creationdate="20260219T132339Z">
+        <seg>13,51&lt;s0/&gt;Totu azis cumpresu?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,52&lt;s0/&gt;Ed egli disse loro: "Per questo ogni scriba divenuto discepolo del regno dei cieli è simile a un padrone di casa che estrae dal suo tesoro cose nuove e cose antiche".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260219T132523Z" creationid="Gianfranco" creationdate="20260219T132523Z">
+        <seg>13,52&lt;s0/&gt;E issu lis aiat naradu: "Pro custu cada iscriba chi s'est fatu dischente de su rennu de sos chelos paret unu mere de domo chi nche bogat dae su siddadu suo cosas noas e antigas".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,53&lt;s0/&gt;Terminate queste parabole, Gesù partì di là</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260219T132604Z" creationid="Gianfranco" creationdate="20260219T132604Z">
+        <seg>13,53&lt;s0/&gt;Agabbadas custas paràbbulas, Gesùs si nche fit mòvidu dae cue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>13,5&lt;s0/&gt;Un'altra parte cadde in luogo sassoso, dove non c'era molta terra; subito germogliò, perché il&lt;s1/&gt;terreno non era profondo.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260212T111529Z" creationid="carmi" creationdate="20260212T101015Z">
@@ -6206,6 +6238,14 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251027T104111Z" creationid="Gianfranco" creationdate="20251006T104145Z">
         <seg>Li aiant naradu: «Sete». &lt;t9/&gt;6&lt;t10/&gt; Gesùs aiat cumandadu a sa truma de si sètzere in terra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Gli risposero: "Sì".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260219T132359Z" creationid="Gianfranco" creationdate="20260219T132359Z">
+        <seg>Li aiant rispostu: "Eja".</seg>
       </tuv>
     </tu>
     <tu>

@@ -1680,6 +1680,22 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>13,48&lt;s0/&gt;Quando è piena, i pescatori la tirano a riva e poi, sedutisi, raccolgono i pesci buoni nei&lt;s1/&gt;canestri e buttano via i cattivi.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260219T132229Z" creationid="Gianfranco" creationdate="20260219T132229Z">
+        <seg>13,48&lt;s0/&gt;Cando nch'est prena, sos piscadores la tirant a terra e a pustis, si setzent e nche ponent su pische bonu&lt;s1/&gt;in sas cannisteddas e nch'imbolant su malu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,49&lt;s0/&gt;Così sarà alla fine del mondo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260219T132245Z" creationid="Gianfranco" creationdate="20260219T132245Z">
+        <seg>13,49&lt;s0/&gt;Gasi at a èssere s'agabbu de su mundu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>13,4&lt;s0/&gt;E mentre seminava una parte del seme cadde sulla strada e vennero gli uccelli e la divorarono.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260212T111519Z" creationid="carmi" creationdate="20260212T101014Z">
@@ -7119,6 +7135,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260213T155841Z" creationid="carmi" creationdate="20260213T115216Z">
         <seg>A bortadieddu, nche fit galu in cue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Verranno gli angeli e separeranno i cattivi dai buoni</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260219T132314Z" creationid="Gianfranco" creationdate="20260219T132314Z">
+        <seg>Ant a bènnere sos ànghelos e ant a ischertare sos malos dae sos bonos</seg>
       </tuv>
     </tu>
     <tu>

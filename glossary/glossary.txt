@@ -149,8 +149,8 @@ giovanetto	pitzocu	giòvanu; pitzinnu
 sentenziarono	aiant sententziadu
 schiaffeggiarlo	a lu pigare a iscavanadas
 imprecare	frastimare
-parabole	paràbbulas
-parabola	paràbbula
+parabole	paràbulas
+parabola	paràbula
 Giuda	Giudas
 Giudei	Zudeos	Giudeos
 Pilato	Pilatu

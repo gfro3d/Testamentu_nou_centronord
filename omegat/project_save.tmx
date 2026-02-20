@@ -1898,8 +1898,24 @@
       <tuv lang="it">
         <seg>14,15&lt;s0/&gt;Sul far della sera, gli si accostarono i discepoli e gli dissero: "Il luogo è deserto ed è ormai tardi; congeda la folla perché vada nei villaggi a comprarsi da mangiare".</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260220T125956Z" creationid="Gianfranco" creationdate="20260220T125956Z">
-        <seg>14,15&lt;s0/&gt;A s'iscurigore, si li fint acurtziados sos dischentes e li aiant naradu: "Su logu est desertu e nch'est giai tardu; despide/saluda/ispatza·nche sa truma pro chi andet a sas biddas a si comporare recatu/cosa de mandigare".</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260220T130046Z" creationid="Gianfranco" creationdate="20260220T125956Z">
+        <seg>14,15&lt;s0/&gt;A s'iscurigore, si li fint acurtziados sos dischentes e li aiant naradu: "Su logu est desertu e nch'est zai tardu; despide/saluda/ispatza·nche sa truma pro chi andet a sas biddas a si comporare recatu/cosa de mandigare".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,16&lt;s0/&gt;Ma Gesù rispose: "Non occorre che vadano; date loro voi stessi da mangiare".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260220T130218Z" creationid="Gianfranco" creationdate="20260220T130012Z">
+        <seg>14,16&lt;s0/&gt;Ma Gesùs aiat rispostu: "Non b'at bisonzu chi andent; dade·lis bois etotu a mandigare".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,17&lt;s0/&gt;Gli risposero: "Non abbiamo che cinque pani e due pesci!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260220T130419Z" creationid="Gianfranco" creationdate="20260220T130419Z">
+        <seg>14,17&lt;s0/&gt;Li aiant rispostu: "Inoghe amus petzi chimbe panes e duos pisches!".</seg>
       </tuv>
     </tu>
     <tu>

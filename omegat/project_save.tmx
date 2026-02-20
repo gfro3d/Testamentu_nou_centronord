@@ -1856,6 +1856,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>14,10&lt;s0/&gt;e mandò a decapitare Giovanni nel carcere.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260220T123811Z" creationid="Gianfranco" creationdate="20260220T123811Z">
+        <seg>14,10&lt;s0/&gt;e aiat cumandadu/mandadu a li segare sa conca/isconcare a in presone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>14,19&lt;s0/&gt;E dopo aver ordinato alla folla di sedersi sull'erba, prese i cinque pani e i due pesci e, alzati gli occhi al cielo, pronunziò la benedizione, spezzò i pani e li diede ai discepoli e i discepoli li distribuirono alla folla.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260213T154827Z" creationid="carmi" creationdate="20260213T115213Z">
@@ -2066,8 +2074,8 @@
       <tuv lang="it">
         <seg>14,8&lt;s0/&gt;Ed essa, istigata dalla madre, disse: "Dammi qui, su un vassoio, la testa di Giovanni il&lt;s1/&gt;Battista".</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260220T121954Z" creationid="Gianfranco" creationdate="20260220T121954Z">
-        <seg>14,8&lt;s0/&gt;E issa, pilisada dae sa mama, aiat naradu: "Porri·mi inoghe, in una safata de prata, sa conca de Giuanne su&lt;s1/&gt;Batista".</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260220T123350Z" creationid="Gianfranco" creationdate="20260220T121954Z">
+        <seg>14,8&lt;s0/&gt;E issa, pilisada dae sa mama, aiat naradu: "Porri·mi·nche inoghe, in una safata de prata, sa conca de Giuanne su&lt;s1/&gt;Batista".</seg>
       </tuv>
     </tu>
     <tu>

@@ -2464,6 +2464,22 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>15,38&lt;s0/&gt;Quelli che avevano mangiato erano quattromila uomini, senza contare le donne e i bambini.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260223T124617Z" creationid="Gianfranco" creationdate="20260223T124617Z">
+        <seg>15,38&lt;s0/&gt;Sos chi aiant mandigadu fint bator miza òmines, chene contare/tènnere contu de sas fèminas e de sas creaduras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,39&lt;s0/&gt;Congedata la folla, Gesù salì sulla barca e andò nella regione di Magadàn.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260223T124728Z" creationid="Gianfranco" creationdate="20260223T124728Z">
+        <seg>15,39&lt;s0/&gt;Cando aiat saludadu sa truma, Gesùs fit artziadu a sa barca e fit andadu a sa terra/regione/ala de Magadàn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>15,3&lt;s0/&gt;Ed egli rispose loro: "Perché voi trasgredite il comandamento di Dio in nome della vostra&lt;s1/&gt;tradizione?</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260217T091710Z" creationid="carmi" creationdate="20260213T115228Z">
@@ -6106,6 +6122,14 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260129T154652Z" creationid="carmi" creationdate="20260118T175700Z">
         <seg>Dàvide inzeneresit a Salomone dae sa chi in antis fit sa muzere de Uria,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Dei pezzi avanzati portarono via sette sporte piene.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260223T124501Z" creationid="Gianfranco" creationdate="20260223T124501Z">
+        <seg>De sos cantzos chi b'aiat abbarradu nche nd'aiant pigadu sete cofas prenas.</seg>
       </tuv>
     </tu>
     <tu>

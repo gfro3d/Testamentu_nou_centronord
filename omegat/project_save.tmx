@@ -3451,6 +3451,14 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>19,19&lt;s0/&gt;onora il padre e la madre, ama il prossimo tuo come te stesso".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260309T201111Z" creationid="Gianfranco" creationdate="20260309T200850Z">
+        <seg>19,19&lt;s0/&gt; onora a babbu tuo e a mama tua".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>19,1&lt;s0/&gt;Terminati questi discorsi, Gesù partì dalla Galilea e andò nel territorio della Giudea, al di là del Giordano.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260306T163850Z" creationid="carmi" creationdate="20260306T103443Z">
@@ -8040,8 +8048,8 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       <tuv lang="it">
         <seg>Gesù rispose: "Non uccidere, non commettere adulterio, non rubare, non testimoniare il falso,</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260309T200814Z" creationid="Gianfranco" creationdate="20260309T200814Z">
-        <seg>Gesùs aiat rispòndiu: "No bocas, non fagas adultèriu, non fures, non testimònies su farsu,</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260309T200919Z" creationid="Gianfranco" creationdate="20260309T200814Z">
+        <seg>Gesùs aiat rispòndiu: "No bocas, non fagas adultèriu, non fures, non testimonzes su farsu,</seg>
       </tuv>
     </tu>
     <tu>

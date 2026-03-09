@@ -3117,8 +3117,16 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
       <tuv lang="it">
         <seg>18,15&lt;s0/&gt;Se il tuo fratello commette una colpa, va' e ammoniscilo fra te e lui solo; se ti ascolterà,&lt;s1/&gt;avrai guadagnato il tuo fratello;</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260309T200220Z" creationid="Gianfranco" creationdate="20260309T200220Z">
-        <seg>18,15&lt;s0/&gt;Si frade tuo at pecadu, bae e bria·lu/ nara·li cosa a bandas; si t'at a pònnere mente,&lt;s1/&gt;t'as a àere balanzadu unu frade / a frade tuo;</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260309T200435Z" creationid="Gianfranco" creationdate="20260309T200220Z">
+        <seg>18,15&lt;s0/&gt;Si frade tuo at pecadu, bae e bria·lu/ nara·li cosa a bandas; si t'at a ascurtare/pònnere mente,&lt;s1/&gt;t'as a àere balanzadu unu frade / a frade tuo;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>18,16&lt;s0/&gt;se non ti ascolterà, prendi con te una o due persone, perché ogni cosa sia risolta sulla parola di due o tre testimoni.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260309T200458Z" creationid="Gianfranco" creationdate="20260309T200412Z">
+        <seg>18,16&lt;s0/&gt;se non ascurtat /ti ponet mente, piga·ti una o duas persones, ca cada cosa cheret acontzada chi in sa paràula de duos o tres testimonzos.</seg>
       </tuv>
     </tu>
     <tu>

@@ -3117,8 +3117,8 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
       <tuv lang="it">
         <seg>18,15&lt;s0/&gt;Se il tuo fratello commette una colpa, va' e ammoniscilo fra te e lui solo; se ti ascolterà,&lt;s1/&gt;avrai guadagnato il tuo fratello;</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260309T200435Z" creationid="Gianfranco" creationdate="20260309T200220Z">
-        <seg>18,15&lt;s0/&gt;Si frade tuo at pecadu, bae e bria·lu/ nara·li cosa a bandas; si t'at a ascurtare/pònnere mente,&lt;s1/&gt;t'as a àere balanzadu unu frade / a frade tuo;</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260309T200508Z" creationid="Gianfranco" creationdate="20260309T200220Z">
+        <seg>18,15&lt;s0/&gt;Si frade tuo at pecadu, bae e bria·lu/ nara·li cosa a bandas; si at a ascurtare/pònnere mente,&lt;s1/&gt;t'as a àere balanzadu unu frade / a frade tuo;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3439,6 +3439,14 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260306T103505Z" creationid="carmi" creationdate="20260306T103505Z">
         <seg>19,17&lt;s0/&gt;Issu aiat rispòndidu: "Ca m'intèrroghet subra de custu chi est bonu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>19,18&lt;s0/&gt;Ed egli chiese: "Quali?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260309T200619Z" creationid="Gianfranco" creationdate="20260309T200619Z">
+        <seg>19,18&lt;s0/&gt;E issu aiat dimandadu: "Cales?".</seg>
       </tuv>
     </tu>
     <tu>
@@ -8030,6 +8038,14 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Gesù rispose: "Non uccidere, non commettere adulterio, non rubare, non testimoniare il falso,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260309T200814Z" creationid="Gianfranco" creationdate="20260309T200814Z">
+        <seg>Gesùs aiat rispòndiu: "No bocas, non fagas adultèriu, non fures, non testimònies su farsu,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Gesù, vista la loro fede, disse al&lt;s1/&gt;paralitico: "Coraggio, figliolo, ti sono rimessi i tuoi peccati".</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260204T115303Z" creationid="carmi" creationdate="20260203T154416Z">
@@ -8984,6 +9000,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Se vuoi entrare nella vita, osserva i comandamenti".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260309T200556Z" creationid="Gianfranco" creationdate="20260309T200556Z">
+        <seg>Si cheres intrare a sa bida, rispeta sos cumandamentos".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Sei venuto a rovinarci!</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20250922T093828Z" creationid="carmi" creationdate="20250912T073211Z">
@@ -9172,6 +9196,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20250918T075143Z" creationid="carmi" creationdate="20250912T073218Z">
         <seg>Una dutrina noa imparada cun autoridade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Uno solo è buono.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260309T200527Z" creationid="Gianfranco" creationdate="20260309T200527Z">
+        <seg>Unu ebbia est bonu.</seg>
       </tuv>
     </tu>
     <tu>

@@ -4275,6 +4275,22 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>21,28&lt;s0/&gt;"Che ve ne pare?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260311T183334Z" creationid="Gianfranco" creationdate="20260311T183334Z">
+        <seg>[fuzzy]18,12&lt;s0/&gt;Ite bos nde paret/Ite nde pensades?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>21,29&lt;s0/&gt;Ed egli rispose: Sì, signore; ma non andò.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260311T183557Z" creationid="Gianfranco" creationdate="20260311T183557Z">
+        <seg>21,29&lt;s0/&gt;E issu li aiat rispòndidu: Eja, su senno'; ma non bi fit andadu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>21,2&lt;s0/&gt;dicendo loro: "Andate nel villaggio che vi sta di fronte: subito troverete un'asina legata e con essa un puledro.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260309T103804Z" creationid="carmi" creationdate="20260309T100810Z">
@@ -7421,6 +7437,14 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Allora anch'egli disse loro: "Neanch'io vi dico con quale autorità faccio queste cose".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260311T183329Z" creationid="Gianfranco" creationdate="20260311T183329Z">
+        <seg>Tando issu puru lis aiat naradu: "(Nem)mancu deo bos naro cun cale autoridade fago/so faghende custas cosas". </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Allora disse loro: «Di chi è questa immagine e l'iscrizione?».</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251114T094141Z" creationid="carmi" creationdate="20251016T160334Z">
@@ -9692,6 +9716,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260210T092143Z" creationid="carmi" creationdate="20260205T090402Z">
         <seg>A unu profeta?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Un uomo aveva due figli; rivoltosi al primo disse: Figlio, va' oggi a lavorare nella vigna.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260311T183450Z" creationid="Gianfranco" creationdate="20260311T183450Z">
+        <seg>Un'òmine teniat duos fizos; a su primu si li fit ziradu narende·li: Fizu (me'), bae oe a sa binza a traballare.</seg>
       </tuv>
     </tu>
     <tu>

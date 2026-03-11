@@ -3829,8 +3829,16 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
       <tuv lang="it">
         <seg>20,10&lt;s0/&gt;Quando arrivarono i primi, pensavano che avrebbero ricevuto di più.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260311T180538Z" creationid="Gianfranco" creationdate="20260311T180538Z">
-        <seg>20,10&lt;s0/&gt;Cando fint arribbados sos primos, aiant pensadu chi nd'aiant collidu/pigadu de prus.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260311T180610Z" creationid="Gianfranco" creationdate="20260311T180538Z">
+        <seg>20,10&lt;s0/&gt;Cando fint arribbados sos primos, aiant pensadu chi nd'aiant pigadu/retzidu de prus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>20,11&lt;s0/&gt;Nel ritirarlo però, mormoravano contro il padrone dicendo:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260311T180825Z" creationid="Gianfranco" creationdate="20260311T180825Z">
+        <seg>20,11&lt;s0/&gt;Pighende·lu peroe, fint murrunzende/a murrunzu contra a su mere narende:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4013,8 +4021,8 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
       <tuv lang="it">
         <seg>20,9&lt;s0/&gt;Venuti quelli delle cinque del pomeriggio, ricevettero ciascuno un denaro.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260311T180447Z" creationid="Gianfranco" creationdate="20260311T180447Z">
-        <seg>20,9&lt;s0/&gt;Cando fint arribbados sos de sas chimbe de bortaedie, cadaunu aiat pigadu unu dinari.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260311T180708Z" creationid="Gianfranco" creationdate="20260311T180447Z">
+        <seg>20,9&lt;s0/&gt;Cando fint arribbados sos de sas chimbe de bortaedie, aiant pigadu unu dinari per òmine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8754,6 +8762,14 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260212T095858Z" creationid="Gianfranco" creationdate="20260212T095858Z">
         <seg>Ma a sa sabiesa li ant fatu zustìtzia sas òperas suas".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Ma anch'essi ricevettero un denaro per ciascuno.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260311T180631Z" creationid="Gianfranco" creationdate="20260311T180604Z">
+        <seg>Ma issos puru aiant pigadu unu dinari per òmine.</seg>
       </tuv>
     </tu>
     <tu>

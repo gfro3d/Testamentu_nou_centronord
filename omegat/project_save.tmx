@@ -3829,8 +3829,8 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
       <tuv lang="it">
         <seg>20,1&lt;s0/&gt;"Il regno dei cieli è simile a un padrone di casa che uscì all'alba per prendere a giornata&lt;s1/&gt;lavoratori per la sua vigna.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260311T165736Z" creationid="Gianfranco" creationdate="20260311T165736Z">
-        <seg>20,1&lt;s0/&gt;"Su rennu de sos chelos paret /est che a unu mere de domo chi est essidu a s'arborinu/a manzanu chitzo a si buscare zorronaderis&lt;s1/&gt; pro traballare a sa binza.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260311T170008Z" creationid="Gianfranco" creationdate="20260311T165736Z">
+        <seg>20,1&lt;s0/&gt;"Su rennu de sos chelos paret /est che a unu mere de domo chi est essidu a s'arborinu/a manzanu chitzo a si buscare zorronaderis&lt;s1/&gt; pro traballare a sa binza sua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3909,8 +3909,8 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
       <tuv lang="it">
         <seg>20,2&lt;s0/&gt;Accordatosi con loro per un denaro al giorno, li mandò nella sua vigna.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260311T170002Z" creationid="Gianfranco" creationdate="20260311T170002Z">
-        <seg>20,2&lt;s0/&gt;A pustis de àere cuntratadu cun issos unu dinari a sa die, los aiat mandados a sa binza sua.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260311T170020Z" creationid="Gianfranco" creationdate="20260311T170002Z">
+        <seg>20,2&lt;s0/&gt;A pustis de àere cuntratadu cun issos unu dinari a sa die, nche los aiat mandados a sa binza sua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3951,6 +3951,14 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260309T085920Z" creationid="carmi" creationdate="20260309T082104Z">
         <seg>20,34&lt;s0/&gt;Gesùs nd'aiat tentu dolu, lis aiat tocadu sos ogros e deretu aiant torradu a bi bìdere e li aiant postu in fatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>20,3&lt;s0/&gt;Uscito poi verso le nove del mattino, ne vide altri che stavano sulla piazza disoccupati</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260311T170223Z" creationid="Gianfranco" creationdate="20260311T170223Z">
+        <seg>20,3&lt;s0/&gt;Cando a pustis est essidu a ora de sas noe de manzanu, nd'aiat bidu àteros chi istaiant/fint in sa pratza chene fàghere nudda</seg>
       </tuv>
     </tu>
     <tu>

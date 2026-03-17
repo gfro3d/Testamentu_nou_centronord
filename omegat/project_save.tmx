@@ -4605,10 +4605,26 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>22,19&lt;s0/&gt;Mostratemi la moneta del tributo".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260317T161741Z" creationid="Gianfranco" creationdate="20260317T161741Z">
+        <seg>22,19&lt;s0/&gt;Ammustrade·mi su soddu/sa moneda de su tributu".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>22,1&lt;s0/&gt;Gesù riprese a parlar loro in parabole e disse:</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260317T122541Z" creationid="Gianfranco" creationdate="20260317T122541Z">
         <seg>22,1&lt;s0/&gt;Gesùs aiat torradu a lis faeddare in paràbulas e aiat naradu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>22,20&lt;s0/&gt;Egli domandò loro: "Di chi è questa immagine e l'iscrizione?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260317T161940Z" creationid="Gianfranco" creationdate="20260317T161940Z">
+        <seg>22,20&lt;s0/&gt;Issu lis aiat naradu: "De chie est custa figura/màgine e su chi est iscritu?".</seg>
       </tuv>
     </tu>
     <tu>
@@ -8881,6 +8897,14 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260228T171127Z" creationid="Gianfranco" creationdate="20260228T171127Z">
         <seg>E issos fint tristos/dispràghidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Ed essi gli presentarono un denaro.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260317T161815Z" creationid="Gianfranco" creationdate="20260317T161815Z">
+        <seg>E issos li aiant presentadu unu dinari.</seg>
       </tuv>
     </tu>
     <tu>

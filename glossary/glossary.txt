@@ -200,3 +200,5 @@ Sòdoma	Sòdoma
 Gomorra	Gomorra
 anèto	anedu
 cumìno	tziminu
+Abele	Abele
+Zaccaria	Zacaria

@@ -4629,6 +4629,22 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>22,21&lt;s0/&gt;Gli risposero: "Di Cesare".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260317T162003Z" creationid="Gianfranco" creationdate="20260317T162003Z">
+        <seg>22,21&lt;s0/&gt;Li aiant rispostu: "De Tzèsare".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>22,22&lt;s0/&gt;A queste parole rimasero sorpresi e, lasciatolo, se ne andarono.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260317T171800Z" creationid="Gianfranco" creationdate="20260317T171800Z">
+        <seg>22,22&lt;s0/&gt;Intendende gasi/dae custos faeddos fint abbarrados ispantados/meravizados e, lassende·lu, si nche fint mòvidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>22,23&lt;s0/&gt;In quello stesso giorno vennero a lui dei sadducei, i quali affermano che non c'è risurrezione, e lo interrogarono:</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260310T085849Z" creationid="carmi" creationdate="20260309T164936Z">
@@ -7913,6 +7929,14 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260311T183329Z" creationid="Gianfranco" creationdate="20260311T183329Z">
         <seg>Tando issu puru lis aiat naradu: "(Nem)mancu deo bos naro cun cale autoridade fago/so faghende custas cosas". </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Allora disse loro: "Rendete dunque a Cesare quello che è di Cesare e a Dio quello che è di Dio".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260317T162054Z" creationid="Gianfranco" creationdate="20260317T162054Z">
+        <seg>Tando lis aiat naradu: "Torrade·li duncas a Tzèsare su chi est de Tzèsare e a Deus su chi est de Deus".</seg>
       </tuv>
     </tu>
     <tu>

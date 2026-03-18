@@ -5759,8 +5759,8 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
       <tuv lang="it">
         <seg>25,36&lt;s0/&gt;nudo e mi avete vestito, malato e mi avete visitato, carcerato e siete venuti a trovarmi.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260318T100659Z" creationid="Gianfranco" creationdate="20260318T100659Z">
-        <seg>25,36&lt;s0/&gt;fipo nudu e m'azis bestidu, malàidu e m'azis bisitadu, fipo presu e sezis bènnidos a mi bisitare/mi chircare/mi bìere.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260318T101247Z" creationid="Gianfranco" creationdate="20260318T100659Z">
+        <seg>25,36&lt;s0/&gt;fipo nudu e m'azis bestidu, malàidu e m'azis bisitadu, fipo presoneri e sezis bènnidos a mi bisitare/mi chircare/mi bìere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5777,6 +5777,22 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260318T101148Z" creationid="Gianfranco" creationdate="20260318T101148Z">
         <seg>25,38&lt;s0/&gt;Cando est chi t'amus bidu furisteri e t'amus collidu, o nudu e t'amus bestidu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>25,39&lt;s0/&gt;E quando ti abbiamo visto ammalato o in carcere e siamo venuti a visitarti?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260318T101234Z" creationid="Gianfranco" creationdate="20260318T101234Z">
+        <seg>25,39&lt;s0/&gt;E cando est chi t'amus bidu malàidu o in presoneri e semus bènnidos a ti bisitare?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>25,40&lt;s0/&gt;Rispondendo, il re dirà loro: In verità vi dico: ogni volta che avete fatto queste cose a uno solo di questi miei fratelli più piccoli, l'avete fatto a me.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260318T101459Z" creationid="Gianfranco" creationdate="20260318T101459Z">
+        <seg>25,40&lt;s0/&gt;Cando at a rispòndere, su re lis at a nàrrere: cada borta chi li azis fatu custas cosas a unu ebbia de custos fradigheddos meos prus minores, mi l'azis fatu a mie.</seg>
       </tuv>
     </tu>
     <tu>

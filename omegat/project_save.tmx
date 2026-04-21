@@ -829,8 +829,8 @@
       <tuv lang="it">
         <seg>11,7&lt;s0/&gt;Mentre questi se ne andavano, Gesù si mise a parlare di Giovanni alle folle: "Che cosa siete andati a vedere nel deserto?</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260210T101400Z" creationid="carmi" creationdate="20260205T090355Z">
-        <seg>11,7&lt;s0/&gt;In s'ora chi cussos si nche fint andende, Gesùs si fiat postu a lis faeddare de Giuanne a sas trumas: "It'est chi sezis andados a bìdere in su desertu?</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260421T085249Z" creationid="carmi" creationdate="20260205T090355Z">
+        <seg>11,7&lt;s0/&gt;In s'ora chi cussos si nche fint andende, Gesùs si fit postu a lis faeddare de Giuanne a sas trumas: "It'est chi sezis andados a bìdere in su desertu? </seg>
       </tuv>
     </tu>
     <tu>
@@ -10282,8 +10282,8 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       <tuv lang="it">
         <seg>Coloro che portano&lt;s1/&gt;morbide vesti stanno nei palazzi dei re!</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260210T101534Z" creationid="carmi" creationdate="20260205T090400Z">
-        <seg>(Mi' chi) Sos chi giughent postas&lt;s1/&gt;bestes moddes / foddosas istant in sos palatzos de sos res!</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260421T085417Z" creationid="carmi" creationdate="20260205T090400Z">
+        <seg>Mi' chi sos chi si bestint a dèchidu istant in sos palatzos de sos res!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12606,16 +12606,17 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       <tuv lang="it">
         <seg>Un uomo avvolto in morbide vesti?</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260210T092104Z" creationid="carmi" creationdate="20260210T091915Z">
-        <seg>Un'òmine postu de bestes moddes / foddosas?</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260421T085337Z" creationid="carmi" creationdate="20260210T091915Z">
+        <seg>Un'òmine bestidu a dèchidu?
+</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>Una canna sbattuta dal vento?</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260216T161008Z" creationid="carmi" creationdate="20260205T090350Z">
-        <seg>Una canna tremende·si in su bentu / iscuta dae su bentu?</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260421T085305Z" creationid="carmi" creationdate="20260205T090350Z">
+        <seg>Una canna iscotulada dae su bentu?</seg>
       </tuv>
     </tu>
     <tu>

@@ -369,24 +369,24 @@
       <tuv lang="it">
         <seg>10,26&lt;s0/&gt;Non li temete dunque, poiché non v'è nulla di nascosto che non debba essere svelato, e di segreto che non debba essere manifestato.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260212T162859Z" creationid="carmi" creationdate="20260205T090331Z">
-        <seg>10,26&lt;s0/&gt;Non (bi) los timedas (, tando,) ca non b'at nudda cuadu chi non at a essire a pizu, e nudda segretu chi non l'ant a bogare a pizu.  </seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260421T084218Z" creationid="carmi" creationdate="20260205T090331Z">
+        <seg>10,26&lt;s0/&gt;Non los timedas; {ca} non b'at nudda cuadu chi non at a essire a pizu, e nudda segretu chi non l'ant a bogare a pizu.  </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>10,27&lt;s0/&gt;Quello che vi dico nelle tenebre ditelo nella luce, e quello che ascoltate all'orecchio&lt;s1/&gt;predicatelo sui tetti.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260205T171009Z" creationid="carmi" creationdate="20260205T090332Z">
-        <seg>10,27&lt;s0/&gt;Su chi bos naro a s'iscuru narade·lu a sa lughe, e su chi ascurtades cun s'origra&lt;s1/&gt;preigade·lu subra de sas bòvedas.</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260421T084252Z" creationid="carmi" creationdate="20260205T090332Z">
+        <seg>10,27&lt;s0/&gt;Su chi bos naro a s'iscuru narade·lu a sa lughe, e su chi ascurtades cun s'origra preigade·lu subra de sas bòvedas.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>10,28&lt;s0/&gt;E non abbiate paura di quelli che uccidono il corpo, ma non hanno potere di uccidere l'anima;temete piuttosto colui che ha il potere di far perire e l'anima e il corpo nella Geenna.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260212T163121Z" creationid="carmi" creationdate="20260205T090333Z">
-        <seg>10,28&lt;s0/&gt;E non timedas a sos chi morint su corpus, ma non tenent pòdere de / non podent mòrrere s'ànima; timide prus a prestu su chi tenet su podere de / su chi podet mòrrere (a) ambos ànima e corpus in sa Geenna.</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260421T084313Z" creationid="carmi" creationdate="20260205T090333Z">
+        <seg>10,28&lt;s0/&gt;E non timedas a sos chi morint su corpus, ma non tenent su pòdere de mòrrere s'ànima; timide prus a prestu su chi tenet su podere de mòrrere a ambos ànima e corpus in sa Geenna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -409,16 +409,17 @@
       <tuv lang="it">
         <seg>10,30&lt;s0/&gt;Quanto a voi, perfino i capelli del vostro capo sono tutti contati;</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260212T165922Z" creationid="carmi" creationdate="20260205T090335Z">
-        <seg>10,30&lt;s0/&gt; (E bois puru), fintzas sos pilos in conca (bostra) faghet a (bos) los contare;</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260421T084404Z" creationid="carmi" creationdate="20260205T090335Z">
+        <seg>10,30&lt;s0/&gt; E bois puru, fintzas sos pilos in conca sunt totu contandos;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>10,31&lt;s0/&gt;non abbiate dunque timore: voi valete più di molti passeri!</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260207T165157Z" creationid="carmi" creationdate="20260205T090336Z">
-        <seg>10,31&lt;s0/&gt;non tenzedas timoria / non timedas, duncas: bois bos balides de prus de meda(s)   furfuràrgios!</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260421T084419Z" creationid="carmi" creationdate="20260205T090336Z">
+        <seg>10,31&lt;s0/&gt;non timedas, duncas: bois bos balides prus de medas  furfuràrgios!
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -433,8 +434,8 @@
       <tuv lang="it">
         <seg>10,33&lt;s0/&gt;chi invece mi rinnegherà davanti agli uomini, anch'io lo rinnegherò davanti al Padre mio che è nei cieli.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260207T165243Z" creationid="carmi" creationdate="20260205T090337Z">
-        <seg>10,33&lt;s0/&gt;chie imbetzes m'at a dennegare cara a sos òmines, gasi etotu deo l'apo a dennegare dae cara a Babbu meu chi est in sos chelos.</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260421T084454Z" creationid="carmi" creationdate="20260205T090337Z">
+        <seg>10,33&lt;s0/&gt;chie imbetzes m'at a dennegare cara a sos òmines, gasi etotu deo l'apo a dennegare cara a Babbu meu chi est in sos chelos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11176,8 +11177,9 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       <tuv lang="it">
         <seg>Eppure neanche uno di essi cadrà a terra senza che il Padre vostro lo voglia.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260212T164653Z" creationid="carmi" creationdate="20260205T090334Z">
-        <seg>Ello due furfurarzos non si bendent a unu soddu? Epuru / E mancari gasi manc'unu de issos nch'at a rùere a terra chene chi Babbu bostru lu cherzat / bozat / chene lu chèrrere / bòlere Babbu bostru.</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260421T084350Z" creationid="carmi" creationdate="20260205T090334Z">
+        <seg>E mancari gasi manc'unu de issos nch'at a rùere a terra chene lu chèrrere Babbu bostru. 
+.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12370,8 +12372,8 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       <tuv lang="it">
         <seg>Se hanno chiamato Beelzebùl il padrone di casa, quanto più i suoi familiari!</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260212T162502Z" creationid="carmi" creationdate="20260205T090331Z">
-        <seg>i est bastante pro / bastat a su dischente a èssere che a su mastru e pro / a su tzeracu che a su mere. Si a su mere de domo li ant postu a nùmene Beelzebùl, peus puru / ite lis at a tocare a sos de domo!</seg>
+      <tuv lang="sc" changeid="carmi" changedate="20260421T084207Z" creationid="carmi" creationdate="20260205T090331Z">
+        <seg> Si a su mere de domo li ant postu a nùmene Beelzebùl, peus puru lis at a tocare a sos de domo!</seg>
       </tuv>
     </tu>
     <tu>

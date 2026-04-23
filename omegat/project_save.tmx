@@ -224,8 +224,8 @@
       <tuv lang="it">
         <seg>10,10&lt;s0/&gt;né bisaccia da viaggio, né due tuniche, né sandali, né bastone, perché l'operaio ha diritto al suo nutrimento.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260212T152714Z" creationid="Gianfranco" creationdate="20260210T131552Z">
-        <seg>10,10&lt;s0/&gt;nen bèrtulas/tascas pro/de biazu, nen tùnicas, nen sàndalos, nen fuste, ca su traballadore est dinnu/meritosu de sa provista / su recatu suo. 
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260423T164040Z" creationid="Gianfranco" creationdate="20260210T131552Z">
+        <seg>10,10&lt;s0/&gt;nen bèrtula de biazu, nen tùnica in prus, nen sàndalos, nen fuste, ca su traballadore est dinnu/meritosu de su recatu suo. 
 </seg>
       </tuv>
     </tu>
@@ -233,8 +233,8 @@
       <tuv lang="it">
         <seg>10,11&lt;s0/&gt;In qualunque città o villaggio entriate, fatevi indicare se vi sia qualche persona degna, e lì rimanete fino alla vostra partenza.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260217T135950Z" creationid="Gianfranco" creationdate="20260210T131746Z">
-        <seg>10,11&lt;s0/&gt;A cale si siat tzitade o bidda intredas, dimandade/nade a bos inditare si b'at carchi persone dinna, e inie  abbarrade finas a bos nche mòvere/a cando bos nche movides.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260423T164057Z" creationid="Gianfranco" creationdate="20260210T131746Z">
+        <seg>10,11&lt;s0/&gt;A cale si siat tzitade o bidda intredas, dimandade a bos inditare si b'at carchi persone dinna, e inie abbarrade finas a cando bos nche movides.</seg>
       </tuv>
     </tu>
     <tu>
@@ -257,8 +257,8 @@
       <tuv lang="it">
         <seg>10,14&lt;s0/&gt;Se qualcuno poi non vi accoglierà e non darà ascolto alle vostre parole, uscite da quella casa o da quella città e scuotete la polvere dai vostri piedi.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260212T152832Z" creationid="Gianfranco" creationdate="20260210T132237Z">
-        <seg>10,14&lt;s0/&gt; A pustis, si calicunu non bos at a collire/collit e no ascurtat su chi narades/sos faeddos bostros, esside/movide·bos·nche dae cudda tzitade e catzade·bos / iscutzinade·bos su prùere dae pedes.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260423T164155Z" creationid="Gianfranco" creationdate="20260210T132237Z">
+        <seg>10,14&lt;s0/&gt; A pustis, si calicunu non bos collit e no ascurtat sos faeddos bostros, esside·nde dae cudda domo o cudda tzitade e  iscutzinade·bos su prùere dae pedes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,33 +538,32 @@
       <tuv lang="it">
         <seg>10,6&lt;s0/&gt;rivolgetevi piuttosto alle pecore perdute della casa d'Israele.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260212T150439Z" creationid="Gianfranco" creationdate="20260210T125706Z">
-        <seg>10,6&lt;s0/&gt;prus a prestu mirade / andade a sas berbeghes pèrdidas / iscameddadas in sa domo de Israele.
-.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260423T163915Z" creationid="Gianfranco" creationdate="20260210T125706Z">
+        <seg>10,6&lt;s0/&gt;prus a prestu andade a sas berbeghes pèrdidas de sa domo de Israele.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>10,7&lt;s0/&gt;E strada facendo, predicate che il regno dei cieli è vicino.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260212T150509Z" creationid="Gianfranco" creationdate="20260210T125737Z">
-        <seg>10,7&lt;s0/&gt;E in caminu, preigade chi su rennu de sos chelos est a probe/est benende/ s’est acurtziende.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260423T163931Z" creationid="Gianfranco" creationdate="20260210T125737Z">
+        <seg>10,7&lt;s0/&gt;E in caminu, preigade chi su rennu de sos chelos est a curtzu.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>10,8&lt;s0/&gt;Guarite gli infermi, risuscitate i morti, sanate i lebbrosi, cacciate i demòni.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260212T151054Z" creationid="Gianfranco" creationdate="20260210T130922Z">
-        <seg>10,8&lt;s0/&gt;Sanade a sos malàidos, torrade sos mortos a bida, sanade sos lebbrosos, ispatzade·nche/bogade·nche sos dimònios.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260423T163956Z" creationid="Gianfranco" creationdate="20260210T130922Z">
+        <seg>10,8&lt;s0/&gt;Sanade a sos malàidos, torrade sos mortos a bida, sanade sos lebbrosos, bogade·nche sos dimònios.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>10,9&lt;s0/&gt;Non procuratevi oro, né argento, né moneta di rame nelle vostre cinture,</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260212T150907Z" creationid="Gianfranco" creationdate="20260210T131333Z">
-        <seg>10,9&lt;s0/&gt;Non chirchedas/buschedas oro, ne prata, nè dinare de ràmene in sas chintorzas,</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260423T164020Z" creationid="Gianfranco" creationdate="20260210T131333Z">
+        <seg>10,9&lt;s0/&gt;Non bos pighedas oro, nen prata, nen dinare de ràmene in sas chintorzas,</seg>
       </tuv>
     </tu>
     <tu>
@@ -11428,8 +11427,8 @@ aprontade su caminu de su Sennore, adderetade sas àndalas suas!
       <tuv lang="it">
         <seg>Gratuitamente avete ricevuto, gratuitamente date.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260210T131026Z" creationid="Gianfranco" creationdate="20260210T131026Z">
-        <seg>(Comente) In donu azis àpidu, gasi etotu dade.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260423T164001Z" creationid="Gianfranco" creationdate="20260210T131026Z">
+        <seg>Comente a indonu azis retzidu, gasi etotu dade.</seg>
       </tuv>
     </tu>
     <tu>

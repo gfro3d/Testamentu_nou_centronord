@@ -7469,24 +7469,25 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
       <tuv lang="it">
         <seg>3,10&lt;s0/&gt;Già la scure è posta alla radice degli alberi: ogni albero che non produce frutti buoni viene tagliato e gettato nel fuoco.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carmi" changedate="20260120T112911Z" creationid="carmi" creationdate="20260120T112911Z">
-        <seg>3,10&lt;s0/&gt;S'istrale nch'est giai imbarada a sa raighina de sos àrbores: cada àrbore chi non daet frutos bonos si nche segat e si nche ghetat a su fogu.</seg>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260701T154906Z" creationid="carmi" creationdate="20260120T112911Z">
+        <seg>3,10&lt;s0/&gt;S'istrale nch’est giai posta in sa raighina de sos àrbores: cada àrbore chi non daet frutos bonos si nde segat e si nche ghetat a su fogu.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>3,11&lt;s0/&gt;Io vi battezzo con acqua per la conversione; ma colui che viene dopo di me è più potente di me e io non son degno neanche di portargli i sandali; egli vi battezzerà in Spirito santo e fuoco.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260128T150130Z" creationid="Gianfranco" creationdate="20260126T112206Z">
-        <seg>3,11&lt;s0/&gt;Deo bos batizo chin abba pro bos cunvertire; ma su chi at a bènnere a pustis de mene est prus potente e deo non so dinnu mancu de li zùghere sos sàndalos; issu bos at a batizare in s'Ispìritu Santu e su fogu.</seg>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260701T154921Z" creationid="Gianfranco" creationdate="20260126T112206Z">
+        <seg>3,11&lt;s0/&gt;Deo bos so batizende chin abba pro bos cunvertire; ma su chi est benende in fatu meu est prus potente e deo non so dinnu mancu de li zùghere sos sàndalos; issu bos at a batizare in s'Ispìritu Santu e su fogu.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>3,12&lt;s0/&gt;Egli ha in mano il ventilabro, pulirà la sua aia e raccoglierà il suo grano nel granaio, ma brucerà la pula con un fuoco inestinguibile".</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260128T150914Z" creationid="Gianfranco" creationdate="20260126T113318Z">
-        <seg>3,12&lt;s0/&gt;Issu zughet in manu sa paliatza, at a innetare s'arzola e at a collire su trigu in su granale, ma at a brusiare sa pula/paza cun unu fogu chi non faghet a l'istudare.  </seg>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260701T154956Z" creationid="Gianfranco" creationdate="20260126T113318Z">
+        <seg>3,12&lt;s0/&gt;Issu zughet in manu sa paliatza, at a innetare s'arzola e at a collire su trigu in su granale, ma at a brusiare sa pula cun unu fogu chi non si nche morit».
+ </seg>
       </tuv>
     </tu>
     <tu>
@@ -12722,8 +12723,8 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       <tuv lang="it">
         <seg>Vi dico che Dio può far sorgere figli di Abramo da queste pietre.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260128T144443Z" creationid="carmi" creationdate="20260118T185523Z">
-        <seg>Bos naro chi Deus nche podet bogare fizos de Abramu dae custas pedras.</seg>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260701T154857Z" creationid="carmi" creationdate="20260118T185523Z">
+        <seg>Ca bos naro chi Deus nde podet pesare fizos de Abramu dae custas pedras.</seg>
       </tuv>
     </tu>
     <tu>

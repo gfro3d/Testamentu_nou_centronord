@@ -12419,6 +12419,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Sei venuto a rovinarci?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260707T143809Z" creationid="Gianfranco" creationdate="20260707T143809Z">
+        <seg>[fuzzy]A nos arruinare ses bènnidu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Sei venuto qui prima del tempo a tormentarci?".</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260305T171205Z" creationid="carmi" creationdate="20260203T154410Z">

@@ -526,10 +526,34 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,78 &lt;s0/&gt;grazie alla bontà misericordiosa del nostro Dio, per cui verrà a visitarci dall'alto un sole che sorge</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260707T154241Z" creationid="carminupintore" creationdate="20260707T154241Z">
+        <seg>1,78 &lt;s0/&gt;gràtzias a sa bonidade misericordiosa de su Deus nostru, pro cale at a bènnere a nche bisitare dae s'artu unu sole chi pesat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,79 &lt;s0/&gt;per rischiarare quelli che stanno nelle tenebre e nell'ombra della morte e dirigere i nostri passi sulla via della pace".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260707T154242Z" creationid="carminupintore" creationdate="20260707T154242Z">
+        <seg>1,79 &lt;s0/&gt;pro rischiarare sos chi istant in sas tenebre e in s'umbra de sa morte e dirìgere sos passos nostros subra de sa bia de sa paghe".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,7&lt;s0/&gt;Salomone generò Roboamo, Roboamo generò Abìa, Abìa generò Asaf,</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260119T112919Z" creationid="carmi" creationdate="20260118T175703Z">
         <seg>1,7&lt;s0/&gt;Salomone inzeneresit a Roboamu, Roboamu inzeneresit a Abia, Abia inzeneresit a Asàf,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,80 &lt;s0/&gt;Il fanciullo cresceva e si fortificava nello spirito.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260707T154243Z" creationid="carminupintore" creationdate="20260707T154243Z">
+        <seg>1,80 &lt;s0/&gt;Su pitzocu creschiat e si fortificaiat in s'ispìritu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13121,6 +13145,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260701T154857Z" creationid="carmi" creationdate="20260118T185523Z">
         <seg>Ca bos naro chi Deus nde podet pesare fizos de Abramu dae custas pedras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Visse in regioni deserte fino al giorno della sua manifestazione a Israele.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260707T154751Z" creationid="carminupintore" creationdate="20260707T154751Z">
+        <seg>Aiat bìvidu in regiones desertas finas a sa die de sa manifestatzione sua in Israele.</seg>
       </tuv>
     </tu>
     <tu>

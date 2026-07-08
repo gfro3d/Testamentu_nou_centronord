@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,10 &lt;s0/&gt;Tutta l'assemblea del popolo pregava fuori nell'ora dell'incenso.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260708T172238Z" creationid="Gianfranco" creationdate="20260708T172238Z">
+        <seg>1,10 &lt;s0/&gt;Totu sa truma de su pòpulu/de gente fit preghende in foras in s'ora de sa timanza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,10&lt;s0/&gt;Ezechia generò Manasse, Manasse generò Amos, Amos generò Giosia,</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260119T112950Z" creationid="carmi" creationdate="20260118T175711Z">
         <seg>1,10&lt;s0/&gt;Etzechia inzeneresit a Manasse, Manasse inzeneresit a Amos, Amos inzeneresit a Giosia,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,11 &lt;s0/&gt;Allora gli apparve un angelo del Signore, ritto alla destra dell'altare dell'incenso.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260708T173409Z" creationid="Gianfranco" creationdate="20260708T173409Z">
+        <seg>1,11 &lt;s0/&gt;Tando s'aiat bidu un'ànghelu de su Sennore, a sa ritza a manu dereta de s'altare da sa timanza.</seg>
       </tuv>
     </tu>
     <tu>

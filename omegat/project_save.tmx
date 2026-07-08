@@ -112,8 +112,8 @@
       <tuv lang="it">
         <seg>1,16 &lt;s0/&gt;e ricondurrà molti figli d'Israele al Signore loro Dio.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260708T175554Z" creationid="Gianfranco" creationdate="20260708T175554Z">
-        <seg>1,16 &lt;s0/&gt;e a medas fizos de Israele nche los at a giùghere a su Sennore Deus issoro/de issos.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260708T175857Z" creationid="Gianfranco" creationdate="20260708T175554Z">
+        <seg>1,16 &lt;s0/&gt;e a medas fizos de Israele nche los at a giùghere/torrare a su Sennore Deus issoro/de issos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,6 +122,14 @@
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260119T113038Z" creationid="carmi" creationdate="20260118T180335Z">
         <seg>1,16&lt;s0/&gt;Giacobbe inzeneresit a Giosepe, s'isposu de Maria, chi dae issa naschesit Gesùs chi li narant Cristos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,17 &lt;s0/&gt;Gli camminerà innanzi con lo spirito e la forza di Elia, per ricondurre i cuori dei padri verso i figli e i ribelli alla saggezza dei giusti e preparare al Signore un popolo ben disposto".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260708T175845Z" creationid="Gianfranco" creationdate="20260708T175845Z">
+        <seg>1,17 &lt;s0/&gt;L'at a pònnere in fatu a (a su Sennore) cun s'ispìritu e sa fortza de Elias, pro nche fàghere torrare su coro de sos babbos camminerà innanzi con lo spirito e la forza di Elia, per ricondurre i cuori dei padri verso i figli e i ribelli alla saggezza dei giusti e preparare al Signore un popolo ben disposto".</seg>
       </tuv>
     </tu>
     <tu>

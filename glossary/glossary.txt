@@ -209,3 +209,4 @@ Arimatèa	Arimatea
 Parasceve	Parasceve
 παῖς	serbidore
 Elisabetta	Elisabeta
+incenso	timanza

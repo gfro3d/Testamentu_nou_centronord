@@ -302,10 +302,26 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,25 &lt;s0/&gt;"Ecco che cosa ha fatto per me il Signore, nei giorni in cui si è degnato di togliere la mia vergogna tra gli uomini".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260708T185038Z" creationid="Gianfranco" creationdate="20260708T185038Z">
+        <seg>1,25 &lt;s0/&gt;"Mi' ite m'at fatu su Sennore, sas dies chi s'est dinnadu de mi nche tirare/catzare sa birgonza intre sos òmines".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,25&lt;s0/&gt;la quale, senza che egli la conoscesse, partorì un figlio, che egli chiamò Gesù.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260209T100728Z" creationid="Gianfranco" creationdate="20260126T100935Z">
         <seg>1,25&lt;s0/&gt;chi, chene la connòschere, aiat nàschidu unu fizu, chi issu li aiat postu Gesus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,26 &lt;s0/&gt;Nel sesto mese, l'angelo Gabriele fu mandato da Dio in una città della Galilea, chiamata Nazaret,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260708T185226Z" creationid="Gianfranco" creationdate="20260708T185226Z">
+        <seg>1,26 &lt;s0/&gt;In/a su de ses meses, a s'ànghelu Gabriele Deus l'aiat mandadu a una tzitade de sa Galilea, chi si narat Nazaret,</seg>
       </tuv>
     </tu>
     <tu>

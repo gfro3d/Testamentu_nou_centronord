@@ -464,32 +464,32 @@
       <tuv lang="it">
         <seg>1,66 &lt;s0/&gt;Coloro che le udivano, le serbavano in cuor loro: "Che sarà mai questo bambino?" si dicevano.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carminupintore" changedate="20260708T161123Z" creationid="carminupintore" creationdate="20260707T154221Z">
-        <seg>1,66 &lt;s0/&gt;Sos chi aiant intesu custas cosas, si las colliant in coro issoro: "Ello ite at a èssere custu pitzinneddu?" si naraiant.</seg>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260708T161302Z" creationid="carminupintore" creationdate="20260707T154221Z">
+        <seg>1,66 &lt;s0/&gt;Sos chi aiant intesu custas cosas, si las colliant in coro issoro, narende: "Ello ite at a èssere custu pitzinneddu?".</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>1,67 &lt;s0/&gt;Zaccaria, suo padre, fu pieno di Spirito Santo, e profetò dicendo:</seg>
       </tuv>
-      <tuv lang="sc" changeid="carminupintore" changedate="20260707T154224Z" creationid="carminupintore" creationdate="20260707T154224Z">
-        <seg>1,67 &lt;s0/&gt;Zaccaria, su babbu, fiat istadu prenu de Ispìritu Santo, e profetò narende:</seg>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260708T161412Z" creationid="carminupintore" creationdate="20260707T154224Z">
+        <seg>1,67 &lt;s0/&gt;Zacaria, su babbu, fit prenu de Ispìritu Santu, e aiat profetadu narende:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>1,68 &lt;s0/&gt;"Benedetto il Signore Dio d'Israele, perché ha visitato e redento il suo popolo,</seg>
       </tuv>
-      <tuv lang="sc" changeid="carminupintore" changedate="20260707T154225Z" creationid="carminupintore" creationdate="20260707T154225Z">
-        <seg>1,68 &lt;s0/&gt;"Benedetto su Sennore Deus de Israele, ca at bisitadu e redento su pòpulu suo,</seg>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260708T162012Z" creationid="carminupintore" creationdate="20260707T154225Z">
+        <seg>1,68 &lt;s0/&gt;"Beneitu su Sennore Deus de Israele, ca at bisitadu e luidu /fatu sa luidura de su pòpulu suo,</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>1,69 &lt;s0/&gt;e ha suscitato per noi una salvezza potente nella casa di Davide, suo servo,</seg>
       </tuv>
-      <tuv lang="sc" changeid="carminupintore" changedate="20260707T154226Z" creationid="carminupintore" creationdate="20260707T154226Z">
-        <seg>1,69 &lt;s0/&gt;e at intzitadu pro nois una sarvesa poderosa in sa domo de Davide, suo tzeracu,</seg>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260708T165227Z" creationid="carminupintore" creationdate="20260707T154226Z">
+        <seg>1,69 &lt;s0/&gt;e at inartadu pro nois unu corru de sarvesa in sa domo de Davide, tzeracu suo,</seg>
       </tuv>
     </tu>
     <tu>
@@ -520,16 +520,16 @@
       <tuv lang="it">
         <seg>1,70 &lt;s0/&gt;come aveva promesso per bocca dei suoi santi profeti d'un tempo:</seg>
       </tuv>
-      <tuv lang="sc" changeid="carminupintore" changedate="20260707T154228Z" creationid="carminupintore" creationdate="20260707T154228Z">
-        <seg>1,70 &lt;s0/&gt;comente aiat promìtidu pro buca de sos santos profetas suos de unu tempus:</seg>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260708T165511Z" creationid="carminupintore" creationdate="20260707T154228Z">
+        <seg>1,70 &lt;s0/&gt;comente aiat promìtidu cun sa buca de sos santos profetas suos dae tempos antigos / dae tempus meda / dae s'antigòriu:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>1,71 &lt;s0/&gt;salvezza dai nostri nemici, e dalle mani di quanti ci odiano.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carminupintore" changedate="20260707T154230Z" creationid="carminupintore" creationdate="20260707T154230Z">
-        <seg>1,71 &lt;s0/&gt;sarvesa de sos inimigos nostros, e de sas manos de cantos nch'òdiant.</seg>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260708T165648Z" creationid="carminupintore" creationdate="20260707T154230Z">
+        <seg>1,71 &lt;s0/&gt;chi nos diat àere sarvadu de sos inimigos nostros, e de sas manos de sos chi nos zughent in òdiu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11301,8 +11301,8 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       <tuv lang="it">
         <seg>E davvero la mano del Signore stava con lui.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carminupintore" changedate="20260707T154223Z" creationid="carminupintore" creationdate="20260707T154223Z">
-        <seg>E a beru sa manu de su Sennore istaiat cun issu.</seg>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260708T161326Z" creationid="carminupintore" creationdate="20260707T154223Z">
+        <seg>Ca a beru sa manu de su Sennore fit cun issu.</seg>
       </tuv>
     </tu>
     <tu>

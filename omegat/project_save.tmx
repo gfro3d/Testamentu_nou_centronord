@@ -312,8 +312,8 @@
       <tuv lang="it">
         <seg>1,5 &lt;s0/&gt;Al tempo di Erode, re della Giudea, c'era un sacerdote chiamato Zaccaria, della classe di Abìa, e aveva in moglie una discendente di Aronne chiamata Elisabetta.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260708T154551Z" creationid="Gianfranco" creationdate="20260708T154551Z">
-        <seg>1,5 &lt;s0/&gt;B'aiat/Bi fit in sos tempos de Erode, re de sa Giudea, unu satzerdote (, unu tale) chi si naraiat Zacaria, de s'òrdine de Abia, e sa muzere de s'ala de/de s'ereu/de sas fizas de Aronne, chi si naraiat/ e su nùmene de custa fit Elisabeta.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260708T161248Z" creationid="Gianfranco" creationdate="20260708T154551Z">
+        <seg>1,5 &lt;s0/&gt;B'aiat/Bi fit in sos tempos de Erode, re de sa Giudea, unu satzerdote (, unu tale) chi si naraiat Zacaria, de s'òrdine de Abia, e sa muzere de s'ala de/de s'ereu/de sas fizas de Aronne, e su nùmene suo fit Elisabeta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -402,6 +402,14 @@
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260119T112903Z" creationid="carmi" creationdate="20260118T175619Z">
         <seg>1,5&lt;s0/&gt;Salmòn inzeneresit a Booz de Racab, Booz inzeneresit a Obed de Rut, Obed inzeneresit a Jesse,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,6 &lt;s0/&gt;Erano giusti davanti a Dio, osservavano irreprensibili tutte le leggi e le prescrizioni del Signore.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260708T160401Z" creationid="Gianfranco" creationdate="20260708T160401Z">
+        <seg>1,6 &lt;s0/&gt;Fint ambos zustos in antis a/de Deus, rispetaiant/rispetende cun rigore/rigurosos/chene falta totu sas lezes e sos cumandamentos de su Sennore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,7 &lt;s0/&gt;Ma non avevano figli, perché Elisabetta era sterile e tutti e due erano avanti negli anni.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260708T161020Z" creationid="Gianfranco" creationdate="20260708T161020Z">
+        <seg>1,7 &lt;s0/&gt;Ma non teniat fizu, dae chi/ca Elisabeta fit lunàdiga e ambos duos nche fint mannos de edade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,70 &lt;s0/&gt;come aveva promesso per bocca dei suoi santi profeti d'un tempo:</seg>
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260707T154228Z" creationid="carminupintore" creationdate="20260707T154228Z">
@@ -590,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,8 &lt;s0/&gt;Mentre Zaccaria officiava davanti al Signore nel turno della sua classe,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260708T161932Z" creationid="Gianfranco" creationdate="20260708T161220Z">
+        <seg>1,8 &lt;s0/&gt;In s'ora chi Zacaria fit servende in antis a su Sennore cunforma a su turnu de s'òrdine suo,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,80 &lt;s0/&gt;Il fanciullo cresceva e si fortificava nello spirito.</seg>
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260707T154243Z" creationid="carminupintore" creationdate="20260707T154243Z">
@@ -602,6 +626,14 @@
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260119T112941Z" creationid="carmi" creationdate="20260118T175706Z">
         <seg>1,8&lt;s0/&gt;Asàf inzeneresit a Giòsafat, Giòsafat inzeneresit a Joram, Joram inzeneresit a Otzia,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,9 &lt;s0/&gt;secondo l'usanza del servizio sacerdotale, gli toccò in sorte di entrare nel tempio per fare l'offerta dell'incenso.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260708T161257Z" creationid="Gianfranco" creationdate="20260708T161257Z">
+        <seg>1,9 &lt;s0/&gt;secondo l'usanza del servizio sacerdotale, gli toccò in sorte di entrare nel tempio per fare l'offerta dell'incenso.</seg>
       </tuv>
     </tu>
     <tu>

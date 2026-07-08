@@ -184,8 +184,8 @@
       <tuv lang="it">
         <seg>1,3 &lt;s0/&gt;così ho deciso anch'io di fare ricerche accurate su ogni circostanza fin dagli inizi e di &lt;s1/&gt;scriverne per te un resoconto ordinato, illustre Teòfilo,</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260708T151513Z" creationid="Gianfranco" creationdate="20260708T151513Z">
-        <seg>1,3 &lt;s0/&gt;gasi etotu deo puru apo detzisu de fàghere chircas così ho deciso anch'io di fare ricerche accurate su ogni circostanza fin dagli inizi e di &lt;s1/&gt;scriverne per te un resoconto ordinato, illustre Teòfilo,</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260708T153124Z" creationid="Gianfranco" creationdate="20260708T151513Z">
+        <seg>1,3 &lt;s0/&gt;gasi etotu m'est partu pretzisu a mie puru, dae chi apo sighidu/ a pustis de àere bidu bene totu sos fatos dae printzìpios/su comintzu&lt;s1/&gt;a ti nde/los iscrìere in manera ordinada/unu pro unu, Teòfilo istimadu,</seg>
       </tuv>
     </tu>
     <tu>
@@ -210,6 +210,14 @@
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260119T112840Z" creationid="carmi" creationdate="20260118T175211Z">
         <seg>1,3&lt;s0/&gt;Giuda inzeneresit a Fares e Zara de Tamar, Fares inzeneresit a Esròm, Esròm inzeneresit a Aram,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,4 &lt;s0/&gt;perché ti possa rendere conto della solidità degli insegnamenti che hai ricevuto.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260708T153641Z" creationid="Gianfranco" creationdate="20260708T153641Z">
+        <seg>1,4 &lt;s0/&gt;ca gasi t'abbizas/pro chi t'abbizes de sa zustesa de sos imparos chi t'ant dadu.</seg>
       </tuv>
     </tu>
     <tu>

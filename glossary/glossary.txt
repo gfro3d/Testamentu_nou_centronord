@@ -120,7 +120,6 @@ Isaia	Isaia
 Giudea	Giudea
 Gerusalemme	Gerusalemme
 Giordano	Giordanu
-Nazaret	Nazaret
 Galilea	Galilea
 Simone	Simone
 Davide	Dàvide
@@ -210,3 +209,4 @@ Parasceve	Parasceve
 παῖς	serbidore
 Elisabetta	Elisabeta
 incenso	timanza
+Nazaret	Nazarèt

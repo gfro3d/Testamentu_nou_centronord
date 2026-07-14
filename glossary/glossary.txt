@@ -210,3 +210,4 @@ Parasceve	Parasceve
 Elisabetta	Elisabeta
 incenso	timanza
 Nazaret	Nazarèt
+Quirinio	Chirìniu

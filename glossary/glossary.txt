@@ -211,3 +211,4 @@ Elisabetta	Elisabeta
 incenso	timanza
 Nazaret	Nazarèt
 Quirinio	Chirìniu
+famiglia di Davide	domo de Dàvide	οἴκου Δαυὶδ

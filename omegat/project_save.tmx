@@ -10145,8 +10145,8 @@ adderetade sas àndalas suas!
       <tuv lang="it">
         <seg>5,10 &lt;s0/&gt;così pure Giacomo e Giovanni, figli di Zebedèo, che erano soci di Simone. Gesù disse a Simone: &lt;s1/&gt;"Non temere; d'ora in poi sarai pescatore di uomini".</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260729T182449Z" creationid="Gianfranco" creationdate="20260729T182449Z">
-        <seg>5,10 &lt;s0/&gt;gasi etotu Giagu e Giuanne, fizos de Zebedeu, chi fint sòtzios de Simone. Gesùs li aiat nardu a Simone: &lt;s1/&gt;«Non timedas; dae como in susu as a èssere piscadore de òmines».</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260729T182535Z" creationid="Gianfranco" creationdate="20260729T182449Z">
+        <seg>5,10 &lt;s0/&gt;gasi etotu Giagu e Giuanne, fizos de Zebedeu, chi fint sòtzios de Simone. Gesùs li aiat nardu a Simone: &lt;s1/&gt;«Non timas; dae como in susu as a èssere piscadore de òmines».</seg>
       </tuv>
     </tu>
     <tu>
@@ -10161,8 +10161,8 @@ adderetade sas àndalas suas!
       <tuv lang="it">
         <seg>5,11 &lt;s0/&gt;Tirate le barche a terra, lasciarono tutto e lo seguirono.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260729T182527Z" creationid="Gianfranco" creationdate="20260729T182527Z">
-        <seg>5,11 &lt;s0/&gt;Tirate le barche a terra, lasciarono tutto e lo seguirono.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260729T182603Z" creationid="Gianfranco" creationdate="20260729T182527Z">
+        <seg>5,11 &lt;s0/&gt;Tiradas sas barcas a terra, aiant lassadu totu e li aiant postu in fatu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10171,6 +10171,14 @@ adderetade sas àndalas suas!
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260123T161808Z" creationid="carmi" creationdate="20260123T115644Z">
         <seg>5,11&lt;s0/&gt;Biados bois cando bos ant a inzurzare, bos ant a persighire e, faularzende, ant a nàrrere cada casta de male contra a bois pro more meu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>5,12 &lt;s0/&gt;Un giorno Gesù si trovava in una città e un uomo coperto di lebbra lo vide e gli si gettò ai piedi pregandolo: "Signore, se vuoi, puoi sanarmi".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260729T182859Z" creationid="Gianfranco" creationdate="20260729T182859Z">
+        <seg>5,12 &lt;s0/&gt;Una die Gesùs fit in una tzitade e un'òmine prenu de lebbra l'aiat bidu e si li fit ghetadu a pees preghende·lu: «Sennore, si cheres, mi podes sanare».</seg>
       </tuv>
     </tu>
     <tu>

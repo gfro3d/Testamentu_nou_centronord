@@ -11993,8 +11993,8 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       <tuv lang="it">
         <seg>7,3 &lt;s0/&gt;Perciò, avendo udito parlare di Gesù, gli mandò alcuni anziani dei Giudei a pregarlo di venire e di salvare il suo servo.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260828T155411Z" creationid="Gianfranco" creationdate="20260828T155411Z">
-        <seg>7,3 &lt;s0/&gt;Pro cussu, comente aiat intesu faeddende de Gesùs, li aiat mandadu unos cantu sèneghes Giudeos a lu pregare pro chi esseret andadu a sarvare a su tzeracu suo.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260828T155448Z" creationid="Gianfranco" creationdate="20260828T155411Z">
+        <seg>7,3 &lt;s0/&gt;Pro cussu, comente aiat intesu faeddende de Gesùs, li aiat mandadu unos cantu sèneghes Giudeos a lu pregare pro chi esseret andadu a sanare su tzeracu suo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12088,6 +12088,14 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>7,4 &lt;s0/&gt;Costoro giunti da Gesù lo pregavano con insistenza: "Egli merita che tu gli faccia questa grazia, dicevano,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260828T161933Z" creationid="Gianfranco" creationdate="20260828T161526Z">
+        <seg>7,4 &lt;s0/&gt;Sos chi fint arribbados a ue Gesùs lu fint preghende pro lu pregare e narende: «issu est meritosu chi li fatzas custu, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>7,40 &lt;s0/&gt;Gesù allora gli disse: "Simone, ho una cosa da dirti".</seg>
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260826T143618Z" creationid="carminupintore" creationdate="20260826T140647Z">
@@ -12176,6 +12184,14 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>7,5 &lt;s0/&gt;perché ama il nostro popolo, ed è stato lui a costruirci la sinagoga".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260828T162006Z" creationid="Gianfranco" creationdate="20260828T161802Z">
+        <seg>7,5 &lt;s0/&gt;ca a su pòpulu nostru l'istimat, e est issu chi nos at fraigadu sa sinagoga».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>7,50 &lt;s0/&gt;Ma egli disse alla donna: "La tua fede ti ha salvata; va' in pace!".</seg>
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260826T145724Z" creationid="carminupintore" creationdate="20260826T140709Z">
@@ -12192,10 +12208,26 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>7,6 &lt;s0/&gt;Gesù si incamminò con loro. Non era ormai molto distante dalla casa quando il centurione mandò alcuni amici a dirgli: "Signore, non stare a disturbarti, io non son degno che tu entri sotto il mio tetto;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260828T162943Z" creationid="Gianfranco" creationdate="20260828T162943Z">
+        <seg>7,6 &lt;s0/&gt;Gesùs fit tzucadu cun issos. Oramai non fit gasi indedda dae sa domo/li mancaiat pagu a sa domo cando su tzenturione aiat mandadu amigos a li nàrrere: «Sennore, non ti pighes istrobbu, deo non so dinnu chi coles a suta de sa bòveda mea;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>7,6&lt;s0/&gt;Non date le cose sante ai cani e non gettate le vostre perle davanti ai porci, perché non le calpestino con le loro zampe e poi si voltino per sbranarvi.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260708T101901Z" creationid="carmi" creationdate="20260202T091202Z">
         <seg>7,6&lt;s0/&gt;Non dedas sa cosa santa a sos canes e non ghetedas sas perlas bostras in dae in antis a sos porcos, pro chi non las apèdighent cun sas brancas issoro e pustis si bos bortent pro bos fàghere a cantzos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,7 &lt;s0/&gt;per questo non mi sono neanche ritenuto degno di venire da te, ma comanda con una parola e il mio servo sarà guarito.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260828T163215Z" creationid="Gianfranco" creationdate="20260828T163215Z">
+        <seg>7,7 &lt;s0/&gt;pro custu apo crètidu chi non fipo dinnu de nche bènnere a ue fis tue, ma cumanda cun una paràula e su tzeracu mea at per questo non mi sono neanche ritenuto degno di venire da te, ma comanda con una parola e il mio servo sarà guarito.</seg>
       </tuv>
     </tu>
     <tu>

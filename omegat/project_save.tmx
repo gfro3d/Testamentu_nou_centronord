@@ -11892,10 +11892,26 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>7,18 &lt;s0/&gt;Anche Giovanni fu informato dai suoi discepoli di tutti questi avvenimenti.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260828T172413Z" creationid="Gianfranco" creationdate="20260828T172413Z">
+        <seg>7,18 &lt;s0/&gt;Fintzas Giuanne aiat ischidu dae sos dischentes suos totu custos acontessimentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>7,18&lt;s0/&gt;un albero buono non può produrre frutti cattivi, né un albero cattivo produrre frutti buoni.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260202T135213Z" creationid="Gianfranco" creationdate="20260202T135213Z">
         <seg>7,18&lt;s0/&gt;un'àrbore bonu non podet bogare frutu malu, e nemancu un'àrbore malu podet bogare frutu bonu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,19 &lt;s0/&gt;e li mandò a dire al Signore: "Sei tu colui che viene, o dobbiamo aspettare un altro?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260828T172604Z" creationid="Gianfranco" creationdate="20260828T172604Z">
+        <seg>7,19 &lt;s0/&gt;e los aiat mandados a li nàrrere a su Sennore: «Tue ses su chi devet bènnere o a un'àteru devimus isetare?». (mt11,3)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14930,6 +14946,14 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       <tuv lang="sc" changeid="Gianfranco" changedate="20260708T103303Z" creationid="carmi" creationdate="20260203T154416Z">
         <seg>Gesùs, bidende sa fide issoro, li aiat naradu a su&lt;s1/&gt; màrturu: «Ànimu, fizu meu, sos pecados tuos ti sunt perdonados».
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Giovanni chiamò due &lt;s1/&gt;di essi</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260828T172500Z" creationid="Gianfranco" creationdate="20260828T172500Z">
+        <seg>Giuanne aiat mutidu a duos&lt;s1/&gt;de issos</seg>
       </tuv>
     </tu>
     <tu>

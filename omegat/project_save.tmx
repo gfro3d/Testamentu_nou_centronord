@@ -11820,8 +11820,8 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       <tuv lang="it">
         <seg>7,14 &lt;s0/&gt;E accostatosi toccò la bara, mentre i portatori si fermarono.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260828T170514Z" creationid="Gianfranco" creationdate="20260828T170502Z">
-        <seg>7,14 &lt;s0/&gt;E comente si fit acostiadu aiat tocadu su baule, e in s'ora sos agarradores si fint firmados.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260828T171014Z" creationid="Gianfranco" creationdate="20260828T170502Z">
+        <seg>7,14 &lt;s0/&gt;E comente si fit acostiadu aiat tocadu su baule, e tando sos agarradores si fint firmados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11836,8 +11836,8 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       <tuv lang="it">
         <seg>7,15 &lt;s0/&gt;Il morto si levò a sedere e incominciò a parlare.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260828T170831Z" creationid="Gianfranco" creationdate="20260828T170831Z">
-        <seg>7,15 &lt;s0/&gt;Su mortu si fit postu a sètzere e aiat cumintzadu a faeddare.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260828T171224Z" creationid="Gianfranco" creationdate="20260828T170831Z">
+        <seg>7,15 &lt;s0/&gt;Su mortu si nche fit pesadu e sètzidu e aiat cumintzadu a faeddare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11846,6 +11846,14 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260708T102014Z" creationid="carmi" creationdate="20260202T091418Z">
         <seg>7,15&lt;s0/&gt;Dade cara a sos profetas farsos chi si bos acùrtziant a grista de berbeghes, ma in intro sunt lupos francudos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,16 &lt;s0/&gt;Tutti furono presi da timore e glorificavano Dio dicendo: "Un grande profeta è sorto tra noi e &lt;s1/&gt;Dio ha visit</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260828T171621Z" creationid="Gianfranco" creationdate="20260828T171621Z">
+        <seg>7,16 &lt;s0/&gt;Totus fint ispantados e gloriaiant a Deus narende: «Unu profeta mannu s'est pesadu intre nois» &lt;s1/&gt;Dio ha visit</seg>
       </tuv>
     </tu>
     <tu>
@@ -14552,6 +14560,14 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251009T094740Z" creationid="carmi" creationdate="20251009T094740Z">
         <seg>E issu lis aiat naradu: &lt;t25/&gt;11&lt;t26/&gt; «Chie nche dispatzat a sa muzere e si còjuat cun un'àtera, faghet adultèriu contra a issa; &lt;t27/&gt;12&lt;t28/&gt; si sa fèmina nche dispatzat a su maridu e si còjuat cun un'àteru, faghet adultèriu».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Ed egli lo diede alla madre.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260828T171044Z" creationid="Gianfranco" creationdate="20260828T171044Z">
+        <seg>E issu bi l'aiat dadu a sa mama.</seg>
       </tuv>
     </tu>
     <tu>

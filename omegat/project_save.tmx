@@ -928,11 +928,35 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10,1 &lt;s0/&gt;Dopo questi fatti il Signore designò altri settantadue discepoli e li inviò a due a due avanti a &lt;s1/&gt;sé in ogni città e luogo dove stava per recarsi.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154805Z" creationid="carminupintore" creationdate="20260829T154805Z">
+        <seg>10,1 &lt;s0/&gt;A pustis de custos fatos su Sennore aiat designadu àteros setantaduos dischentes e los aiat imbiadu a duos a duos a in antis a &lt;s1/&gt;sese in cada tzitade e logu ue istaiat pro si giùghere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,10 &lt;s0/&gt;Ma quando entrerete in una città e non vi accoglieranno, uscite sulle piazze e dite:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154816Z" creationid="carminupintore" creationdate="20260829T154816Z">
+        <seg>10,10 &lt;s0/&gt;Ma cando ais a intrare a una tzitade e non b'ant a acollire, essidas subra de sas pratzas e narades:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10,10&lt;s0/&gt;né bisaccia da viaggio, né due tuniche, né sandali, né bastone, perché l'operaio ha diritto al suo nutrimento.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260708T104313Z" creationid="Gianfranco" creationdate="20260210T131552Z">
         <seg>10,10&lt;s0/&gt;nen bèrtula de biazu, nen duas tùnica, nen sàndalos, nen fuste, ca su traballadore est dinnu de su recatu suo.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,11 &lt;s0/&gt;Anche la polvere della vostra città che si è attaccata ai nostri piedi, noi la scuotiamo contro &lt;s1/&gt;di voi; sappiate però che il regno di Dio è vicino.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154817Z" creationid="carminupintore" creationdate="20260829T154817Z">
+        <seg>10,11 &lt;s0/&gt;Fintzas su prùere de sa tzitade bostra chi s'est atacada a sos pees nostros, nois sa scuotiamo contra &lt;s1/&gt;de bois; iscais però chi su rennu de Deus est probe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -945,10 +969,26 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10,12 &lt;s0/&gt;Io vi dico che in quel giorno Sòdoma sarà trattata meno duramente di quella città.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154818Z" creationid="carminupintore" creationdate="20260829T154818Z">
+        <seg>10,12 &lt;s0/&gt;Deo bi naro chi in cudda die Sòdoma at a èssere tratada prus pagu in manera tosta de cudda tzitade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10,12&lt;s0/&gt;Entrando nella casa, rivolgetele il saluto.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260212T151815Z" creationid="Gianfranco" creationdate="20260210T131821Z">
         <seg>10,12&lt;s0/&gt;Intrende a sa domo, saludade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,13 &lt;s0/&gt;Guai a te, Corazin, guai a te, Betsàida!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154819Z" creationid="carminupintore" creationdate="20260829T154819Z">
+        <seg>10,13 &lt;s0/&gt;Dannos a tie, Corazin, dannos a tie, Betsàida!</seg>
       </tuv>
     </tu>
     <tu>
@@ -961,10 +1001,26 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10,14 &lt;s0/&gt;Perciò nel giudizio Tiro e Sidone saranno trattate meno duramente di voi.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154827Z" creationid="carminupintore" creationdate="20260829T154827Z">
+        <seg>10,14 &lt;s0/&gt;Pro custu in su cabu Tiru e Sidone ant a èssere tratadas prus pagu in manera tosta de bois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10,14&lt;s0/&gt;Se qualcuno poi non vi accoglierà e non darà ascolto alle vostre parole, uscite da quella casa o da quella città e scuotete la polvere dai vostri piedi.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260423T164155Z" creationid="Gianfranco" creationdate="20260210T132237Z">
         <seg>10,14&lt;s0/&gt; A pustis, si calicunu non bos collit e no ascurtat sos faeddos bostros, esside·nde dae cudda domo o cudda tzitade e  iscutzinade·bos su prùere dae pedes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,15 &lt;s0/&gt;E tu, Cafarnao, sarai innalzata fino al cielo?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154829Z" creationid="carminupintore" creationdate="20260829T154829Z">
+        <seg>10,15 &lt;s0/&gt;E tue, Cafarnao, as a èssere artziada finas a su chelu?</seg>
       </tuv>
     </tu>
     <tu>
@@ -977,10 +1033,26 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10,16 &lt;s0/&gt;Chi ascolta voi ascolta me, chi disprezza voi disprezza me.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154831Z" creationid="carminupintore" creationdate="20260829T154831Z">
+        <seg>10,16 &lt;s0/&gt;Chie ascurtat bois ascurtat mene, chie disprezza bois disprezza mene.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10,16&lt;s0/&gt;Ecco: io vi mando come pecore in mezzo ai lupi; siate dunque prudenti come i serpenti e semplici come le colombe.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260423T164246Z" creationid="Gianfranco" creationdate="20260210T132643Z">
         <seg>10,16&lt;s0/&gt;Mi': bos so mandende che berbeghes in mesu a sos lupos; tando siades abbizosos che colovras e sìncheros che columbas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,17 &lt;s0/&gt;I settantadue tornarono pieni di gioia dicendo: "Signore, anche i demòni si sottomettono a noi &lt;s1/&gt;nel tuo nome".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154833Z" creationid="carminupintore" creationdate="20260829T154833Z">
+        <seg>10,17 &lt;s0/&gt;I setantaduos fiant torrados prenos de ditza narende: "Sennoras, fintzas sos demòni si sutamitent a nois &lt;s1/&gt;in su nùmene tuo".</seg>
       </tuv>
     </tu>
     <tu>
@@ -993,10 +1065,26 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10,18 &lt;s0/&gt;Egli disse: "Io vedevo satana cadere dal cielo come la folgore.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154834Z" creationid="carminupintore" creationdate="20260829T154834Z">
+        <seg>10,18 &lt;s0/&gt;Issu aiat naradu: "Deo bidia satana rùere de su chelu comente a sa folgore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10,18&lt;s0/&gt;e sarete condotti davanti ai governatori e ai re per causa mia, per dare testimonianza a loro e ai pagani.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260423T164312Z" creationid="Gianfranco" creationdate="20260210T133026Z">
         <seg>10,18&lt;s0/&gt;e bos ant a zùghere a in antis de sos guvernadores e a sos res pro more meu, pro testimoniare a issos e a sos paganos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,19 &lt;s0/&gt;Ecco, io vi ho dato il potere di camminare sopra i serpenti e gli scorpioni e sopra ogni potenza &lt;s1/&gt;del nemico; nulla vi potrà danneggiare.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154835Z" creationid="carminupintore" creationdate="20260829T154835Z">
+        <seg>10,19 &lt;s0/&gt;Aco', deo b'apo dadu su podere de caminare subra sas colovras e sos iscorpiones e subra cada potèntzia &lt;s1/&gt;de s'inimigu; nudda b'at a pòdere iscalabrare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1025,6 +1113,22 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10,2 &lt;s0/&gt;Diceva loro: "La messe è molta, ma gli operai sono pochi.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154806Z" creationid="carminupintore" creationdate="20260829T154806Z">
+        <seg>10,2 &lt;s0/&gt;Lis naraiat: "Sa missas est meda, ma sos operajos sunt pagos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,20 &lt;s0/&gt;Non rallegratevi però perché i demòni si sottomettono a voi; rallegratevi piuttosto che i vostri &lt;s1/&gt;nomi sono scritti nei cieli".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154837Z" creationid="carminupintore" creationdate="20260829T154837Z">
+        <seg>10,20 &lt;s0/&gt;Non bos allegreis però ca sos demòni si sutamitent a bois; allegrade·bos prusaprestu chi sos nùmenes &lt;s1/&gt;bostros sunt iscritos in sos chelos".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10,20&lt;s0/&gt;non siete infatti voi a parlare, ma è lo Spirito del Padre vostro che parla in voi.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260423T164348Z" creationid="Gianfranco" creationdate="20260210T133304Z">
@@ -1033,10 +1137,26 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10,21 &lt;s0/&gt;In quello stesso istante Gesù esultò nello Spirito Santo e disse: "Io ti rendo lode, Padre, &lt;s1/&gt;Signore del cielo e della terra, che hai nascosto queste cose ai dotti e ai sapienti e le hai &lt;s2/&gt;rivelate ai piccoli.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154838Z" creationid="carminupintore" creationdate="20260829T154838Z">
+        <seg>10,21 &lt;s0/&gt;In cuddu matessi istante Gesùs aiat gosadu in s'Ispìritu Santo e aiat naradu: "Deo ti rendo lode, Babbu, &lt;s1/&gt;Sennoras de su chelu e de sa terra, chi as cuadu custas cosas a sos dotos e a sos sapienti e las as &lt;s2/&gt;riveladas a sos piticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10,21&lt;s0/&gt;Il fratello darà a morte il fratello e il padre il figlio, e i figli insorgeranno contro i genitori e li faranno morire.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260423T164405Z" creationid="Gianfranco" creationdate="20260210T133424Z">
         <seg>10,21&lt;s0/&gt;Su frade at a pònnere a morte a su frade e su babbu a su fizu, e sos fizos s'ant a pesare contra a sos babbos e los ant a pònnere a morte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,22 &lt;s0/&gt;Ogni cosa mi è stata affidata dal Padre mio e nessuno sa chi è il Figlio se non il Padre, né chi &lt;s1/&gt;è il Padre se non il Figlio e colui al quale il Figlio lo voglia rivelare".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154858Z" creationid="carminupintore" creationdate="20260829T154858Z">
+        <seg>10,22 &lt;s0/&gt;Cada cosa m'est istada afidada dae su Babbu meu e nemos ischit chie est su Fìgiu si non su Babbu, nen chie &lt;s1/&gt;est su Babbu si no lu Fìgio e cussu a su cale su Fìgiu lu chèrgiat rivelare".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1125,6 +1245,14 @@
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260423T163751Z" creationid="Gianfranco" creationdate="20260210T125127Z">
         <seg>10,2&lt;s0/&gt;Sos nùmenes de sos dòighi apòstolos sunt custos: su primu, Simone, chi li naraiant Pedru, e Andria, su frade; Giagu de Zebedeu e Giuanne, su frade,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,3 &lt;s0/&gt;Andate: ecco io vi mando come agnelli in mezzo a lupi;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154808Z" creationid="carminupintore" creationdate="20260829T154808Z">
+        <seg>10,3 &lt;s0/&gt;Andadas: aco' deo bi mando comente a angiones in mesu de lupos;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1218,6 +1346,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10,4 &lt;s0/&gt;non portate borsa, né bisaccia, né sandali e non salutate nessuno lungo la strada.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154809Z" creationid="carminupintore" creationdate="20260829T154809Z">
+        <seg>10,4 &lt;s0/&gt;non giutas bussa, nen bèrtula, nen sàndalos e non saludadas nemos longu su caminu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10,40&lt;s0/&gt;Chi accoglie voi accoglie me, e chi accoglie me accoglie colui che mi ha mandato.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260421T084712Z" creationid="carmi" creationdate="20260205T090342Z">
@@ -1250,10 +1386,26 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10,5 &lt;s0/&gt;In qualunque casa entriate, prima dite: Pace a questa casa.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154810Z" creationid="carminupintore" creationdate="20260829T154810Z">
+        <seg>10,5 &lt;s0/&gt;In cale si siat domo intreis, in antis narades: Paghe a custa domo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10,5&lt;s0/&gt;Questi dodici Gesù li inviò dopo averli così istruiti: "Non andate fra i pagani e non entrate nelle città dei Samaritani;</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260708T104036Z" creationid="Gianfranco" creationdate="20260210T125607Z">
         <seg>10,5&lt;s0/&gt;A custos dòighi Gesùs los aiat mandados a pustis de lis àere imparadu gosi: «Non bos nch'andedas in mesu a sos paganos e no intredas a peruna tzitade de Samaritanos;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,6 &lt;s0/&gt;Se vi sarà un figlio della pace, la vostra pace scenderà su di lui, altrimenti ritornerà su di &lt;s1/&gt;voi.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154811Z" creationid="carminupintore" creationdate="20260829T154811Z">
+        <seg>10,6 &lt;s0/&gt;Si b'at a èssere unu fìgiu de sa paghe, sa paghe bostra at a pèndere a susu de issu, sinunca at a torrare a susu de &lt;s1/&gt;bois.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1266,10 +1418,26 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10,7 &lt;s0/&gt;Restate in quella casa, mangiando e bevendo di quello che hanno, perché l'operaio è degno della &lt;s1/&gt;sua mercede.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154812Z" creationid="carminupintore" creationdate="20260829T154812Z">
+        <seg>10,7 &lt;s0/&gt;Restadas in cudda domo, mandighende e bufende de su chi tenent, ca s'operaju est dignu de sa &lt;s1/&gt;sua mercede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10,7&lt;s0/&gt;E strada facendo, predicate che il regno dei cieli è vicino.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260423T163931Z" creationid="Gianfranco" creationdate="20260210T125737Z">
         <seg>10,7&lt;s0/&gt;E in caminu, preigade chi su rennu de sos chelos est a curtzu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,8 &lt;s0/&gt;Quando entrerete in una città e vi accoglieranno, mangiate quello che vi sarà messo dinanzi,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154814Z" creationid="carminupintore" creationdate="20260829T154814Z">
+        <seg>10,8 &lt;s0/&gt;Cando ais a intrare a una tzitade e b'ant a acollire, mandigadas sa chi b'at a èssere postu dinanzi,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1286,6 +1454,14 @@
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260708T112846Z" creationid="Gianfranco" creationdate="20260708T112846Z">
         <seg>10,8&lt;s0/&gt;Sanade a sos malàidos, torrade sos mortos a bida, sanade a sos lebbrosos, bogade·nche sos dimònios. Comente a indonu azis retzidu, gasi etotu dade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,9 &lt;s0/&gt;curate i malati che vi si trovano, e dite loro: È vicino a voi il regno di Dio.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154815Z" creationid="carminupintore" creationdate="20260829T154815Z">
+        <seg>10,9 &lt;s0/&gt;curadas sos malàidos chi bi s'agatant, e lis narades: Est a curtzu bostru su rennu de Deus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13236,10 +13412,26 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>9,31 &lt;s0/&gt;apparsi nella loro gloria, e parlavano della sua dipartita che avrebbe portato a compimento a &lt;s1/&gt;Gerusalemme.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154650Z" creationid="carminupintore" creationdate="20260829T154650Z">
+        <seg>9,31 &lt;s0/&gt;aia apartu in sa glòria issoro, e faeddaiant de sa sua partida chi diat àere giutu a cumprimentu in &lt;s1/&gt;Gerusalemme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>9,31&lt;s0/&gt;Ma essi, appena usciti, ne sparsero la fama in tutta quella regione.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260423T163245Z" creationid="Gianfranco" creationdate="20260210T121236Z">
         <seg>9,31&lt;s0/&gt;Ma issos, comente fint essidos, nch'aiant ispartu sa nomea sua in totu cussa cussorza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,32 &lt;s0/&gt;Pietro e i suoi compagni erano oppressi dal sonno; tuttavia restarono svegli e videro la sua &lt;s1/&gt;gloria e i due uomini che stavano con lui.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154652Z" creationid="carminupintore" creationdate="20260829T154652Z">
+        <seg>9,32 &lt;s0/&gt;Pietro e sos cumpàngios suos fiant oprimidos dae su sonnu; nointames fiant restados ischidados e aiant bidu sa glòria &lt;s1/&gt;sua e sos duos òmines chi istaiant cun issu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13252,10 +13444,26 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>9,33 &lt;s0/&gt;Mentre questi si separavano da lui, Pietro disse a Gesù: "Maestro, è bello per noi stare qui.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154653Z" creationid="carminupintore" creationdate="20260829T154653Z">
+        <seg>9,33 &lt;s0/&gt;Mentras custos si separaiant de issu, Pietro aiat naradu a Gesùs: "Maestro, est bellu pro nois istare inoghe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>9,33&lt;s0/&gt;Scacciato il demonio, quel muto cominciò a parlare e la folla presa da stupore diceva: "Non si è mai vista una cosa simile in Israele!".</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260423T163355Z" creationid="Gianfranco" creationdate="20260210T121550Z">
         <seg>9,33&lt;s0/&gt;E bogadu su dimòniu, cuddu mudu aiat atacadu a chistionare e sa truma ispantada narende: «Cosa gasi in Israele fimus galu a nde bìdere!».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,34 &lt;s0/&gt;Mentre parlava così, venne una nube e li avvolse; all'entrare in quella nube, ebbero paura.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154702Z" creationid="carminupintore" creationdate="20260829T154702Z">
+        <seg>9,34 &lt;s0/&gt;Mentras faeddaiat gasi, fiat bènnidu una nue e los aiat imboligadu; a s'intrare a cudda nue, aiant tentu timoria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13268,10 +13476,26 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>9,35 &lt;s0/&gt;E dalla nube uscì una voce, che diceva: "Questi è il Figlio mio, l'eletto; ascoltatelo".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154704Z" creationid="carminupintore" creationdate="20260829T154704Z">
+        <seg>9,35 &lt;s0/&gt;E de sa nue fiat essida una boghe, chi naraiat: "Custos est su Fìgiu meu, s'elettu; ascurtade·lu".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>9,35&lt;s0/&gt;Gesù percorreva tutte le città e i villaggi, insegnando nelle loro sinagoghe, predicando il vangelo del Regno e curando ogni malattia e infermità.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260423T163455Z" creationid="Gianfranco" creationdate="20260210T121936Z">
         <seg>9,35&lt;s0/&gt;Gesùs andaiat zirende totu sas tzitades e sas biddas, imparende in sas sinagogas, preighende s'evangèliu de su Rennu e curende cada maladia e martùriu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,36 &lt;s0/&gt;Appena la voce cessò, Gesù restò solo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154705Z" creationid="carminupintore" creationdate="20260829T154705Z">
+        <seg>9,36 &lt;s0/&gt;In pessu chi sa boghe aiat sessadu, Gesùs fiat restadu petzi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13284,10 +13508,26 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>9,37 &lt;s0/&gt;Il giorno seguente, quando furon discesi dal monte, una gran folla gli venne incontro.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154708Z" creationid="carminupintore" creationdate="20260829T154708Z">
+        <seg>9,37 &lt;s0/&gt;Sa die sighente, cando fiant istados calados dae su monte, una grandu truma li fiat bènnida addòbiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>9,37&lt;s0/&gt;Allora disse ai suoi discepoli: "La messe è molta, ma gli operai sono pochi!</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260423T163729Z" creationid="Gianfranco" creationdate="20260210T122752Z">
         <seg>9,37&lt;s0/&gt;Tando a sos dischentes suos lis aiat naradu: «Su laore est meda, ma sos trabballadores sunt pagos!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,38 &lt;s0/&gt;A un tratto dalla folla un uomo si mise a gridare: "Maestro, ti prego di volgere lo sguardo a mio &lt;s1/&gt;figlio, perché è l'unico che ho.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154709Z" creationid="carminupintore" creationdate="20260829T154709Z">
+        <seg>9,38 &lt;s0/&gt;A unu tretu de sa truma un'òmine si fiat postu a abboghinare: "Maestro, ti prego de volgere sa mirada a fìgiu &lt;s1/&gt;meu, ca est s'ùnicu chi tèngio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13300,10 +13540,98 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>9,39 &lt;s0/&gt;Ecco, uno spirito lo afferra e subito egli grida, lo scuote ed egli dà schiuma e solo a fatica se &lt;s1/&gt;ne allontana lasciandolo sfinito.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154710Z" creationid="carminupintore" creationdate="20260829T154710Z">
+        <seg>9,39 &lt;s0/&gt;Aco', un'ispìritu l'aferrat e deretu issu abbòghinat, su scuote e issu dat schiuma e petzi a gherra si &lt;s1/&gt;nd'istèsiat lassende·lu sfinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>9,3&lt;s0/&gt;Allora alcuni scribi cominciarono a pensare: "Costui bestemmia".</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260708T103324Z" creationid="carmi" creationdate="20260203T154417Z">
         <seg>9,3&lt;s0/&gt;Tando unos cantu iscribas aiant cumintzadu a pensare: «Custu est frastimende».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,40 &lt;s0/&gt;Ho pregato i tuoi discepoli di scacciarlo, ma non ci sono riusciti".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154711Z" creationid="carminupintore" creationdate="20260829T154711Z">
+        <seg>9,40 &lt;s0/&gt;Apo pregadu sos dischentes tuos de scacciarlo, ma non b'at resèssidos".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,41 &lt;s0/&gt;Gesù rispose: "O generazione incredula e perversa, fino a quando sarò con voi e vi sopporterò?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154713Z" creationid="carminupintore" creationdate="20260829T154713Z">
+        <seg>9,41 &lt;s0/&gt;Gesùs aiat rispòndidu: "O generatzione incredula e perversa, finas a cando apo a èssere cun bois e b'apo a aguantare?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,42 &lt;s0/&gt;Mentre questi si avvicinava, il demonio lo gettò per terra agitandolo con convulsioni.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154715Z" creationid="carminupintore" creationdate="20260829T154715Z">
+        <seg>9,42 &lt;s0/&gt;Mentras custos s'acurtziaiat, su bundu l'aiat bessadu pro terra agiolotende·lu cun convulsiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,43 &lt;s0/&gt;E tutti furono stupiti per la grandezza di Dio.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154717Z" creationid="carminupintore" creationdate="20260829T154717Z">
+        <seg>9,43 &lt;s0/&gt;E totus fiant istados trassidos pro sa mannària de Deus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,44 &lt;s0/&gt;"Mettetevi bene in mente queste parole: Il Figlio dell'uomo sta per esser consegnato in mano &lt;s1/&gt;degli uomini".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154720Z" creationid="carminupintore" creationdate="20260829T154720Z">
+        <seg>9,44 &lt;s0/&gt;"Ponide·bos bene in mente custas paràulas: Su Fìgiu de s'òmine istat pro èssere cunsignadu in manu &lt;s1/&gt;de sos òmines".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,45 &lt;s0/&gt;Ma essi non comprendevano questa frase; per loro restava così misteriosa che non ne comprendevano &lt;s1/&gt;il senso e avevano paura a rivolgergli domande su tale argomento.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154727Z" creationid="carminupintore" creationdate="20260829T154727Z">
+        <seg>9,45 &lt;s0/&gt;Ma issos non cumprendiant custa frase; pro issos restaiat gasi misteriosa chi non nde cumprendiant &lt;s1/&gt;su sentidu e teniant timoria a li girare pregontas subra de tale argumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,46 &lt;s0/&gt;Frattanto sorse una discussione tra loro, chi di essi fosse il più grande.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154728Z" creationid="carminupintore" creationdate="20260829T154728Z">
+        <seg>9,46 &lt;s0/&gt;In s'ìnteri fiat pesadu una discussione intre issas, chie de issos esseret su prus mannu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,47 &lt;s0/&gt;Allora Gesù, conoscendo il pensiero del loro cuore, prese un fanciullo, se lo mise vicino e &lt;s1/&gt;disse:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154729Z" creationid="carminupintore" creationdate="20260829T154729Z">
+        <seg>9,47 &lt;s0/&gt;Tando Gesùs, connoschende su pensamentu de su coro issoro, aiat pigadu unu pitzocu, si l'aiat postu probe e &lt;s1/&gt;aiat naradu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,48 &lt;s0/&gt;"Chi accoglie questo fanciullo nel mio nome, accoglie me; e chi accoglie me, accoglie colui che &lt;s1/&gt;mi ha mandato.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154731Z" creationid="carminupintore" creationdate="20260829T154731Z">
+        <seg>9,48 &lt;s0/&gt;"Chie acollit custu pitzocu in su nùmene meu, acollit mene; e chie acollit mene, acollit cussu chi &lt;s1/&gt;m'at mandadu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,49 &lt;s0/&gt;Giovanni prese la parola dicendo: "Maestro, abbiamo visto un tale che scacciava demòni nel tuo &lt;s1/&gt;nome e glielo abbiamo impedito, perché non è con noi tra i tuoi seguaci".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154733Z" creationid="carminupintore" creationdate="20260829T154733Z">
+        <seg>9,49 &lt;s0/&gt;Giovanni presas sa paràula narende: "Maestro, amus bidu unu tale chi scacciava demòni in su nùmene &lt;s1/&gt;tuo e bi l'apamus impedidu, ca no est cun nois intre sos sighidores tuos".</seg>
       </tuv>
     </tu>
     <tu>
@@ -13316,10 +13644,114 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>9,50 &lt;s0/&gt;Ma Gesù gli rispose: "Non glielo impedite, perché chi non è contro di voi, è per voi".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154734Z" creationid="carminupintore" creationdate="20260829T154734Z">
+        <seg>9,50 &lt;s0/&gt;Ma Gesùs l'aiat rispòndidu: "No bi l'impedides, ca chie no est contra de bois, est pro bois".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,51 &lt;s0/&gt;Mentre stavano compiendosi i giorni in cui sarebbe stato tolto dal mondo, si diresse decisamente &lt;s1/&gt;verso Gerusalemme</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154735Z" creationid="carminupintore" creationdate="20260829T154735Z">
+        <seg>9,51 &lt;s0/&gt;Mentras fiant acumprende #si sas dies in cales diat èssere istadu dogadu dae su mundu, si fiat dirìgidu detzisamente &lt;s1/&gt;cara a Gerusalemme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,52 &lt;s0/&gt;e mandò avanti dei messaggeri.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154736Z" creationid="carminupintore" creationdate="20260829T154736Z">
+        <seg>9,52 &lt;s0/&gt;e aiat mandadu a in antis de sos missos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,53 &lt;s0/&gt;Ma essi non vollero riceverlo, perché era diretto verso Gerusalemme.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154738Z" creationid="carminupintore" creationdate="20260829T154738Z">
+        <seg>9,53 &lt;s0/&gt;Ma issos no l'aiant chertu retzire, ca fiat dirìgidu cara a Gerusalemme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,54 &lt;s0/&gt;Quando videro ciò, i discepoli Giacomo e Giovanni dissero: "Signore, vuoi che diciamo che scenda &lt;s1/&gt;un fuoco dal cielo e li consumi?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154739Z" creationid="carminupintore" creationdate="20260829T154739Z">
+        <seg>9,54 &lt;s0/&gt;Cando aiant bidu custu, sos dischentes Giacomo e Giovanni aiant naradu: "Sennoras, cheres chi naramus chi pendat &lt;s1/&gt;unu fogu dae su chelu e los consumet?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,55 &lt;s0/&gt;Ma Gesù si voltò e li rimproverò.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154740Z" creationid="carminupintore" creationdate="20260829T154740Z">
+        <seg>9,55 &lt;s0/&gt;Ma Gesùs si fiat bortadu e los aiat brigadu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,56 &lt;s0/&gt;E si avviarono verso un altro villaggio.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154741Z" creationid="carminupintore" creationdate="20260829T154741Z">
+        <seg>9,56 &lt;s0/&gt;E si fiant aviados cara a unu àteru bidditzolu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,57 &lt;s0/&gt;Mentre andavano per la strada, un tale gli disse: "Ti seguirò dovunque tu vada".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154742Z" creationid="carminupintore" creationdate="20260829T154742Z">
+        <seg>9,57 &lt;s0/&gt;Mentras andaiant in su caminu, unu tale l'aiat naradu: "T'apo a sighire in ue si siat tue andes".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,58 &lt;s0/&gt;Gesù gli rispose: "Le volpi hanno le loro tane e gli uccelli del cielo i loro nidi, ma il Figlio &lt;s1/&gt;dell'uomo non ha dove posare il capo".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154748Z" creationid="carminupintore" creationdate="20260829T154748Z">
+        <seg>9,58 &lt;s0/&gt;Gesùs l'aiat rispòndidu: "Sos marianes tenent sas tanas issoro e sos pugiones de su chelu sos nios issoro, ma su Fìgiu &lt;s1/&gt;de s'òmine non tenet ue a posare su capu".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,59 &lt;s0/&gt;A un altro disse: "Seguimi".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154746Z" creationid="carminupintore" creationdate="20260829T154746Z">
+        <seg>9,59 &lt;s0/&gt;A unu àteru aiat naradu: "Sighi·mi".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>9,5&lt;s0/&gt;Che cosa dunque è più facile, dire: Ti sono rimessi i peccati, o dire: Alzati e cammina?</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260708T103347Z" creationid="carmi" creationdate="20260203T154418Z">
         <seg>9,5&lt;s0/&gt;Duncas, it'est prus fàtzile, a nàrrere: “Ti sunt perdonados sos pecados”, o a nàrrere: “Pesa·ti·nde e camina”?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,60 &lt;s0/&gt;Gesù replicò: "Lascia che i morti seppelliscano i loro morti; tu va' e annunzia il regno di Dio".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154751Z" creationid="carminupintore" creationdate="20260829T154751Z">
+        <seg>9,60 &lt;s0/&gt;Gesùs aiat replicadu: "Lassat chi sos mortos interrent sos mortes issoro; tue anda e annunzia su rennu de Deus".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,61 &lt;s0/&gt;Un altro disse: "Ti seguirò, Signore, ma prima lascia che io mi congedi da quelli di casa".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154752Z" creationid="carminupintore" creationdate="20260829T154752Z">
+        <seg>9,61 &lt;s0/&gt;Unu àteru aiat naradu: "T'apo a sighire, Sennoras, ma in antis lassat chi deo mi cungedet de sos de domo".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,62 &lt;s0/&gt;Ma Gesù gli rispose: "Nessuno che ha messo mano all'aratro e poi si volge indietro, è adatto per &lt;s1/&gt;il regno di Dio".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154803Z" creationid="carminupintore" creationdate="20260829T154803Z">
+        <seg>9,62 &lt;s0/&gt;Ma Gesùs l'aiat rispòndidu: "Perunu chi at postu manu a s'aradu e posca si volge in dae segus, est dèchidu pro &lt;s1/&gt;su rennu de Deus".</seg>
       </tuv>
     </tu>
     <tu>
@@ -13400,6 +13832,22 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20250915T111620Z" creationid="carmi" creationdate="20250912T082654Z">
         <seg>9 In cuddas dies Gesùs fiat bènnidu dae Nàzaret de Galilea e Giuanne l'aiat batizadu in su Giordanu. 10 E comente si nche fiat bessende dae s'abba, aiat bidu aberende·si sos chelos e s'Ispìritu falende subra a issu comente una columba. 11 E nde fit bènnida una boghe dae chelos: «Tue ses su Fizu meu, su prus istimadu, a tie ti tenzo in prètziu».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>&lt;s1/&gt;Conducimi qui tuo figlio".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154714Z" creationid="carminupintore" creationdate="20260829T154714Z">
+        <seg>&lt;s1/&gt;Giughe·mi inoghe fìgiu tuo".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>&lt;s1/&gt;Facciamo tre tende, una per te, una per Mosè e una per Elia".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154654Z" creationid="carminupintore" creationdate="20260829T154654Z">
+        <seg>&lt;s1/&gt;Faghimus tres tirat, una pro tene, una pro Moses e una pro Elia".</seg>
       </tuv>
     </tu>
     <tu>
@@ -14116,10 +14564,26 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>E chi disprezza me disprezza colui &lt;s1/&gt;che mi ha mandato".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154832Z" creationid="carminupintore" creationdate="20260829T154832Z">
+        <seg>E chie disprezza mene disprezza cussu &lt;s1/&gt;chi m'at mandadu".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>E chiamarono il cieco dicendogli: «Coraggio!</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251103T085205Z" creationid="Gianfranco" creationdate="20251013T184228Z">
         <seg>E aiant mutidu a su tzurpu narende·li: «Corazu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>E costui rispose: "Signore, concedimi di andare prima a seppellire &lt;s1/&gt;mio padre".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154750Z" creationid="carminupintore" creationdate="20260829T154750Z">
+        <seg>E custu aiat rispòndidu: "Sennoras, cuntzede·mi de andare in antis a interrare &lt;s1/&gt;babbu meu".</seg>
       </tuv>
     </tu>
     <tu>
@@ -14813,6 +15277,14 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Egli non sapeva quel che diceva.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154655Z" creationid="carminupintore" creationdate="20260829T154655Z">
+        <seg>Issu no ischiat su chi naraiat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Egli è epilettico e soffre molto; cade spesso nel fuoco e spesso anche nell'acqua;</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260228T165448Z" creationid="Gianfranco" creationdate="20260228T165448Z">
@@ -14925,6 +15397,14 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Essi tacquero e in quei giorni non riferirono ad alcuno &lt;s1/&gt;ciò che avevano visto.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154707Z" creationid="carminupintore" creationdate="20260829T154707Z">
+        <seg>Issos aiant calladu e in cuddas dies no aiant referidu a calicunu &lt;s1/&gt;custu chi aiant bidu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Finché hanno lo sposo con loro, non possono digiunare. &lt;t3/&gt;20&lt;t4/&gt; Ma verranno i giorni in cui sarà loro tolto lo sposo e allora digiuneranno. &lt;t5/&gt;21&lt;t6/&gt; Nessuno cuce una toppa di panno grezzo su un vestito vecchio; altrimenti il rattoppo nuovo squarcia il vecchio e si forma uno strappo peggiore. &lt;t7/&gt;22&lt;t8/&gt; E nessuno versa vino nuovo in otri vecchi, altrimenti il vino spaccherà gli otri e si perdono vino e otri, ma vino nuovo in otri nuovi».</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251111T094952Z" creationid="Gianfranco" creationdate="20250919T075656Z">
@@ -14961,6 +15441,22 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260212T105952Z" creationid="Gianfranco" creationdate="20260212T105952Z">
         <seg>A s'inferru nch'as a rùere!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Fino agli inferi sarai precipitata!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154830Z" creationid="carminupintore" creationdate="20260829T154830Z">
+        <seg>Finas a sos inferi as a èssere ispentumada!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Gesù &lt;s1/&gt;minacciò lo spirito immondo, risanò il fanciullo e lo consegnò a suo padre.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154716Z" creationid="carminupintore" creationdate="20260829T154716Z">
+        <seg>Gesùs &lt;s1/&gt;aiat minetzadu s'ispìritu immondo, aiat sanadu su pitzocu e l'aiat cunsignadu a su babbu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15534,6 +16030,14 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Mentre tutti erano sbalorditi per tutte le cose &lt;s1/&gt;che faceva, disse ai suoi discepoli:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154718Z" creationid="carminupintore" creationdate="20260829T154718Z">
+        <seg>Mentras totus fiant sbalorditi pro totu sas cosas &lt;s1/&gt;chi faghiat, aiat naradu a sos dischentes suos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Mia figlia è crudelmente tormentata da un demonio".</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260223T120754Z" creationid="Gianfranco" creationdate="20260223T120754Z">
@@ -15643,6 +16147,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260724T080121Z" creationid="carminupintore" creationdate="20260714T160804Z">
         <seg>Non b'aiat mandigadu nudda in cuddas dies; e cando nche fint acabbadas / e coladu cussu tempus li aiat tocadu gana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Non passate di casa in casa.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154813Z" creationid="carminupintore" creationdate="20260829T154813Z">
+        <seg>Non passadas de domo in domo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15799,6 +16311,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Perché se in Tiro e Sidone fossero stati compiuti i &lt;s1/&gt;miracoli compiuti tra voi, già da tempo si sarebbero convertiti vestendo il sacco e coprendosi di &lt;s2/&gt;cenere.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154826Z" creationid="carminupintore" creationdate="20260829T154826Z">
+        <seg>Ca si in Tiru e Sidone esserent istados acumpridos sos &lt;s1/&gt;miràculos acumpridos intre bois, giai dae meda si diant èssere cunvertidos bestende su sacu e coberende·si de &lt;s2/&gt;chisina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Perché tu non pensi secondo Dio, ma secondo gli uomini».</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251028T092126Z" creationid="carmi" creationdate="20251008T074115Z">
@@ -15911,6 +16431,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Poiché chi è il più piccolo tra tutti voi, questi è grande".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154732Z" creationid="carminupintore" creationdate="20260829T154732Z">
+        <seg>Ca chie est su prus piticu intre totus bois, custos est mannu".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Poiché in sette l'hanno avuta come moglie». &lt;t15/&gt;24&lt;t16/&gt; Rispose loro Gesù: «Non siete voi forse in errore dal momento che non conoscete le Scritture, né la potenza di Dio? &lt;t17/&gt;25&lt;t18/&gt; Quando risusciteranno dai morti, infatti, non prenderanno moglie né marito, ma saranno come angeli nei cieli. &lt;t19/&gt;26&lt;t20/&gt; A riguardo poi dei morti che devono risorgere, non avete letto nel libro di Mosè, a proposito del roveto, come Dio gli parlò dicendo: &lt;t21/&gt;Io sono il Dio di Abramo, il Dio di Isacco e di Giacobbe&lt;t22/&gt;? &lt;t23/&gt;27&lt;t24/&gt; Non è un Dio dei morti ma dei viventi!</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260108T162950Z" creationid="carmi" creationdate="20251106T105057Z">
@@ -15991,6 +16519,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Pregate dunque il padrone della messe &lt;s1/&gt;perché mandi operai per la sua messe.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154807Z" creationid="carminupintore" creationdate="20260829T154807Z">
+        <seg>Pregades duncas su mere de sa missas &lt;s1/&gt;ca mandet operajos pro sa missas sua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Prendendo di nuovo in disparte i Dodici, cominciò a dir loro quello che gli sarebbe accaduto: &lt;t1/&gt;33&lt;t2/&gt; «Ecco, noi saliamo a Gerusalemme e il Figlio dell'uomo sarà consegnato ai sommi sacerdoti e agli scribi: lo condanneranno a morte, lo consegneranno ai pagani, &lt;t3/&gt;34&lt;t4/&gt; lo scherniranno, gli sputeranno addosso, lo flagelleranno e lo uccideranno; ma dopo tre giorni risusciterà».</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251101T095639Z" creationid="Gianfranco" creationdate="20251013T182100Z">
@@ -16059,6 +16595,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260317T172537Z" creationid="Gianfranco" creationdate="20260317T172537Z">
         <seg>Custas cosas fit a praticare, chene nche lassare cuddas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Questi si incamminarono ed entrarono in un villaggio di Samaritani &lt;s1/&gt;per fare i preparativi per lui.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154737Z" creationid="carminupintore" creationdate="20260829T154737Z">
+        <seg>Custos s'incamminarono e fiant intrados a unu bidditzolu de Samaritanos &lt;s1/&gt;pro fàghere sos preparativos pro issu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16317,6 +16861,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260219T132858Z" creationid="Gianfranco" creationdate="20260219T132858Z">
         <seg>Sa mama non si narat Maria e sos frades&lt;s1/&gt;Giagu, Zosepe, Simone e Giudas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Sì, Padre, perché così a te è piaciuto.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154839Z" creationid="carminupintore" creationdate="20260829T154839Z">
+        <seg>Eja, Babbu, ca gasi a tie est pratu.</seg>
       </tuv>
     </tu>
     <tu>

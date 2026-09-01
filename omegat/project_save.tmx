@@ -13099,6 +13099,22 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>8,38 &lt;s0/&gt;L'uomo dal quale erano usciti i demòni gli chiese di restare con lui, ma egli lo congedò dicendo:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260901T181517Z" creationid="Gianfranco" creationdate="20260901T181517Z">
+        <seg>8,38 &lt;s0/&gt;S'òmine chi li fint essidos sos dimònios li aiat pedidu de abbarrare cun issu, ma issu l'aiat dispididu narende:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>8,39 &lt;s0/&gt;"Torna a casa tua e racconta quello che Dio ti ha fatto".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260901T181607Z" creationid="Gianfranco" creationdate="20260901T181607Z">
+        <seg>8,39 &lt;s0/&gt;«Torra·ti·nche a domo tua e conta su chi Deus t'at fatu».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>8,3&lt;s0/&gt;E Gesù stese la mano e lo toccò dicendo: "Lo voglio, sii sanato".</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260430T075319Z" creationid="Gianfranco" creationdate="20260204T120348Z">
@@ -15575,8 +15591,8 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       <tuv lang="it">
         <seg>Gesù, salito su una barca, tornò indietro.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260901T181330Z" creationid="Gianfranco" creationdate="20260901T181330Z">
-        <seg>Gesùs, a pustis de èssere artziadu a una barca, fit torradu a pala.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260901T181338Z" creationid="Gianfranco" creationdate="20260901T181330Z">
+        <seg>Gesùs, a pustis de èssere artziadu a una barca, fit torradu a palas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15890,6 +15906,14 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251128T100218Z" creationid="carmi" creationdate="20251106T105642Z">
         <seg>Deo bos apo naradu totu in antis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>L'uomo se ne andò, proclamando per &lt;s1/&gt;tutta la città quello che Gesù gli aveva fatto.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260901T181726Z" creationid="Gianfranco" creationdate="20260901T181726Z">
+        <seg>S'òmine si nde fit andadu, contende peri &lt;s1/&gt;totu sa tzitade su chi Gesùs li aiat fatu.</seg>
       </tuv>
     </tu>
     <tu>

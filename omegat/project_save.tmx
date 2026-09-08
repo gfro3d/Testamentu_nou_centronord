@@ -1115,8 +1115,8 @@
       <tuv lang="it">
         <seg>10,2 &lt;s0/&gt;Diceva loro: "La messe è molta, ma gli operai sono pochi.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154806Z" creationid="carminupintore" creationdate="20260829T154806Z">
-        <seg>10,2 &lt;s0/&gt;Lis naraiat: "Sa missas est meda, ma sos operajos sunt pagos.</seg>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260908T163133Z" creationid="carminupintore" creationdate="20260829T154806Z">
+        <seg>10,2 &lt;s0/&gt;Lis naraiat: «Su laore est meda, ma sos trabballadores sunt pagos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1251,8 +1251,8 @@
       <tuv lang="it">
         <seg>10,3 &lt;s0/&gt;Andate: ecco io vi mando come agnelli in mezzo a lupi;</seg>
       </tuv>
-      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154808Z" creationid="carminupintore" creationdate="20260829T154808Z">
-        <seg>10,3 &lt;s0/&gt;Andadas: aco' deo bi mando comente a angiones in mesu de lupos;</seg>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260908T163359Z" creationid="carminupintore" creationdate="20260829T154808Z">
+        <seg>10,3 &lt;s0/&gt;Bazi: mi' bos so mandende che e a anzones in mesu a {sos} lupos;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1348,8 +1348,8 @@
       <tuv lang="it">
         <seg>10,4 &lt;s0/&gt;non portate borsa, né bisaccia, né sandali e non salutate nessuno lungo la strada.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154809Z" creationid="carminupintore" creationdate="20260829T154809Z">
-        <seg>10,4 &lt;s0/&gt;non giutas bussa, nen bèrtula, nen sàndalos e non saludadas nemos longu su caminu.</seg>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260908T164843Z" creationid="carminupintore" creationdate="20260829T154809Z">
+        <seg>10,4 &lt;s0/&gt;non bos pighedas {in fatu} taschedda, nen bèrtula, nen sàndalos e non saludedas a nemos in caminu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1388,8 +1388,8 @@
       <tuv lang="it">
         <seg>10,5 &lt;s0/&gt;In qualunque casa entriate, prima dite: Pace a questa casa.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154810Z" creationid="carminupintore" creationdate="20260829T154810Z">
-        <seg>10,5 &lt;s0/&gt;In cale si siat domo intreis, in antis narades: Paghe a custa domo.</seg>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260908T164906Z" creationid="carminupintore" creationdate="20260829T154810Z">
+        <seg>10,5 &lt;s0/&gt;In cale si siat domo intrades, in antis narade: Paghe {li siat} a custa domo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1404,8 +1404,8 @@
       <tuv lang="it">
         <seg>10,6 &lt;s0/&gt;Se vi sarà un figlio della pace, la vostra pace scenderà su di lui, altrimenti ritornerà su di &lt;s1/&gt;voi.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154811Z" creationid="carminupintore" creationdate="20260829T154811Z">
-        <seg>10,6 &lt;s0/&gt;Si b'at a èssere unu fìgiu de sa paghe, sa paghe bostra at a pèndere a susu de issu, sinunca at a torrare a susu de &lt;s1/&gt;bois.</seg>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260908T165220Z" creationid="carminupintore" creationdate="20260829T154811Z">
+        <seg>10,6 &lt;s0/&gt;Si b'at a èssere unu fizu de sa paghe, sa paghe bostra at a pèndere a subra suo, sinuncas bos at a torrare a &lt;s1/&gt;bois / subra bostru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17033,8 +17033,8 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       <tuv lang="it">
         <seg>Pregate dunque il padrone della messe &lt;s1/&gt;perché mandi operai per la sua messe.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carminupintore" changedate="20260829T154807Z" creationid="carminupintore" creationdate="20260829T154807Z">
-        <seg>Pregades duncas su mere de sa missas &lt;s1/&gt;ca mandet operajos pro sa missas sua.</seg>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260908T163244Z" creationid="carminupintore" creationdate="20260829T154807Z">
+        <seg>Pregade tando a su mere de su laore pro chi nche mandet trabballadores pro su campu suo!»..</seg>
       </tuv>
     </tu>
     <tu>

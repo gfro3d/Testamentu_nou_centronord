@@ -1808,18 +1808,26 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,40 &lt;s0/&gt;Stolti!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260909T170135Z" creationid="carminupintore" creationdate="20260909T170135Z">
+        <seg>11,40 &lt;s0/&gt;Macos!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,41 &lt;s0/&gt;Piuttosto date in elemosina quel che c'è dentro, ed ecco, tutto per voi sarà mondo.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carminupintore" changedate="20260909T164457Z" creationid="carminupintore" creationdate="20260909T164457Z">
-        <seg>11,41 &lt;s0/&gt;Prusaprestu datas in limùsina su chi b'at in intro, e aco', totu pro bois at a èssere mundu.</seg>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260909T170303Z" creationid="carminupintore" creationdate="20260909T164457Z">
+        <seg>11,41 &lt;s0/&gt;Prusaprestu dade in limùsina su chi b'at in intro, e mi', totu pro bois at a èssere netu / innidu / innetadu.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>11,42 &lt;s0/&gt;Ma guai a voi, farisei, che pagate la decima della menta, della ruta e di ogni erbaggio, e poi &lt;s1/&gt;trasgredite la giustizia e l'amore di Dio.</seg>
       </tuv>
-      <tuv lang="sc" changeid="carminupintore" changedate="20260909T164459Z" creationid="carminupintore" creationdate="20260909T164459Z">
-        <seg>11,42 &lt;s0/&gt;Ma dannos a bois, farisei, chi pagades sa de deghe de sa menta, de sa ruta e de cada erbaggio, e posca &lt;s1/&gt;trasgredidas sa giustìtzia e s'amore de Deus.</seg>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260909T170317Z" creationid="carminupintore" creationdate="20260909T164459Z">
+        <seg>11,42 &lt;s0/&gt;Ma arguai a bois, fariseos, chi pagades sa de deghe de sa menta, de sa ruta e de cada erbaggio, e posca &lt;s1/&gt;trasgredidas sa giustìtzia e s'amore de Deus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15015,8 +15023,8 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       <tuv lang="it">
         <seg>Colui che ha fatto l'esterno non ha forse fatto anche l'interno?</seg>
       </tuv>
-      <tuv lang="sc" changeid="carminupintore" changedate="20260909T164456Z" creationid="carminupintore" creationdate="20260909T164456Z">
-        <seg>Cussu chi at fatu s'esternu no at fortzis fatu fintzas l'interno?</seg>
+      <tuv lang="sc" changeid="carminupintore" changedate="20260909T170221Z" creationid="carminupintore" creationdate="20260909T164456Z">
+        <seg>Cussu chi at fatu s'ala de foras no at a àere fatu s'ala de intro puru?</seg>
       </tuv>
     </tu>
     <tu>

@@ -1226,10 +1226,26 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10,26 &lt;s0/&gt;Gesù gli disse: "Che cosa sta scritto nella Legge?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260910T174357Z" creationid="Gianfranco" creationdate="20260910T174357Z">
+        <seg>10,26 &lt;s0/&gt;Gesùs li aiat naradu: «Ite b'est iscritu in sa Leze?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10,26&lt;s0/&gt;Non li temete dunque, poiché non v'è nulla di nascosto che non debba essere svelato, e di segreto che non debba essere manifestato.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260708T104337Z" creationid="carmi" creationdate="20260205T090331Z">
         <seg>10,26&lt;s0/&gt;Non los timedas; ca non b'at nudda cuadu chi non at a essire a pizu, e nudda segretu chi non l'ant a bogare a pizu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,27 &lt;s0/&gt;Costui rispose: "Amerai il Signore Dio tuo con tutto il tuo cuore, con tutta la tua anima, con &lt;s1/&gt;tutta la tua forza e con tutta la tua mente e il prossimo tuo come te stesso".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260910T174706Z" creationid="Gianfranco" creationdate="20260910T174706Z">
+        <seg>10,27 &lt;s0/&gt;Custu aiat rispòndidu: «As a amare a su Sennore Deus tuo cun totu su coro, cun totu s'ànima tua, cun &lt;s1/&gt;totu sa fortza e con totu sa mente e a sos àteros comente a tie matessi».</seg>
       </tuv>
     </tu>
     <tu>
@@ -14921,6 +14937,14 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251130T192502Z" creationid="carmi" creationdate="20251106T105744Z">
         <seg>Ite sunt narende custos contra de tene/ite bi tenent custos contra de tene?». &lt;t15/&gt;61&lt;t16/&gt; Ma issu (si) callaiat e non mutiat nudda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Che cosa vi leggi?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260910T174430Z" creationid="Gianfranco" creationdate="20260910T174430Z">
+        <seg>Ite bi leghes?»</seg>
       </tuv>
     </tu>
     <tu>

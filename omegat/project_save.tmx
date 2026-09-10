@@ -1381,8 +1381,8 @@
       <tuv lang="it">
         <seg>10,34 &lt;s0/&gt;Gli si fece vicino, gli fasciò le ferite, versandovi olio e vino; poi, caricatolo sopra il suo &lt;s1/&gt;giumento, lo portò a una locanda e si prese cura di lui.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260910T184918Z" creationid="Gianfranco" creationdate="20260910T184832Z">
-        <seg>10,34 &lt;s0/&gt;Si li fit acostiadu, li aiat fascadu sas feridas, ghetende·li ozu e binu; a pustis nche l'aiat carrigadu a subra de su&lt;s1/&gt;tentorzu suo, nche l'aiat zutu a un'isteria/posada e si l'aiat curadu.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260910T185238Z" creationid="Gianfranco" creationdate="20260910T184832Z">
+        <seg>10,34 &lt;s0/&gt;Si li fit acostiadu, li aiat fascadu sas feridas, ghetende·li ozu e binu; a pustis nche l'aiat carrigadu a subra de su&lt;s1/&gt;tentorzu suo, nche l'aiat zutu a un'isteria/posada e li aiat dadu contu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1407,6 +1407,14 @@
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260708T104535Z" creationid="carmi" creationdate="20260205T090338Z">
         <seg>10,35&lt;s0/&gt;Difatis so bènnidu a pònnere su fizu contras a su babbu, sa fiza contras a sa mama, sa nura contras a sa&lt;s1/&gt;sogra:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,36 &lt;s0/&gt;Chi di questi tre ti sembra sia stato il prossimo di colui che è incappato nei briganti?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260910T191517Z" creationid="Gianfranco" creationdate="20260910T191517Z">
+        <seg>10,36 &lt;s0/&gt;Chie de custos tres ti paret chi est istadu su prus a cùrtziu de su chi at atopadu a sos brigantes?».</seg>
       </tuv>
     </tu>
     <tu>

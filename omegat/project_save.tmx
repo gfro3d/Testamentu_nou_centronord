@@ -1507,6 +1507,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10,41 &lt;s0/&gt;Ma Gesù le rispose: "Marta, Marta, tu ti preoccupi e ti agiti per molte cose,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260910T195129Z" creationid="Gianfranco" creationdate="20260910T195129Z">
+        <seg>10,41 &lt;s0/&gt;Ma Gesùs li aiat rispòndidu: "O Marta, istas in pensamentu e ti pigas pistighinzu pro medas cosas,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10,41&lt;s0/&gt;Chi accoglie un profeta come profeta, avrà la ricompensa del profeta, e chi accoglie un giusto come giusto, avrà la ricompensa del giusto.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260421T084740Z" creationid="carmi" creationdate="20260205T090343Z">
@@ -15361,6 +15369,14 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260311T183917Z" creationid="Gianfranco" creationdate="20260311T183917Z">
         <seg>"S'ùrtimu", aiant naradu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Dille dunque che mi aiuti".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260910T194734Z" creationid="Gianfranco" creationdate="20260910T194734Z">
+        <seg>Nara·li a m'azudare, tando». </seg>
       </tuv>
     </tu>
     <tu>

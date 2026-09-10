@@ -1330,11 +1330,27 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10,31 &lt;s0/&gt;Per caso, un sacerdote scendeva per quella medesima strada e quando lo vide passò oltre &lt;s1/&gt;dall'altra parte.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260910T181226Z" creationid="Gianfranco" creationdate="20260910T181226Z">
+        <seg>10,31 &lt;s0/&gt;Pro casu, unu satzerdote fit pendende in su matessi camminu e cando l'aiat bidu si nche fit coladu&lt;s1/&gt;a s'àtera ala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10,31&lt;s0/&gt;non abbiate dunque timore: voi valete più di molti passeri!</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260421T084419Z" creationid="carmi" creationdate="20260205T090336Z">
         <seg>10,31&lt;s0/&gt;non timedas, duncas: bois bos balides prus de medas  furfuràrgios!
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,32 &lt;s0/&gt;Anche un levita, giunto in quel luogo, lo vide e passò oltre.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260910T183436Z" creationid="Gianfranco" creationdate="20260910T183436Z">
+        <seg>10,32 &lt;s0/&gt;Unu levita puru, arribbadu a in cue, l'aiat bidu e si nche fit coladu.</seg>
       </tuv>
     </tu>
     <tu>

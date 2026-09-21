@@ -1898,8 +1898,8 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
       <tuv lang="it">
         <seg>11,22 &lt;s0/&gt;Ma se arriva uno più forte di lui e lo vince, gli strappa via l'armatura nella quale confidava e &lt;s1/&gt;ne distribuisce il bottino.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260921T082539Z" creationid="Gianfranco" creationdate="20260921T082539Z">
-        <seg>11,22 &lt;s0/&gt;Ma si arribbat unu prus forte de issu e lu binchet, nche li istratzat s'armadura chi aiat fatu afidamentu e &lt;s1/&gt;nde ponet in parte su botinu.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260921T082626Z" creationid="Gianfranco" creationdate="20260921T082539Z">
+        <seg>11,22 &lt;s0/&gt;Ma si arribbat unu prus forte de issu e lu binchet, nche li istratzat s'armadura fidada e &lt;s1/&gt;nde ponet in parte su botinu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1908,6 +1908,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260423T164755Z" creationid="Gianfranco" creationdate="20260212T105128Z">
         <seg>11,22&lt;s0/&gt;Ma deo bos lu naro: Tiro e Sidone sa sorte chi lis at a tocare  sa die de su zudìtziu l'ant a pòdere bajulare prus de sa bostra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,23 &lt;s0/&gt;Chi non è con me, è contro di me; e chi non raccoglie con me, disperde.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260921T082653Z" creationid="Gianfranco" creationdate="20260921T082552Z">
+        <seg>11,23&lt;s0/&gt;Chie no est cun megus, est contra de mene; e chie non regollit cun megus, isperdet.</seg>
       </tuv>
     </tu>
     <tu>

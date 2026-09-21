@@ -1822,6 +1822,14 @@ Mira, so mandende su nùntziu meu cara a tie, issu t'at a aprontare su caminu in
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,19 &lt;s0/&gt;Ma se io scaccio i demòni in nome di Beelzebùl, i vostri discepoli in nome di chi li scacciano?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260921T081353Z" creationid="Gianfranco" creationdate="20260921T081353Z">
+        <seg>11,19&lt;s0/&gt;Ma si nche bogo sos dimònios in nùmene de Beelzebùl, sos dischentes bostros in nùmene de chie nche los bogant?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,19&lt;s0/&gt;È venuto il Figlio dell'uomo, che mangia e beve, e dicono: Ecco un mangione e un beone, amico dei pubblicani e dei peccatori.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260423T164627Z" creationid="Gianfranco" creationdate="20260212T095059Z">
@@ -15486,6 +15494,14 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>&lt;s1/&gt;Perciò essi stessi saranno i vostri giudici.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260921T082033Z" creationid="Gianfranco" creationdate="20260921T082033Z">
+        <seg>&lt;s1/&gt;Pro cussu issos etotu ant bos ant a zuigare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>&lt;s1/&gt;Presero il largo.</seg>
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260829T150142Z" creationid="carminupintore" creationdate="20260828T153848Z">
@@ -19152,6 +19168,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251205T102350Z" creationid="carmi" creationdate="20251106T105815Z">
         <seg>A Gesùs su Nazarenu sezis chirchende, su chi ant postu in rughe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Voi dite che &lt;s1/&gt;io scaccio i demòni in nome di Beelzebùl.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260921T081231Z" creationid="Gianfranco" creationdate="20260921T081231Z">
+        <seg>Bois narades chi &lt;s1/&gt;deo nche bogo sos dimònios in nùmene de Beelzebùl.</seg>
       </tuv>
     </tu>
     <tu>

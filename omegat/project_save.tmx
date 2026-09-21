@@ -1778,8 +1778,8 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
       <tuv lang="it">
         <seg>11,2 &lt;s0/&gt;Ed egli disse loro: "Quando pregate, dite: Padre, sia santificato il tuo nome, venga il tuo &lt;s1/&gt;regno;</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260921T072919Z" creationid="Gianfranco" creationdate="20260921T072919Z">
-        <seg>11,2 &lt;s0/&gt;E issu lis aiat naradu: «Cando pregades, narade: Babbu, santificadu siat su rennu, &lt;s1/&gt;tuo;</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260921T073047Z" creationid="Gianfranco" creationdate="20260921T072919Z">
+        <seg>11,2 &lt;s0/&gt;E issu lis aiat naradu: «Cando pregades, narade: Babbu, santificadu siat su nùmene tuo, benzat su rennu&lt;s1/&gt;tuo;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1885,6 +1885,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
       <tuv lang="sc" changeid="carmi" changedate="20260421T084959Z" creationid="carmi" creationdate="20260205T090345Z">
         <seg>11,2&lt;s0/&gt;Cando Giuanne fit in presone aiat intesu de sas òperas de Cristos e nch'aiat mandadu a sos dischentes suos a li dimandare:
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,3 &lt;s0/&gt;dacci ogni giorno il nostro pane quotidiano,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260921T073228Z" creationid="Gianfranco" creationdate="20260921T073009Z">
+        <seg>11,3 &lt;s0/&gt;su pane nostru de cada die dona·nos,</seg>
       </tuv>
     </tu>
     <tu>

@@ -2826,6 +2826,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,34 &lt;s0/&gt;Perché dove è il vostro tesoro, là sarà anche il vostro cuore.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260921T100304Z" creationid="Gianfranco" creationdate="20260921T100304Z">
+        <seg>12,34 &lt;s0/&gt;Ca ue est s'ascusorzu/siddadu bostru, inie at a èssere su coro bostru puru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,34&lt;s0/&gt;Razza di vipere, come potete dire cose buone, voi che siete cattivi?</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260211T163806Z" creationid="carmi" creationdate="20260210T105140Z">
@@ -2834,10 +2842,26 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,35 &lt;s0/&gt;Siate pronti, con la cintura ai fianchi e le lucerne accese;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260921T100407Z" creationid="Gianfranco" creationdate="20260921T100407Z">
+        <seg>12,35 &lt;s0/&gt;Siedas prontos, cun sa chintorza in lumbos e sas lugheras allutas;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,35&lt;s0/&gt;L'uomo buono dal suo buon tesoro trae cose buone, mentre l'uomo cattivo dal suo cattivo tesoro trae cose cattive.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260211T164648Z" creationid="carmi" creationdate="20260210T105141Z">
         <seg>12,35&lt;s0/&gt;Sa persone bona nde bogat cosas bonas dae su siddadu bonu suo , e sa persone mala nde bogat cosas malas dae su siddadu malu suo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,36 &lt;s0/&gt;siate simili a coloro che aspettano il padrone quando torna dalle nozze, per aprirgli subito, &lt;s1/&gt;appena arriva e bussa.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20260921T100601Z" creationid="Gianfranco" creationdate="20260921T100601Z">
+        <seg>12,36 &lt;s0/&gt;siedas che a sos chi isetant a su mere cando torrat dae su cojuviu, pro l'apèrrere deretu, &lt;s1/&gt;comente arribbat e tocheddat.</seg>
       </tuv>
     </tu>
     <tu>

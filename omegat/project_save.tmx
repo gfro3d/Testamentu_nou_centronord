@@ -4948,10 +4948,34 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>16,1 &lt;s0/&gt;Diceva anche ai discepoli: "C'era un uomo ricco che aveva un amministratore, e questi fu accusato &lt;s1/&gt;dinanzi a lui di sperperare i suoi averi.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144454Z" creationid="carminupintore" creationdate="20261001T144454Z">
+        <seg>16,1 &lt;s0/&gt;Naraiat fintzas a sos dischentes: "B'aiat un'òmine ricu chi teniat un'amministradore, e custos fiat istadu incurpadu &lt;s1/&gt;in antis a issu de sperperare sos suos averi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>16,10 &lt;s0/&gt;Chi è fedele nel poco, è fedele anche nel molto; e chi è disonesto nel poco, è disonesto anche &lt;s1/&gt;nel molto.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144510Z" creationid="carminupintore" creationdate="20261001T144510Z">
+        <seg>16,10 &lt;s0/&gt;Chie est fidele in su pagu, est fidele fintzas in su meda; e chie est disonestu in su pagu, est disonestu fintzas &lt;s1/&gt;in su meda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>16,10&lt;s0/&gt;E neppure i sette pani per i quattromila e quante sporte avete raccolto?</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260223T130841Z" creationid="Gianfranco" creationdate="20260223T130814Z">
         <seg>16,10&lt;s0/&gt;E nemancu sos sete panes pro sos batormiza e cantas isportas nch'aiades collidu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>16,11 &lt;s0/&gt;Se dunque non siete stati fedeli nella iniqua ricchezza, chi vi affiderà quella vera?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144511Z" creationid="carminupintore" creationdate="20261001T144511Z">
+        <seg>16,11 &lt;s0/&gt;Si duncas non seis istados fideles in s'isballiada richesa, chie b'at a afidare cudda vera?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4964,10 +4988,26 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>16,12 &lt;s0/&gt;E se non siete stati fedeli nella ricchezza altrui, chi vi darà la vostra?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144512Z" creationid="carminupintore" creationdate="20261001T144512Z">
+        <seg>16,12 &lt;s0/&gt;E si non seis istados fideles in sa richesa agena, chie b'at a dare sa bostra?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>16,12&lt;s0/&gt;Allora essi compresero che egli non aveva detto che si guardassero dal lievito del pane, ma dalla dottrina dei farisei e dei sadducei.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260223T131219Z" creationid="Gianfranco" creationdate="20260223T131219Z">
         <seg>16,12&lt;s0/&gt;Tando issos aiant cumpresu chi issu non aiat naradu a lassare sa màdrighe de su pane, ma dae sa dutrina de sos fariseos e de sos saddutzeos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>16,13 &lt;s0/&gt;Nessun servo può servire a due padroni: o odierà l'uno e amerà l'altro oppure si affezionerà &lt;s1/&gt;all'uno e disprezzerà l'altro.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144513Z" creationid="carminupintore" creationdate="20261001T144513Z">
+        <seg>16,13 &lt;s0/&gt;Perunu tzeracu podet serbire a duos meres: o at a odiare s'unu e at a amare s'àteru opuru s'at a afetzionare &lt;s1/&gt;a su unu e disprezzerà s'àteru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4980,10 +5020,26 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>16,14 &lt;s0/&gt;I farisei, che erano attaccati al denaro, ascoltavano tutte queste cose e si beffavano di lui.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144525Z" creationid="carminupintore" creationdate="20261001T144525Z">
+        <seg>16,14 &lt;s0/&gt;I farisei, chi fiant atacados a su dinari, ascurtaiant totus custas cosas e si befaiant de issu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>16,14&lt;s0/&gt;Risposero: "Alcuni Giovanni il Battista, altri Elia, altri Geremia o qualcuno dei profeti".</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260223T131735Z" creationid="Gianfranco" creationdate="20260223T131735Z">
         <seg>16,14&lt;s0/&gt;Aiat rispòndidu: "A chie Zuanne su Batista, a chie Elia, àteros Geremia o calicun'àteru de sos profetas".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>16,15 &lt;s0/&gt;Egli disse: "Voi vi ritenete giusti davanti agli uomini, ma Dio conosce i vostri cuori: ciò che è &lt;s1/&gt;esaltato fra gli uomini è cosa detestabile davanti a Dio.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144450Z" creationid="carminupintore" creationdate="20261001T144450Z">
+        <seg>16,15 &lt;s0/&gt;Issu aiat naradu: "Bois bi retenides giustos dae in antis sos òmines, ma Deus connoschet sos coros bostros: custu chi est &lt;s1/&gt;esaltadu intre sos òmines est ite detestabile dae in antis Deus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5040,6 +5096,14 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251205T102244Z" creationid="carmi" creationdate="20251106T105814Z">
         <seg>16,1&lt;t0/&gt; Coladu su sàbadu, Maria de Màgdala, Maria de Giagu e Salomè aiant comporadu ozu aromàticu / nuscosu pro andare a ùnghere a Gesùs. &lt;t1/&gt;2&lt;t2/&gt; E a primu manzanu / chitzo meda, sa prima die a pustis de su sàbadu, fint andadas a sa tumba arbeschende. &lt;t3/&gt;3&lt;t4/&gt; E si naraiant s'una cun s'àtera: «Chie nos nche lu dogat su contone dae s'intrada de sa tumba?». &lt;t5/&gt;4&lt;t6/&gt; Ma aiant abbaidadu e su contone nche l'aiant dogadu, mancari esseret mannu meda. &lt;t7/&gt;5&lt;t8/&gt; Intrende a sa tumba, aiant bidu unu zòbanu, sètzidu a manu dereta, cun una beste bianca, e si fint ispramadas / atzicadas. &lt;t9/&gt;6&lt;t10/&gt; Ma issu lis aiat naradu: «Non timedas!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>16,2 &lt;s0/&gt;Lo chiamò e gli disse: Che è questo che sento dire di te?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144455Z" creationid="carminupintore" creationdate="20261001T144455Z">
+        <seg>16,2 &lt;s0/&gt;L'aiat mutidu e l'aiat naradu: Ite est custu chi intendo narende de tene?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5124,10 +5188,26 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>16,3 &lt;s0/&gt;L'amministratore disse tra sé: Che farò ora che il mio padrone mi toglie l'amministrazione?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144457Z" creationid="carminupintore" creationdate="20261001T144457Z">
+        <seg>16,3 &lt;s0/&gt;S'amministradore aiat naradu intre sese: Ite apo a fàghere como chi su mere meu mi dogat s'amministratzione?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>16,3&lt;s0/&gt;e al mattino: Oggi burrasca, perché il cielo è rosso cupo.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260223T125354Z" creationid="Gianfranco" creationdate="20260223T125354Z">
         <seg>16,3&lt;s0/&gt;e a manzanu: Oe non faghet unu tempestu, ca su chelu est ruju iscuru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>16,4 &lt;s0/&gt;So io che cosa fare perché, quando sarò stato allontanato dall'amministrazione, ci sia qualcuno &lt;s1/&gt;che mi accolga in casa sua.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144459Z" creationid="carminupintore" creationdate="20261001T144459Z">
+        <seg>16,4 &lt;s0/&gt;Isco deo ite fàghere ca, cando apo a èssere istadu istesiadu dae s'amministratzione, b'apat calicunu &lt;s1/&gt;chi m'acollat in domo sua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5140,10 +5220,26 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>16,5 &lt;s0/&gt;Chiamò uno per uno i debitori del padrone e disse al primo:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144500Z" creationid="carminupintore" creationdate="20261001T144500Z">
+        <seg>16,5 &lt;s0/&gt;Aiat mutidu unu pro unu sos depidores de su mere e aiat naradu a su primu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>16,5&lt;s0/&gt;Nel passare però all'altra riva, i discepoli avevano dimenticato di prendere il pane.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260223T130133Z" creationid="Gianfranco" creationdate="20260223T130032Z">
         <seg>16,5&lt;s0/&gt;Cando fint zumpende su riu/a s'àtera ala de su riu, sos dischentes si nche fint ismentigados de nche pigare su pane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>16,6 &lt;s0/&gt;Tu quanto devi al mio padrone?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144501Z" creationid="carminupintore" creationdate="20261001T144501Z">
+        <seg>16,6 &lt;s0/&gt;Tue cantu deves a su mere meu?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5156,6 +5252,14 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>16,7 &lt;s0/&gt;Poi disse a un altro: Tu quanto devi?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144504Z" creationid="carminupintore" creationdate="20261001T144504Z">
+        <seg>16,7 &lt;s0/&gt;Posca aiat naradu a unu àteru: Tue cantu deves?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>16,7&lt;s0/&gt;Ma essi parlavano tra loro e dicevano: "Non abbiamo preso il pane!".</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260223T130444Z" creationid="Gianfranco" creationdate="20260223T130444Z">
@@ -5164,10 +5268,26 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>16,8 &lt;s0/&gt;Il padrone lodò quell'amministratore disonesto, perché aveva agito con scaltrezza.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144507Z" creationid="carminupintore" creationdate="20261001T144507Z">
+        <seg>16,8 &lt;s0/&gt;Su mere aiat lodadu cuddu amministradore disonestu, ca aiat agidu cun scaltrezza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>16,8&lt;s0/&gt;Accortosene, Gesù chiese: "Perché, uomini di poca fede, andate dicendo che non avete il pane?</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260223T130614Z" creationid="Gianfranco" creationdate="20260223T130614Z">
         <seg>16,8&lt;s0/&gt;Comente si nd'est abizadu, Gesùs aiat dimandadu: "Proite, òmines de pagu fide/chene fide, sezis/istades narende chi sezis chene pane?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>16,9 &lt;s0/&gt;Ebbene, io vi dico: Procuratevi amici con la iniqua ricchezza, perché, quand'essa verrà a &lt;s1/&gt;mancare, vi accolgano nelle dimore eterne.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144509Z" creationid="carminupintore" creationdate="20261001T144509Z">
+        <seg>16,9 &lt;s0/&gt;Ellus, deo bi naro: Atzivide·bos amigos cun s'isballiada richesa, ca, cando issa at a bènnere a &lt;s1/&gt;mancare, b'acollant in sos abitòrios eternos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5284,6 +5404,14 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>17,19 &lt;s0/&gt;"Alzati e va'; la tua fede ti ha salvato!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144528Z" creationid="carminupintore" creationdate="20261001T144528Z">
+        <seg>17,19 &lt;s0/&gt;"Pesa·ti e anda; sa fide tua t'at sarvadu!".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>17,19&lt;s0/&gt;Allora i discepoli, accostatisi a Gesù in disparte, gli chiesero: "Perché noi non abbiamo potuto scacciarlo?".</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260228T170221Z" creationid="Gianfranco" creationdate="20260228T170221Z">
@@ -5300,10 +5428,26 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>17,20 &lt;s0/&gt;Interrogato dai farisei: "Quando verrà il regno di Dio?", rispose:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144529Z" creationid="carminupintore" creationdate="20261001T144529Z">
+        <seg>17,20 &lt;s0/&gt;Interrogadu dae sos farisei: "Cando at a bènnere su rennu de Deus?", aiat rispòndidu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>17,20&lt;s0/&gt;Ed egli rispose: "Per la vostra poca fede.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260228T170255Z" creationid="Gianfranco" creationdate="20260228T170255Z">
         <seg>17,20&lt;s0/&gt;E issu aiat rispostu: "Ca sezis chene fide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>17,21 &lt;s0/&gt;"Il regno di Dio non viene in modo da attirare l'attenzione, e nessuno dirà: Eccolo qui, o: &lt;s1/&gt;eccolo là.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144530Z" creationid="carminupintore" creationdate="20261001T144530Z">
+        <seg>17,21 &lt;s0/&gt;"Su rennu de Deus non benit in modu de atirare s'atentzione, e nemos at a nàrrere: Eccolo inoghe, o: &lt;s1/&gt;eccolo in cue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5316,10 +5460,26 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>17,22 &lt;s0/&gt;Disse ancora ai discepoli: "Verrà un tempo in cui desidererete vedere anche uno solo dei giorni &lt;s1/&gt;del Figlio dell'uomo, ma non lo vedrete.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144532Z" creationid="carminupintore" creationdate="20261001T144532Z">
+        <seg>17,22 &lt;s0/&gt;Aiat naradu ancora a sos dischentes: "At a bènnere unu tempus a cale ais a disigiare bìdere fintzas unu solu de sas dies &lt;s1/&gt;de su Fìgiu de s'òmine, ma non l'ais a bìdere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>17,22&lt;s0/&gt;Mentre si trovavano insieme in Galilea, Gesù disse loro: "Il Figlio dell'uomo sta per esser&lt;s1/&gt;consegnato nelle mani degli uomini</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260228T170950Z" creationid="Gianfranco" creationdate="20260228T170950Z">
         <seg>17,22&lt;s0/&gt;In s'ora chi/Cando fint paris in Galilea, Gesùs lis aiat naradu: "Su Fizu de s'òmine lu sunt pro&lt;s1/&gt;l'intregare in manos de sos òmines</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>17,23 &lt;s0/&gt;Vi diranno: Eccolo là, o: eccolo qua; non andateci, non seguiteli.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144533Z" creationid="carminupintore" creationdate="20261001T144533Z">
+        <seg>17,23 &lt;s0/&gt;B'ant a nàrrere: Eccolo in cue, o: eccolo inoghe; non nos andeis, non los sigais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5332,10 +5492,26 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>17,24 &lt;s0/&gt;Perché come il lampo, guizzando, brilla da un capo all'altro del cielo, così sarà il Figlio &lt;s1/&gt;dell'uomo nel suo giorno.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144533Z" creationid="carminupintore" creationdate="20261001T144533Z">
+        <seg>17,24 &lt;s0/&gt;Ca comente a su lampu, guizzando, brilla de unu capu a s'àteru de su chelu, gasi at a èssere su Fìgiu &lt;s1/&gt;de s'òmine in sa die sua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>17,24&lt;s0/&gt;Venuti a Cafarnao, si avvicinarono a Pietro gli esattori della tassa per il tempio e gli dissero: "Il vostro maestro non paga la tassa per il tempio?".</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260228T171756Z" creationid="Gianfranco" creationdate="20260228T171756Z">
         <seg>17,24&lt;s0/&gt;Arribados a Cafàrnau,si lis fint acurtziados a Pedru sos chi regolliant su didrachma/sas tassas pro su tèmpiu e li aiant naradu: "Su mastru bostru tassa pro su tèmpiu non nde pagat?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>17,25 &lt;s0/&gt;Ma prima è necessario che egli soffra molto e venga ripudiato da questa generazione.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144534Z" creationid="carminupintore" creationdate="20261001T144534Z">
+        <seg>17,25 &lt;s0/&gt;Ma in antis est netzessàriu chi issu sufrat meda e siat repudiadu dae custa generatzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5348,10 +5524,26 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>17,26 &lt;s0/&gt;Come avvenne al tempo di Noè, così sarà nei giorni del Figlio dell'uomo:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144535Z" creationid="carminupintore" creationdate="20261001T144535Z">
+        <seg>17,26 &lt;s0/&gt;Comente aiat acontèssidu a su tempus de Noè, gasi at a èssere in sas dies de su Fìgiu de s'òmine:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>17,26&lt;s0/&gt;Rispose: "Dagli estranei".</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260228T172420Z" creationid="Gianfranco" creationdate="20260228T172420Z">
         <seg>17,26&lt;s0/&gt;Aiat rispòndidu: "Dae àtere".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>17,27 &lt;s0/&gt;mangiavano, bevevano, si ammogliavano e si maritavano, fino al giorno in cui Noè entrò nell'arca &lt;s1/&gt;e venne il diluvio e li fece perire tutti.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144536Z" creationid="carminupintore" creationdate="20261001T144536Z">
+        <seg>17,27 &lt;s0/&gt;mandigaiant, bufaiant, s'ammogliavano e si maritavano, finas a sa die in cale Noè fiat intradu a s'arca &lt;s1/&gt;e fiat bènnidu su dilùviu e los aiat fatu perire totus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5364,10 +5556,82 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>17,28 &lt;s0/&gt;Come avvenne anche al tempo di Lot: mangiavano, bevevano, compravano, vendevano, piantavano, &lt;s1/&gt;costruivano;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144537Z" creationid="carminupintore" creationdate="20261001T144537Z">
+        <seg>17,28 &lt;s0/&gt;Comente aiat acontèssidu fintzas a su tempus de Lot: mandigaiant, bufaiant, comporaiant, bendiant, prantaiant, &lt;s1/&gt;costruaiant;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>17,29 &lt;s0/&gt;ma nel giorno in cui Lot uscì da Sòdoma piovve fuoco e zolfo dal cielo e li fece perire tutti.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144538Z" creationid="carminupintore" creationdate="20261001T144538Z">
+        <seg>17,29 &lt;s0/&gt;ma in sa die in cale Lot fiat essidu dae Sòdoma piovve fogu e sùrfuru dae su chelu e los aiat fatu perire totus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>17,2&lt;s0/&gt;E fu trasfigurato davanti a loro; il suo volto brillò come il sole e le sue vesti divennero&lt;s1/&gt;candide come la luce.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260304T094730Z" creationid="carmi" creationdate="20260220T091335Z">
         <seg>17,2&lt;s0/&gt;Si fit trasfiguradu in dae in antis issoro; sa cara sua illughentende / lughizende che (a su) sole e sas bestes suas si fint fatas&lt;s1/&gt;nidas che (a sa) lughe (etotu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>17,30 &lt;s0/&gt;Così sarà nel giorno in cui il Figlio dell'uomo si rivelerà.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144539Z" creationid="carminupintore" creationdate="20261001T144539Z">
+        <seg>17,30 &lt;s0/&gt;Gasi at a èssere in sa die in cale su Fìgiu de s'òmine s'at a rivelare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>17,31 &lt;s0/&gt;In quel giorno, chi si troverà sulla terrazza, se le sue cose sono in casa, non scenda a &lt;s1/&gt;prenderle; così chi si troverà nel campo, non torni indietro.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144540Z" creationid="carminupintore" creationdate="20261001T144540Z">
+        <seg>17,31 &lt;s0/&gt;In cudda die, chie s'at a agatare subra de sa terratza, si sas cosas suas sunt in domo, non pendat a &lt;s1/&gt;las pigare; gasi chie s'at a agatare in su campu, non torret in dae segus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>17,32 &lt;s0/&gt;Ricordatevi della moglie di Lot.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144541Z" creationid="carminupintore" creationdate="20261001T144541Z">
+        <seg>17,32 &lt;s0/&gt;Ammentade·bos de sa mugere de Lot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>17,33 &lt;s0/&gt;Chi cercherà di salvare la propria vita la perderà, chi invece l'avrà perduta la salverà.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144542Z" creationid="carminupintore" creationdate="20261001T144542Z">
+        <seg>17,33 &lt;s0/&gt;Chie at a chircare de sarvare sa vida pròpia l'at a pèrdere, chie imbetzes l'at a àere pèrdida l'at a sarvare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>17,34 &lt;s0/&gt;Vi dico: in quella notte due si troveranno in un solo letto: l'uno verrà preso e l'altro &lt;s1/&gt;lasciato;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144543Z" creationid="carminupintore" creationdate="20261001T144543Z">
+        <seg>17,34 &lt;s0/&gt;Bi naro: in cudda note duas s'ant a agatare in unu solu letu: su un'at a èssere pigadu e s'àteru &lt;s1/&gt;lassadu;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>17,35 &lt;s0/&gt;due donne staranno a macinare nello stesso luogo: l'una verrà presa e l'altra lasciata".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144544Z" creationid="carminupintore" creationdate="20261001T144544Z">
+        <seg>17,35 &lt;s0/&gt;duas fèminas ant a istare a mòlere in su matessi logu: su un'at a èssere pigada e s'àtera lassada".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>17,37 &lt;s0/&gt;Allora i discepoli gli chiesero: "Dove, Signore?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144546Z" creationid="carminupintore" creationdate="20261001T144546Z">
+        <seg>17,37 &lt;s0/&gt;Tando sos dischentes l'aiant pedidu: "Ue, Sennoras?".</seg>
       </tuv>
     </tu>
     <tu>
@@ -5452,10 +5716,34 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>18,1 &lt;s0/&gt;Disse loro una parabola sulla necessità di pregare sempre, senza stancarsi:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144556Z" creationid="carminupintore" creationdate="20261001T144556Z">
+        <seg>18,1 &lt;s0/&gt;Lis aiat naradu una paràbola subra de sa netzessidade de pregare semper, sena s'istracare:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>18,10 &lt;s0/&gt;"Due uomini salirono al tempio a pregare: uno era fariseo e l'altro pubblicano.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144607Z" creationid="carminupintore" creationdate="20261001T144607Z">
+        <seg>18,10 &lt;s0/&gt;"Due òmines fiant artziados a su tèmpiu a pregare: unu fiat fariseo e s'àteru pùblicant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>18,10&lt;s0/&gt;Guardatevi dal disprezzare uno solo di questi piccoli, perché vi dico che i loro angeli nel cielo vedono sempre la faccia del Padre mio che è nei cieli.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260309T194751Z" creationid="Gianfranco" creationdate="20260309T194751Z">
         <seg>18,10&lt;s0/&gt;Dazi cara a minispretziare mancari a unu ebbia de custos minoreddos, ca bos naro chi sos ànghelos issoro in chelu lu bident semper in cara a Babbu meu chi est in sos chelos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>18,11 &lt;s0/&gt;Il fariseo, stando in piedi, pregava così tra sé: O Dio, ti ringrazio che non sono come gli altri &lt;s1/&gt;uomini, ladri, ingiusti, adùlteri, e neppure come questo pubblicano.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144608Z" creationid="carminupintore" creationdate="20261001T144608Z">
+        <seg>18,11 &lt;s0/&gt;Su fariseo, istende a sa ritza, pregaiat gasi intre sese: O Deus, ti ringratzio chi non sunt comente a sos àteros &lt;s1/&gt;òmines, furones, ingiustos, adùlteri, e mancu comente a custu pùblicant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5468,10 +5756,26 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>18,12 &lt;s0/&gt;Digiuno due volte la settimana e pago le decime di quanto possiedo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144608Z" creationid="carminupintore" creationdate="20261001T144608Z">
+        <seg>18,12 &lt;s0/&gt;Geunu duas bias sa chida e pago sas de deghe de cantu possedo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>18,12&lt;s0/&gt;Che ve ne pare?</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260309T195114Z" creationid="Gianfranco" creationdate="20260309T195114Z">
         <seg>18,12&lt;s0/&gt;Ite bos nde paret/Ite nde pensades?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>18,13 &lt;s0/&gt;Il pubblicano invece, fermatosi a distanza, non osava nemmeno alzare gli occhi al cielo, ma si &lt;s1/&gt;batteva il petto dicendo: O Dio, abbi pietà di me peccatore.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144609Z" creationid="carminupintore" creationdate="20261001T144609Z">
+        <seg>18,13 &lt;s0/&gt;Lu pùblicant imbetzes, aende·si firmadu a distàntzia, no atreviat mancu pesare sos ogros a su chelu, ma s'adobbaiat &lt;s1/&gt; su petorras narende: O Deus, tene piedade de mene peccatore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5484,10 +5788,26 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>18,14 &lt;s0/&gt;Io vi dico: questi tornò a casa sua giustificato, a differenza dell'altro, perché chi si esalta &lt;s1/&gt;sarà umiliato e chi si umilia sarà esaltato".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144610Z" creationid="carminupintore" creationdate="20261001T144610Z">
+        <seg>18,14 &lt;s0/&gt;Deo bi naro: custos fiat torradu a domo sua giustificadu, a diferèntzia de s'àteru, ca chie s'esaltat &lt;s1/&gt;at a èssere umiliadu e chie s'umìliat at a èssere esaltadu".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>18,14&lt;s0/&gt;Così il Padre vostro celeste non vuole che si perda neanche uno solo di questi piccoli.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260309T195858Z" creationid="Gianfranco" creationdate="20260309T195858Z">
         <seg>18,14&lt;s0/&gt;E gasi etotu Babbu bostru tzeleste/chi est in chelu non cheret chi si nde perdat manc'unu de custos minoreddos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>18,15 &lt;s0/&gt;Gli presentavano anche i bambini perché li accarezzasse, ma i discepoli, vedendo ciò, li &lt;s1/&gt;rimproveravano.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144611Z" creationid="carminupintore" creationdate="20261001T144611Z">
+        <seg>18,15 &lt;s0/&gt;Li presentaiant fintzas sos pipios ca los accarezzasse, ma sos dischentes, bidende custu, los &lt;s1/&gt;brigaiant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5500,10 +5820,26 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>18,16 &lt;s0/&gt;Allora Gesù li fece venire avanti e disse: "Lasciate che i bambini vengano a me, non glielo &lt;s1/&gt;impedite perché a chi è come loro appartiene il regno di Dio.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144612Z" creationid="carminupintore" creationdate="20261001T144612Z">
+        <seg>18,16 &lt;s0/&gt;Tando Gesùs los aiat fatu bènnere a in antis e aiat naradu: "Lassades chi sos pipios bèngiant a mie, no bi l'impedides &lt;s1/&gt; ca a chie est comente a issos apartenet su rennu de Deus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>18,16&lt;s0/&gt;se non ti ascolterà, prendi con te una o due persone, perché ogni cosa sia risolta sulla parola di due o tre testimoni.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260309T200458Z" creationid="Gianfranco" creationdate="20260309T200412Z">
         <seg>18,16&lt;s0/&gt;se non ascurtat /ti ponet mente, piga·ti una o duas persones, ca cada cosa cheret acontzada chi in sa paràula de duos o tres testimonzos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>18,17 &lt;s0/&gt;In verità vi dico: Chi non accoglie il regno di Dio come un bambino, non vi entrerà".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144613Z" creationid="carminupintore" creationdate="20261001T144613Z">
+        <seg>18,17 &lt;s0/&gt;In veridade bi naro: Chie no acollit su rennu de Deus comente a unu pipiu, non b'at a intrare".</seg>
       </tuv>
     </tu>
     <tu>
@@ -5516,10 +5852,26 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>18,18 &lt;s0/&gt;Un notabile lo interrogò: "Maestro buono, che devo fare per ottenere la vita eterna?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144614Z" creationid="carminupintore" creationdate="20261001T144614Z">
+        <seg>18,18 &lt;s0/&gt;Unu notàbile l'aiat interrogadu: "Maestro bonu, chi devo fàghere pro otènnere sa vida eterna?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>18,18&lt;s0/&gt;In verità vi dico: tutto quello che legherete sopra la terra sarà legato anche in cielo e tutto quello che scioglierete sopra la terra sarà sciolto anche in cielo.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260306T104510Z" creationid="carmi" creationdate="20260306T103429Z">
         <seg>18,18&lt;s0/&gt;Bos lu naro a beru: totu su chi ais a prèndere paris in sa terra at a èssere presu paris in chelu puru e totu su chi ais a isòrvere in sa terra at a èssere isortu in chelu puru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>18,19 &lt;s0/&gt;Gesù gli rispose: "Perché mi dici buono?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144615Z" creationid="carminupintore" creationdate="20261001T144615Z">
+        <seg>18,19 &lt;s0/&gt;Gesùs l'aiat rispòndidu: "Ca mi naras bonu?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5540,10 +5892,34 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>18,2 &lt;s0/&gt;"C'era in una città un giudice, che non temeva Dio e non aveva riguardo per nessuno.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144557Z" creationid="carminupintore" creationdate="20261001T144557Z">
+        <seg>18,2 &lt;s0/&gt;"B'aiat in una tzitade unu giùighe, chi non timiat Deus e non teniat riguardu pro nemos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>18,20 &lt;s0/&gt;Tu conosci i comandamenti: Non commettere adulterio, non uccidere, non rubare, non testimoniare &lt;s1/&gt;il falso, onora tuo padre e tua madre".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144617Z" creationid="carminupintore" creationdate="20261001T144617Z">
+        <seg>18,20 &lt;s0/&gt;Tue connosches sos cumandamentos: Non cummitais adultèriu, no ochire, non furare, non testimoniare &lt;s1/&gt;lu farso, onorat babbu tuo e mama tua".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>18,20&lt;s0/&gt;Perché dove sono due o tre riuniti nel mio nome, io sono in mezzo a loro".</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260306T104834Z" creationid="carmi" creationdate="20260306T103430Z">
         <seg>18,20&lt;s0/&gt;Ca inue bi sunt duos o tres paris in su nùmene meu, deo so in mesu issoro".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>18,21 &lt;s0/&gt;Costui disse: "Tutto questo l'ho osservato fin dalla mia giovinezza".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T150138Z" creationid="carminupintore" creationdate="20261001T150138Z">
+        <seg>18,21 &lt;s0/&gt;Custu aiat naradu: "Totu custu l'apo osservadu finas dae sa gioventude mea".</seg>
       </tuv>
     </tu>
     <tu>
@@ -5628,6 +6004,14 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>18,3 &lt;s0/&gt;In quella città c'era anche una vedova, che andava da lui e gli diceva: Fammi giustizia contro il &lt;s1/&gt;mio avversario.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144558Z" creationid="carminupintore" creationdate="20261001T144558Z">
+        <seg>18,3 &lt;s0/&gt;In cudda tzitade b'aiat fintzas una viuda, chi andaiat in issu e li naraiat: Faghe·mi giustìtzia contra s'aversàriu &lt;s1/&gt; meu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>18,30&lt;s0/&gt;Ma egli non volle esaudirlo, andò e lo fece gettare in carcere, fino a che non avesse pagato il debito.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260306T113453Z" creationid="carmi" creationdate="20260306T103439Z">
@@ -5684,10 +6068,26 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>18,4 &lt;s0/&gt;Per un certo tempo egli non volle; ma poi disse tra sé: Anche se non temo Dio e non ho rispetto &lt;s1/&gt;di nessuno,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144559Z" creationid="carminupintore" creationdate="20261001T144559Z">
+        <seg>18,4 &lt;s0/&gt; unu tzertu tempus issu no aiat chertu; ma posca aiat naradu intre sese: Mancari non timo Deus e non tèngio respetu &lt;s1/&gt;de perunu,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>18,4&lt;s0/&gt;Perciò chiunque diventerà piccolo come questo bambino, sarà il più grande nel regno dei cieli.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260309T191739Z" creationid="Gianfranco" creationdate="20260309T191739Z">
         <seg>18,4&lt;s0/&gt;Pro cussu chie si siat at a torrare/s'at a fàghere minoreddu che a custu pitzinneddu, at a èssere su prus mannu in su rennu de sos chelos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>18,5 &lt;s0/&gt;poiché questa vedova è così molesta le farò giustizia, perché non venga continuamente a &lt;s1/&gt;importunarmi".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144600Z" creationid="carminupintore" creationdate="20261001T144600Z">
+        <seg>18,5 &lt;s0/&gt;ca custa viuda est gasi apuriosa las apo a fàghere giustìtzia, ca non bèngiat totora a &lt;s1/&gt;m'importunare".</seg>
       </tuv>
     </tu>
     <tu>
@@ -5700,10 +6100,26 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>18,6 &lt;s0/&gt;E il Signore soggiunse: "Avete udito ciò che dice il giudice disonesto.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144601Z" creationid="carminupintore" creationdate="20261001T144601Z">
+        <seg>18,6 &lt;s0/&gt;E su Sennore soggiunse: "Ais intesu custu chi narat su giùighe disonestu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>18,6&lt;s0/&gt;Chi invece scandalizza anche uno solo di questi piccoli che credono in me, sarebbe meglio per luiche gli fosse appesa al collo una macina girata da asino, e fosse gettato negli abissi del mare.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260309T194857Z" creationid="Gianfranco" creationdate="20260309T192802Z">
         <seg>18,6&lt;s0/&gt;Chie imbetzes ofendet/iscàndulit mancari a unu ebbia / unu chi siat unu de custos minoreddos chi mi tenent fide/credent in mene, li cumbenit a li pònnere/ chi li ponzant una mola de poleddu a tzugru, e a nche lu ghetare/chi nche lu ghetent in fundu de mare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>18,7 &lt;s0/&gt;E Dio non farà giustizia ai suoi eletti che gridano giorno e notte verso di lui?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144602Z" creationid="carminupintore" creationdate="20261001T144602Z">
+        <seg>18,7 &lt;s0/&gt;E Deus no at a fàghere giustìtzia a sos elettos suos chi abbòghinant die e note cara a de issu?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5716,10 +6132,26 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>18,8 &lt;s0/&gt;Vi dico che farà loro giustizia prontamente.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144604Z" creationid="carminupintore" creationdate="20261001T144604Z">
+        <seg>18,8 &lt;s0/&gt;Bi naro chi at a fàghere giustìtzia issoro in manera pronta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>18,8&lt;s0/&gt;Se la tua mano o il tuo piede ti è occasione di scandalo, taglialo e gettalo via da te; è meglio per te entrare nella vita monco o zoppo, che avere due mani o due piedi ed essere gettato nel fuoco eterno.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260309T194931Z" creationid="Gianfranco" creationdate="20260309T193438Z">
         <seg>18,8&lt;s0/&gt;Si sa manu tua o su pede tuo ti batit/dat iscàndalu, sega·ti·nche·lu e imbola·nche·lu; menzus pro tene/ti cumbenit a intrare a sa bida manimutzu o tzopu, chi no a èssere a duas manos o a duos pedes e a ti nche ghetare/chi ti nche ghetente a su fogu eternu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>18,9 &lt;s0/&gt;Disse ancora questa parabola per alcuni che presumevano di esser giusti e disprezzavano gli &lt;s1/&gt;altri:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144606Z" creationid="carminupintore" creationdate="20261001T144606Z">
+        <seg>18,9 &lt;s0/&gt;Aiat naradu ancora custa paràbola pro unos cantos chi presumiant de èssere giustos e disprezzavano sos &lt;s1/&gt;àteros:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15814,6 +16246,14 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>&lt;s1/&gt;Zappare, non ho forza, mendicare, mi vergogno.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144458Z" creationid="carminupintore" creationdate="20261001T144458Z">
+        <seg>&lt;s1/&gt;Marrare, non tèngio fortza, mendicare, mi vergogno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>&lt;s2/&gt;Ed ecco, ben più di Salomone c'è qui.</seg>
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260909T165228Z" creationid="carminupintore" creationdate="20260909T164440Z">
@@ -17158,6 +17598,14 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Ed egli disse loro: "Dove sarà il cadavere, là &lt;s1/&gt;si raduneranno anche gli avvoltoi".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144554Z" creationid="carminupintore" creationdate="20261001T144554Z">
+        <seg>Ed issu lis aiat naradu: "Ue at a èssere su mortu, in cue &lt;s1/&gt;si raduneranno fintzas sos gurturjos".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Ed egli disse loro: Andate anche voi nellamia vigna.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260311T173113Z" creationid="Gianfranco" creationdate="20260311T173113Z">
@@ -17672,6 +18120,22 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Gli disse: Prendi la tua &lt;s1/&gt;ricevuta e scrivi ottanta.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144506Z" creationid="carminupintore" creationdate="20261001T144506Z">
+        <seg>L'aiat naradu: Pigas sa retzida &lt;s1/&gt;tua e iscries otanta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Gli disse: Prendi la tua &lt;s1/&gt;ricevuta, siediti e scrivi subito cinquanta.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144503Z" creationid="carminupintore" creationdate="20261001T144503Z">
+        <seg>L'aiat naradu: Pigas sa retzida &lt;s1/&gt;tua, see·ti e iscries deretu chimbanta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Gli dissero: «Dobbiamo andar noi a comprare duecento denari di pane e dare loro da mangiare?». &lt;t9/&gt;38&lt;t10/&gt; Ma egli replicò loro: «Quanti pani avete?</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251022T083315Z" creationid="carmi" creationdate="20251006T073451Z">
@@ -17828,6 +18292,14 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260901T184311Z" creationid="Gianfranco" creationdate="20260901T184311Z">
         <seg>Apo intesu chi una fortza nch'est essida dae mene».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>I figli di &lt;s1/&gt;questo mondo, infatti, verso i loro pari sono più scaltri dei figli della luce.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144508Z" creationid="carminupintore" creationdate="20261001T144508Z">
+        <seg>Sos fìgios de &lt;s1/&gt;custu mundu, difatis, cara a sos issos paris sunt prus ispibillos de sos fìgios de sa lughe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18040,6 +18512,14 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Li farà a lungo &lt;s1/&gt;aspettare?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144603Z" creationid="carminupintore" creationdate="20261001T144603Z">
+        <seg>Los at a fàghere pro tempus meda &lt;s1/&gt;isetare?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Lo dobbiamo dare o no?». &lt;t3/&gt;15&lt;t4/&gt; Ma egli, conoscendo la loro ipocrisia, disse: «Perché mi tentate?</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20251114T093954Z" creationid="carmi" creationdate="20251016T160340Z">
@@ -18148,6 +18628,14 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260907T185257Z" creationid="Gianfranco" creationdate="20260907T185257Z">
         <seg>Ma issos aiant rispòndidu: «Zughimus petzi chimbe&lt;s1/&gt;panes e duos pisches, si no est chi andamus a comporare cosa de mandigare pro totu custa zente».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Ma il Figlio dell'uomo, quando verrà, troverà la &lt;s1/&gt;fede sulla terra?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144605Z" creationid="carminupintore" creationdate="20261001T144605Z">
+        <seg>Ma su Fìgiu de s'òmine, cando at a bènnere, at a agatare sa &lt;s1/&gt;fide subra de sa terra?".</seg>
       </tuv>
     </tu>
     <tu>
@@ -18297,6 +18785,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Nessuno è buono, se non uno solo, Dio.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144616Z" creationid="carminupintore" creationdate="20261001T144616Z">
+        <seg>Nemos est bonu, si no unu solu, Deus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>No, vi dico, ma la divisione.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260921T104544Z" creationid="Gianfranco" creationdate="20260921T104544Z">
@@ -18389,6 +18885,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260908T165407Z" creationid="carminupintore" creationdate="20260829T154813Z">
         <seg>Non coledas dae una domo a s'àtera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Non potete servire a Dio e a mammona".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144514Z" creationid="carminupintore" creationdate="20261001T144514Z">
+        <seg>Non podides serbire a Deus e a mammona".</seg>
       </tuv>
     </tu>
     <tu>
@@ -18549,6 +19053,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260331T075927Z" creationid="Gianfranco" creationdate="20251003T095326Z">
         <seg>Proite ses galu istrobende a su Mastru?». &lt;t1/&gt;36&lt;t2/&gt; Ma Gesùs, comente at intesu su chi fint narende, aiat naradu a su capu de sa sinagoga: «Non timas, crede ebbia!». &lt;t3/&gt;37&lt;t4/&gt; E no aiat chèrfidu pigare a nessunu cun issu, solu a Pedru, Giagu e Giuanne, su frade de Giagu. &lt;t5/&gt;38&lt;t6/&gt; Fint lòmpidos a sa domo de su capu de sa sinagoga e issu aiat bidu badalocu e sa zente totu pranghende e atitende. &lt;t7/&gt;39&lt;t8/&gt; Comente fit intradu, lis aiat naradu: «Ma totu custu abbolotu e custu prantu chi bos sezis faghende?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Perché il regno di Dio è in mezzo a voi!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144531Z" creationid="carminupintore" creationdate="20261001T144531Z">
+        <seg>Ca su rennu de Deus est in mesu de bois!".</seg>
       </tuv>
     </tu>
     <tu>
@@ -18865,6 +19377,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Quello rispose: Cento barili d'olio.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144502Z" creationid="carminupintore" creationdate="20261001T144502Z">
+        <seg>Cuddu aiat rispòndidu: Chentu bariles de ògiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Queste cose bisognava curare senza trascurare le &lt;s2/&gt;altre.</seg>
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260910T092841Z" creationid="carminupintore" creationdate="20260909T164500Z">
@@ -18921,6 +19441,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Rendi conto della tua amministrazione, &lt;s1/&gt;perché non puoi più essere amministratore.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144456Z" creationid="carminupintore" creationdate="20261001T144456Z">
+        <seg>Rendes contu de s'amministratzione tua, &lt;s1/&gt;ca non podes prus èssere amministradore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Restate qui e vegliate». &lt;t5/&gt;35&lt;t6/&gt; Poi, andato un po' innanzi, si gettò a terra e pregava che, se fosse possibile, passasse da lui quell'ora. &lt;t7/&gt;36&lt;t8/&gt; E diceva: «Abbà, Padre!</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20251203T094855Z" creationid="carmi" creationdate="20251106T105732Z">
@@ -18957,6 +19485,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260901T162147Z" creationid="Gianfranco" creationdate="20260901T162147Z">
         <seg>Aiat rispostu: «Legione», ca medas dimònios li fint intrados a &lt;s1/&gt; intros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Rispose: Cento misure di grano.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144505Z" creationid="carminupintore" creationdate="20261001T144505Z">
+        <seg>Aiat rispòndidu: Chentu medidas de trigu.</seg>
       </tuv>
     </tu>
     <tu>

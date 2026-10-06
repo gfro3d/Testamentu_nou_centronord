@@ -4306,10 +4306,26 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>14,20 &lt;s0/&gt;Un altro disse: Ho preso moglie e perciò non posso venire.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261006T182636Z" creationid="Gianfranco" creationdate="20261006T182636Z">
+        <seg>14,20 &lt;s0/&gt;Un'àteru aiat naradu: Apo pigadu muzere e pro cussu non podo bènnere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>14,20&lt;s0/&gt;Tutti mangiarono e furono saziati; e portarono via dodici ceste piene di pezzi avanzati.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260220T152752Z" creationid="carmi" creationdate="20260213T115214Z">
         <seg>14,20&lt;s0/&gt;Totus aiant mandigadu e si fint tzatzados; e si nch'aiant pigadu dòighi cofas prenas de cantzos de pane chi b'aiat abbarradu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,21 &lt;s0/&gt;Al suo ritorno il servo riferì tutto questo al padrone.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261006T182703Z" creationid="Gianfranco" creationdate="20261006T182703Z">
+        <seg>14,21 &lt;s0/&gt;A sa torrada su tzeracu li aiat contadu totu custu a su mere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16578,6 +16594,14 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260223T121406Z" creationid="Gianfranco" creationdate="20260223T121406Z">
         <seg>Tando sos dischentes si li fint acostiados preghende·lu:&lt;s1/&gt;"Ispatza·la, ca nos est semper abboghinende a palas".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Allora il padrone di casa, irritato, &lt;s1/&gt;disse al servo: Esci subito per le piazze e per le vie della città e conduci qui poveri, storpi, &lt;s2/&gt;ciechi e zoppi.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261006T182946Z" creationid="Gianfranco" creationdate="20261006T182946Z">
+        <seg>Tando su mere de domo, inchietu, &lt;s1/&gt;li aiat naradu a su tzeracu: Essi deretu a sas pratzas e sos càminos de sa tzitade e bati·nche a inoghe a pòberos, isempiados &lt;s2/&gt;tzurpos e tzopos.</seg>
       </tuv>
     </tu>
     <tu>

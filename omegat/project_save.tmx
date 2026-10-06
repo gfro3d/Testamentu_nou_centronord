@@ -5774,16 +5774,24 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
       <tuv lang="it">
         <seg>17,35 &lt;s0/&gt;due donne staranno a macinare nello stesso luogo: l'una verrà presa e l'altra lasciata".</seg>
       </tuv>
-      <tuv lang="sc" changeid="carminupintore" changedate="20261006T163431Z" creationid="carminupintore" creationdate="20261001T144544Z">
-        <seg>17,35 &lt;s0/&gt;duas fèminas ant a èssere molende {trigu} in su matessi logu:  una nd'at a èssere pigada e s'àtera lassada".</seg>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261006T163602Z" creationid="carminupintore" creationdate="20261001T144544Z">
+        <seg>17,35 &lt;s0/&gt;duas fèminas ant a èssere molende {trigu} paris / in su matessi logu:  una nd'at a èssere pigada e s'àtera lassada".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>17,36 &lt;s0/&gt;[]</seg>
+      </tuv>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261006T163635Z" creationid="carminupintore" creationdate="20261006T163635Z">
+        <seg>Duos ant a èssere in su sartu, unu nd'at a èssere pigadu e s'àteru &lt;s1/&gt;lassadu </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>17,37 &lt;s0/&gt;Allora i discepoli gli chiesero: "Dove, Signore?".</seg>
       </tuv>
-      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144546Z" creationid="carminupintore" creationdate="20261001T144546Z">
-        <seg>17,37 &lt;s0/&gt;Tando sos dischentes l'aiant pedidu: "Ue, Sennoras?".</seg>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261006T163721Z" creationid="carminupintore" creationdate="20261001T144546Z">
+        <seg>17,37 &lt;s0/&gt;Tando sos dischentes l'aiant dimandadu: "Inue, Sennore?".</seg>
       </tuv>
     </tu>
     <tu>
@@ -17752,8 +17760,8 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       <tuv lang="it">
         <seg>Ed egli disse loro: "Dove sarà il cadavere, là &lt;s1/&gt;si raduneranno anche gli avvoltoi".</seg>
       </tuv>
-      <tuv lang="sc" changeid="carminupintore" changedate="20261001T144554Z" creationid="carminupintore" creationdate="20261001T144554Z">
-        <seg>Ed issu lis aiat naradu: "Ue at a èssere su mortu, in cue &lt;s1/&gt;si raduneranno fintzas sos gurturjos".</seg>
+      <tuv lang="sc" changeid="carminupintore" changedate="20261006T163818Z" creationid="carminupintore" creationdate="20261001T144554Z">
+        <seg>E issu lis aiat naradu: "In ue at a èssere su carasu, in cue &lt;s1/&gt;ant a acudire sos gurturzos puru".</seg>
       </tuv>
     </tu>
     <tu>

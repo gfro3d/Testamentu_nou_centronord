@@ -4338,6 +4338,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>14,22 &lt;s0/&gt;Il servo disse: Signore, è stato fatto come hai ordinato, ma c'è ancora posto.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261006T183041Z" creationid="Gianfranco" creationdate="20261006T183041Z">
+        <seg>14,22 &lt;s0/&gt;Su serbu li aiat naradu: Sennore, est istadu fatu comente as cumandadu, ma b'at galu logu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>14,22&lt;s0/&gt;Subito dopo ordinò ai discepoli di salire sulla barca e di precederlo sull'altra sponda, mentre egli avrebbe congedato la folla.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260213T155540Z" creationid="carmi" creationdate="20260213T115215Z">
@@ -16600,8 +16608,8 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       <tuv lang="it">
         <seg>Allora il padrone di casa, irritato, &lt;s1/&gt;disse al servo: Esci subito per le piazze e per le vie della città e conduci qui poveri, storpi, &lt;s2/&gt;ciechi e zoppi.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20261006T182946Z" creationid="Gianfranco" creationdate="20261006T182946Z">
-        <seg>Tando su mere de domo, inchietu, &lt;s1/&gt;li aiat naradu a su tzeracu: Essi deretu a sas pratzas e sos càminos de sa tzitade e bati·nche a inoghe a pòberos, isempiados &lt;s2/&gt;tzurpos e tzopos.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261006T183001Z" creationid="Gianfranco" creationdate="20261006T182946Z">
+        <seg>Tando su mere de domo, inchietu, &lt;s1/&gt;li aiat naradu a su tzeracu: Essi deretu a sas pratzas e sos càminos de sa tzitade e bati·nche a inoghe a pòberos, a isempiados,&lt;s2/&gt;a tzurpos e a tzopos.</seg>
       </tuv>
     </tu>
     <tu>

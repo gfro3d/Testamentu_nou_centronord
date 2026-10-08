@@ -4778,10 +4778,26 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>15,11 &lt;s0/&gt;Disse ancora: "Un uomo aveva due figli.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261008T170215Z" creationid="Gianfranco" creationdate="20261008T170139Z">
+        <seg>15,11 &lt;s0/&gt;Aiat nadadu galu: «Un'òmine teniat duos fizos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>15,11&lt;s0/&gt;Non quello che entra nella bocca rende impuro l'uomo, ma quello che esce dalla bocca rende impuro l'uomo!".</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260217T093449Z" creationid="carmi" creationdate="20260213T115234Z">
         <seg>15,11&lt;s0/&gt;No est su chi intrat a buca chi imbrutat s'òmine, est su chi nd'essit dae sa buca chi imbrutat s'òmine!".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,12 &lt;s0/&gt;Il più giovane disse al padre: Padre, dammi la parte del patrimonio che mi spetta.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261008T170315Z" creationid="Gianfranco" creationdate="20261008T170210Z">
+        <seg>15,12 &lt;s0/&gt;Su prus giòvanu li aiat naradu a su babbu: "O Ba', dae·mi·la sa parte chi mi tocat de s'erèntzia/possessu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5261,8 +5277,8 @@ ma su coro suo est a largu dae mene.</seg>
       <tuv lang="it">
         <seg>15,9 &lt;s0/&gt;E dopo averla trovata, chiama le amiche e le vicine, dicendo: Rallegratevi con me, perché ho &lt;s1/&gt;ritrovato la dramma che avevo perduta.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20261008T165925Z" creationid="Gianfranco" creationdate="20261008T165702Z">
-        <seg>15,9 &lt;s0/&gt;E a pustis de l'àere agatada, mutit a sas cumpanzas e sas bighinas, narende: "Alligrade·bos cun megus, ca deo &lt;s1/&gt;nch'apo agatadu sa dracma chi nch'aia pèrdidu.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261008T170026Z" creationid="Gianfranco" creationdate="20261008T165702Z">
+        <seg>15,9 &lt;s0/&gt;E a pustis de l'àere agatada, mutit a sas cumpanzas e sas bighinas, narende: «Alligrade·bos cun megus, ca deo &lt;s1/&gt;nch'apo agatadu sa dracma chi nch'aia pèrdidu.</seg>
       </tuv>
     </tu>
     <tu>

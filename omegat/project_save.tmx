@@ -4812,8 +4812,8 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
       <tuv lang="it">
         <seg>15,13 &lt;s0/&gt;Dopo non molti giorni, il figlio più giovane, raccolte le sue cose, partì per un paese lontano e &lt;s1/&gt;là sperperò le sue sostanze vivendo da dissoluto.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20261008T170927Z" creationid="Gianfranco" creationdate="20261008T170927Z">
-        <seg>15,13 &lt;s0/&gt;A pustis de pagas dies, su fizu prus minore, nch'aiat pigadu sas cosas suas, fit mòvidu a unu logu a tesu/larganu e &lt;s1/&gt;si nch'aiat gastadu sos benes suos bivende irreguladu/chere règula.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261008T171013Z" creationid="Gianfranco" creationdate="20261008T170927Z">
+        <seg>15,13 &lt;s0/&gt;A pustis de pagas dies, su fizu prus minore, nch'aiat pigadu sas cosas suas, fit mòvidu a una bidda a tesu/a largu e &lt;s1/&gt;si nch'aiat gastadu sos benes suos bivende irreguladu/chere règula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4826,10 +4826,26 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>15,14 &lt;s0/&gt;Quando ebbe speso tutto, in quel paese venne una grande carestia ed egli cominciò a trovarsi nel &lt;s1/&gt;bisogno.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261008T171134Z" creationid="Gianfranco" creationdate="20261008T170948Z">
+        <seg>15,14 &lt;s0/&gt;Cando si nch'aiat gastadu totu, in cudda bidda b'aiat àpidu una grandu carestia e issu aiat cumintzadu a s'agatare in su &lt;s1/&gt;bisonzu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>15,14&lt;s0/&gt;Lasciateli!</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260217T094611Z" creationid="carmi" creationdate="20260213T115236Z">
         <seg> 15,14&lt;s0/&gt;Lassade·los (a banda)!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,15 &lt;s0/&gt;Allora andò e si mise a servizio di uno degli abitanti di quella regione, che lo mandò nei campi &lt;s1/&gt;a pascolare i porci.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261008T171323Z" creationid="Gianfranco" creationdate="20261008T171323Z">
+        <seg>15,15 &lt;s0/&gt;Tando fit a andadu e si fit postu a cumandu de unu de sos chi istaiant in cudda regione/cussorza, chi nche l'aiat mandadu a su sartu &lt;s1/&gt;a pàschere sos porcos.</seg>
       </tuv>
     </tu>
     <tu>

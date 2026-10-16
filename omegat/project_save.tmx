@@ -6142,8 +6142,8 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
       <tuv lang="it">
         <seg>17,3 &lt;s0/&gt;State attenti a voi stessi!</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20261016T091350Z" creationid="Gianfranco" creationdate="20261016T091350Z">
-        <seg>17,3 &lt;s0/&gt;Na bois però istade a s'atenta!</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261016T091430Z" creationid="Gianfranco" creationdate="20261016T091350Z">
+        <seg>17,3 &lt;s0/&gt;Ma bois però istade a s'atenta!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6220,6 +6220,14 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>17,4 &lt;s0/&gt;E se pecca sette volte al giorno contro di te e sette volte ti dice: Mi pento, tu gli &lt;s1/&gt;perdonerai".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261016T091630Z" creationid="Gianfranco" creationdate="20261016T091630Z">
+        <seg>17,4 &lt;s0/&gt;E si pecat sete bortas a sa die contra de tene e sete bortas ti narat: "Mi nde pento", tue&lt;s1/&gt;l'as a perdonare».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>17,4&lt;s0/&gt;Pietro prese allora la parola e disse a Gesù: "Signore, è bello per noi restare qui; se vuoi, farò qui tre tende, una per te, una per Mosè e una per Elia".</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260304T101150Z" creationid="carmi" creationdate="20260220T091336Z">
@@ -6228,10 +6236,26 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>17,5 &lt;s0/&gt;Gli apostoli dissero al Signore:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261016T091649Z" creationid="Gianfranco" creationdate="20261016T091649Z">
+        <seg>17,5 &lt;s0/&gt;Sos apòstolos li aiant naradu a su Sennore:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>17,5&lt;s0/&gt;Egli stava ancora parlando quando una nube luminosa li avvolse con la sua ombra.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260304T095436Z" creationid="carmi" creationdate="20260220T091337Z">
         <seg>17,5&lt;s0/&gt;Issu fit galu faeddende cando una nue lughente (si) los aiat inghiriados cun s'umbra sua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>17,6 &lt;s0/&gt;"Aumenta la nostra fede!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261016T091844Z" creationid="Gianfranco" creationdate="20261016T091844Z">
+        <seg>17,6 &lt;s0/&gt;«Cresche·nos·la sa fide!».</seg>
       </tuv>
     </tu>
     <tu>
@@ -20437,8 +20461,8 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       <tuv lang="it">
         <seg>Se un tuo fratello pecca, rimproveralo; ma se si pente, perdonagli.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20261016T091421Z" creationid="Gianfranco" creationdate="20261016T091421Z">
-        <seg>Se un tuo fratello pecca, rimproveralo; ma se si pente, perdonagli.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261016T091517Z" creationid="Gianfranco" creationdate="20261016T091421Z">
+        <seg>Si unu de frades tuos pecat, bria·lu; ma si non si pentit, perdona·lu.</seg>
       </tuv>
     </tu>
     <tu>

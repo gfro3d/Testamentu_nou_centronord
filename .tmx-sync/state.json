@@ -25,10 +25,10 @@
       ]
     },
     "Luca_it_sc_centro_nord.tmx": {
-      "sha256": "7f6cd21fb72741756d51b7a1f60fd0e152e8c098da363c34ead7c4a59ce10211",
-      "units": 837,
+      "sha256": "bc4d588529487f31d4c56e6e244e1acfdae43a36d836743398db645c940489a6",
+      "units": 885,
       "first": "Lc1,1",
-      "last": "Lc18,43",
+      "last": "Lc19,48",
       "excluded_references": [
         "Lc17,36"
       ]

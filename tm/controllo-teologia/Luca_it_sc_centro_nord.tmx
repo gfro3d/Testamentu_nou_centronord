@@ -7543,7 +7543,7 @@
         <seg>Lc19,1 Entrato in Gerico, attraversava la città.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc19,1 E mntradu a Gèrico, fit rugrende sa bidda.</seg>
+        <seg>Lc19,1 E intradu a Gèrico, fit rugrende sa bidda.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc19_2">
@@ -7967,6 +7967,195 @@
       </tuv>
       <tuv xml:lang="sc">
         <seg>Lc19,48 e no agataiant manera de lu fàghere, ca totu su pòpulu fit atraidu ascurtende·lu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_1">
+      <prop type="x-reference">Lc20,1</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,1 Un giorno, mentre istruiva il popolo nel tempio e annunziava la parola di Dio, si avvicinarono i sommi sacerdoti e gli scribi con gli anziani e si rivolsero a lui dicendo:</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,1 E fit sutzèdidu chi, una die, in s'ora chi fit dende imparu a su pòpulu / a sa zente in su tèmpiu e nuntziende sa bona noa, li si fint acurtziados sos satzerdotes mazores e sos iscribas paris cun sos sèneghes</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_2">
+      <prop type="x-reference">Lc20,2</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,2 "Dicci con quale autorità fai queste cose o chi è che t'ha dato quest'autorità".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,2 e li aiant naradu: «Nara·nos cun cale autoridade faghes custas cosas, o chie est chi ti l'at dada custa autoridade?».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_3">
+      <prop type="x-reference">Lc20,3</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,3 E Gesù disse loro: "Vi farò anch'io una domanda e voi rispondetemi:</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,3 E issu lis aiat rispòndidu: «Deo puru bos apo a fàghere una dimanda, e bois narade·mi:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_4">
+      <prop type="x-reference">Lc20,4</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,4 Il battesimo di Giovanni veniva dal Cielo o dagli uomini?".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,4 Su batizu de Giuanne fit / beniat dae su chelu o dae sos òmines?».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_5">
+      <prop type="x-reference">Lc20,5</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,5 Allora essi discutevano fra loro: "Se diciamo "dal Cielo", risponderà: "Perché non gli avete creduto?".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,5 E issos si fint pensende intre issos / fint arrèsonende intre pare narende: «Si naramus: “Dae su chelu”, at a nàrrere: “Proite no l'azis crèdidu?”;</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_6">
+      <prop type="x-reference">Lc20,6</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,6 E se diciamo "dagli uomini", tutto il popolo ci lapiderà, perché è convinto che Giovanni è un profeta".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,6 e / ma si naramus: “Dae sos òmines”, totu su pòpulu nos at a aperdigare, ca est cumbintu chi Giuanne est / fit unu profeta».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_7">
+      <prop type="x-reference">Lc20,7</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,7 Risposero quindi di non saperlo.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,7 E / Tando / Duncas aiant rispòndidu chi no ischiant dae ue beniat.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_8">
+      <prop type="x-reference">Lc20,8</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,8 E Gesù disse loro: "Nemmeno io vi dico con quale autorità faccio queste cose".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,8 E Gesùs lis aiat naradu: «E mancu deo bos naro cun cale autoridade fago custas cosas».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_9">
+      <prop type="x-reference">Lc20,9</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,9 Poi cominciò a dire al popolo questa parabola: "Un uomo piantò una vigna, l'affidò a dei coltivatori e se ne andò lontano per molto tempo.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,9 Tando aiat cumintzadu a li contare a su pòpulu custa paràbula: «Un'òmine aiat pastinadu una binza, bi l'aiat arrendada a binzateris e si nche fit mòvidu a indedda pro tempus meda.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_10">
+      <prop type="x-reference">Lc20,10</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,10 A suo tempo, mandò un servo da quei coltivatori perché gli dessero una parte del raccolto della vigna. Ma i coltivatori lo percossero e lo rimandarono a mani vuote.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,10 A tempus de s'incunza lis aiat mandadu unu tzeracu a sos binzateris pro chi li darent una parte / sa parte sua de su frutu de sa binza. Ma sos binzateris l'aiant gaddadu e nche l'aiant bogadu a manos iscutas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_11">
+      <prop type="x-reference">Lc20,11</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,11 Mandò un altro servo, ma essi percossero anche questo, lo insultarono e lo rimandarono a mani vuote.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,11 E aiat torradu a mandare / aiat mandadu a un'àteru tzeracu; ma issos l'aiant gaddadu a cussu puru, l'aiant inzurzadu e nche l'aiant bogadu a manos iscutas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_12">
+      <prop type="x-reference">Lc20,12</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,12 Ne mandò ancora un terzo, ma anche questo lo ferirono e lo cacciarono.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,12 E aiat torradu a nde mandare / nd’aiat mandadu galu unu, su de tres; ma a custu puru l'aiant fertu / a custu l’aiant fertu puru e nche l'aiant bogadu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_13">
+      <prop type="x-reference">Lc20,13</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,13 Disse allora il padrone della vigna: Che devo fare? Manderò il mio unico figlio; forse di lui avranno rispetto.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,13 Tando su mere de sa binza aiat naradu: “Ite apo a fàghere? Apo a mandare a fizu meu, su prus istimadu: fortzis / mancari pro issu ant a tènnere rispetu”.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_14">
+      <prop type="x-reference">Lc20,14</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,14 Quando lo videro, i coltivatori discutevano fra loro dicendo: Costui è l'erede. Uccidiamolo e così l'eredità sarà nostra.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,14 Ma sos binzateris, comente l'aiant bidu, si fint pensende intre issos / fint arresonende intre pare narende: “Custu s'erederi est; bochimus·lu, pro chi s'eredidade siat sa nostra”.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_15">
+      <prop type="x-reference">Lc20,15</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,15 E lo cacciarono fuori della vigna e l'uccisero. Che cosa farà dunque a costoro il padrone della vigna?</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,15 E nche l'aiant bogadu a foras de sa binza e l'aiant mortu. Duncas, ite lis at a fàghere su mere de sa binza?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_16">
+      <prop type="x-reference">Lc20,16</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,16 Verrà e manderà a morte quei coltivatori, e affiderà ad altri la vigna". Ma essi, udito ciò, esclamarono: "Non sia mai!".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,16 At a bènnere, at a ispèrdere a custos binzateris e sa binza bi l'at a dare a àteros». Ma issos, intendende custu, aiant naradu: «Mai siat!».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_17">
+      <prop type="x-reference">Lc20,17</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,17 Allora egli si volse verso di loro e disse: "Che cos'è dunque ciò che è scritto: La pietra che i costruttori hanno scartata, è diventata testata d'angolo?</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,17 Ma issu, abbaidende·los, aiat naradu: «Duncas ite cheret nàrrere custu, chi est iscritu: Sa pedra chi sos fraigadores ant iscartadu / postu a banda / lassadu a un’ala s'est fata pedra de assentu?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_18">
+      <prop type="x-reference">Lc20,18</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,18 Chiunque cadrà su quella pietra si sfracellerà e a chi cadrà addosso, lo stritolerà".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,18 Chie / Chie si siat at a rùere subra de cudda pedra s'at a fàghere / at a èssere fatu a cantzos; e si nche ruet a subra de calicunu, l'at a ischerfiare».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_19">
+      <prop type="x-reference">Lc20,19</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,19 Gli scribi e i sommi sacerdoti cercarono allora di mettergli addosso le mani, ma ebbero paura del popolo. Avevano capito che quella parabola l'aveva detta per loro.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,19 E / Tando sos iscribas e sos satzerdotes mazores aiant chircadu de li pònnere / ghetare sas manos a subra in cuss'ora etotu / tando etotu, ma aiant tìmidu su pòpulu, ca aiant cumpresu chi custa paràbula l'aiat narada pro issos.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_20">
+      <prop type="x-reference">Lc20,20</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,20 Postisi in osservazione, mandarono informatori, che si fingessero persone oneste, per coglierlo in fallo nelle sue parole e poi consegnarlo all'autorità e al potere del governatore.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,20 E abbaidende·lu a s’atenta, aiant mandadu ispias chi faghiant mustra de èssere zente zusta, pro lu tènnere in trampa in carchi paràula e / e pro l'intregare a su cumandu e a s'autoridade de su guvernadore.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_21">
+      <prop type="x-reference">Lc20,21</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,21 Costoro lo interrogarono: "Maestro, sappiamo che parli e insegni con rettitudine e non guardi in faccia a nessuno, ma insegni secondo verità la via di Dio.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,21 E gasi / E tando / E duncas li aiant dimandadu: «Su Mastru, zai l'ischimus chi faeddas e imparas bene e no abbàidas in cara a nemos, ma imparas su caminu de Deus segundu veridade. times new roman 12 interlinea singola spazio prima del paragrafo: nudda spazio dopo il paragrafo: nudda</seg>
       </tuv>
     </tu>
   </body>

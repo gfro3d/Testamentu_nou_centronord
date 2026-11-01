@@ -40,8 +40,8 @@
       <tuv lang="it">
         <seg>1,10 E, uscendo dall'acqua, vide aprirsi i cieli e lo Spirito discendere su di lui come una colomba.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203457Z" creationid="Gianfranco" creationdate="20261101T203457Z">
-        <seg>Mc1,10 E, comente nde fit essende dae s’abba, aiat bidu sos chelos aberende·si e s'Ispìritu falende subra a issu comente a una colomba.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203936Z" creationid="Gianfranco" creationdate="20261101T203457Z">
+        <seg>1,10 E, comente nde fit essende dae s’abba, aiat bidu sos chelos aberende·si e s'Ispìritu falende subra a issu comente a una colomba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2012,6 +2012,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10,41 All'udire questo, gli altri dieci si sdegnarono con Giacomo e Giovanni.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203634Z" creationid="Gianfranco" creationdate="20261101T203634Z">
+        <seg>Mc10,41 Intendende gasi, sos àteros deghe si fint arrennegados cun Giagu e Giuanne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10,41&lt;s0/&gt;Chi accoglie un profeta come profeta, avrà la ricompensa del profeta, e chi accoglie un giusto come giusto, avrà la ricompensa del giusto.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260421T084740Z" creationid="carmi" creationdate="20260205T090343Z">
@@ -2036,10 +2044,74 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10,42 Allora Gesù, chiamatili a sé, disse loro: «Voi sapete che coloro che sono ritenuti capi delle nazioni le dominano, e i loro grandi esercitano su di esse il potere.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203634Z" creationid="Gianfranco" creationdate="20261101T203634Z">
+        <seg>Mc10,42 Tando Gesùs, si los aiat mutidos e lis aiat naradu: «Zai l'ischides chi sos chi sunt connotos che guvernantes de sas natziones si nde faghent meres mannos e sos mazores issoro si nde faghent opressores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10,42&lt;s0/&gt;E chi avrà dato anche solo un bicchiere di acqua fresca a uno di questi piccoli, perché è mio discepolo, in verità io vi dico: non perderà la sua ricompensa".</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260421T084750Z" creationid="carmi" creationdate="20260205T090343Z">
         <seg>10,42&lt;s0/&gt;E chie li at a àere dadu mancari petzi una tassa de abba frisca a una de custas creaduras, ca est dischente mea, bos lu naro a beru: no at a pèrdere su cumpensu suo».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,43 Fra voi però non è così; ma chi vuol essere grande tra voi si farà vostro servitore.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203634Z" creationid="Gianfranco" creationdate="20261101T203634Z">
+        <seg>Mc10,43 Intre bois peroe no est gasi; ma chie si cheret mannu intre bois s'at a fàghere tzeracu bostru,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,44 E chi vuol essere il primo tra voi sarà il servo di tutti.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203635Z" creationid="Gianfranco" creationdate="20261101T203635Z">
+        <seg>Mc10,44 e chie si cheret su primu intre bois at a èssere su tzeracu de totus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,45 Il Figlio dell'uomo infatti non è venuto per essere servito, ma per servire e dare la propria vita in riscatto per molti».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203635Z" creationid="Gianfranco" creationdate="20261101T203635Z">
+        <seg>Mc10,45 Su Fizu de s'òmine, difatis, no est bènnidu pro chi lu serbant, ma a serbire e a dare sa vida sua pro su sarvamentu de medas».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,46 E giunsero a Gerico. E mentre partiva da Gerico insieme ai discepoli e a molta folla, il figlio di Timèo, Bartimèo, cieco, sedeva lungo la strada a mendicare.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203635Z" creationid="Gianfranco" creationdate="20261101T203635Z">
+        <seg>Mc10,46 E fint lòmpidos a Gèrico. E cando fit movende dae Gèrico paris cun sos dischentes e cun una truma manna, su fizu de Timeu, Bartimeu, unu tzurpu pedidore, fit sètzidu in s'atza de su caminu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,47 Costui, al sentire che c'era Gesù Nazareno, cominciò a gridare e a dire: «Figlio di Davide, Gesù, abbi pietà di me!».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203636Z" creationid="Gianfranco" creationdate="20261101T203636Z">
+        <seg>Mc10,47 E comente aiat intesu chi bi fit Gesùs su Nazarenu, aiat cumintzadu a abboghinare e a nàrrere: «O su Fizu de Dàvide, Gesùs, tene piedade de mene!».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,48 Molti lo sgridavano per farlo tacere, ma egli gridava più forte: «Figlio di Davide, abbi pietà di me!».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203636Z" creationid="Gianfranco" creationdate="20261101T203636Z">
+        <seg>Mc10,48 Medas lu briaiant pro lu fàghere callare, ma issu abboghinaiat prus a forte: «O su Fizu de Dàvide, tene piedade de mene!».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,49 Allora Gesù si fermò e disse: «Chiamatelo!». E chiamarono il cieco dicendogli: «Coraggio! Alzati, ti chiama!».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203636Z" creationid="Gianfranco" creationdate="20261101T203636Z">
+        <seg>Mc10,49 Tando Gesùs si fit firmadu e aiat naradu: «Mutide·lu!». E aiant mutidu a su tzurpu narende·li: «Corazu / Ajò! Pesa ca t'est mutende!».</seg>
       </tuv>
     </tu>
     <tu>
@@ -2064,6 +2136,30 @@
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203623Z" creationid="Gianfranco" creationdate="20261101T203623Z">
         <seg>Mc10,5 Gesùs lis aiat naradu: «Pro more de su coro tostu bostru bos l'at iscrita custa norma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,50 Egli, gettato via il mantello, balzò in piedi e venne da Gesù.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203636Z" creationid="Gianfranco" creationdate="20261101T203636Z">
+        <seg>Mc10,50 Issu nch’aiat imboladu su manteddu, fit brincadu a sa ritza e si fit acurtziadu a Gesùs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,51 Allora Gesù gli disse: «Che vuoi che io ti faccia?». E il cieco a lui: «Rabbunì, che io riabbia la vista!».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203637Z" creationid="Gianfranco" creationdate="20261101T203637Z">
+        <seg>Mc10,51 Tando Gesùs li aiat naradu: «Ite cheres a ti fàghere?». E su tzurpu a issu: «Rabbunì, faghe chi torre a bìdere!».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,52 E Gesù gli disse: «Va', la tua fede ti ha salvato». E subito riacquistò la vista e prese a seguirlo per la strada.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203637Z" creationid="Gianfranco" creationdate="20261101T203637Z">
+        <seg>Mc10,52 E Gesùs li aiat naradu: «Bae, sa fide tua t'at sarvadu». E deretu aiat torradu a bìdere e li aiat postu in fatu in su caminu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2244,10 +2340,26 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,1 Quando si avvicinarono a Gerusalemme, verso Bètfage e Betània, presso il monte degli Ulivi, mandò due dei suoi discepoli</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203637Z" creationid="Gianfranco" creationdate="20261101T203637Z">
+        <seg>Mc11,1 Cando nche fint a curtzu a Gerusalemme, conca a Bètfage e Betània, in s'oru de su Monte de sas Olias, aiat mandadu a duos dischentes suos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,10 &lt;s0/&gt;Perché chi chiede ottiene, chi cerca trova, e a chi bussa sarà aperto.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260921T075441Z" creationid="Gianfranco" creationdate="20260921T075441Z">
         <seg>11,10 &lt;s0/&gt;Ca a chie pedit zai retzit, e a chie chircat zai agatat e a chie tocheddat zai li aberint.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,10 Benedetto il regno che viene, del nostro padre Davide! Osanna nel più alto dei cieli!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203640Z" creationid="Gianfranco" creationdate="20261101T203640Z">
+        <seg>Mc11,10 Beneitu su regnu chi est benende, de (su) babbu nostru Dàvide! Osanna in sos prus artos chelos!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2278,6 +2390,14 @@ Mira, so mandende su nùntziu meu cara a tie, issu t'at a aprontare su caminu in
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,11 Ed entrò a Gerusalemme, nel tempio. E dopo aver guardato ogni cosa attorno, essendo ormai l'ora tarda, uscì con i Dodici diretto a Betània.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203640Z" creationid="Gianfranco" creationdate="20261101T203640Z">
+        <seg>Mc11,11 E fit intradu a Gerusalemme, a su tèmpiu. E mirende totu a inghìriu, prus a tardu, dae chi nche fit a tardu, fit mòvidu a Betània deretu paris cun sos dòighi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,11&lt;s0/&gt;In verità vi dico: tra i nati di donna non è sorto uno più grande di Giovanni il Battista;&lt;s1/&gt;tuttavia il più piccolo nel regno dei cieli è più grande di lui.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260421T085527Z" creationid="carmi" creationdate="20260205T090404Z">
@@ -2294,6 +2414,14 @@ Mira, so mandende su nùntziu meu cara a tie, issu t'at a aprontare su caminu in
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,12 La mattina seguente, mentre uscivano da Betània, ebbe fame.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203640Z" creationid="Gianfranco" creationdate="20261101T203640Z">
+        <seg>Mc11,12 Sa die imbeniente, essende dae Betània, l'at bènnidu fàmene.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,12&lt;s0/&gt;Dai giorni di Giovanni il Battista fino ad ora, il regno dei cieli soffre violenza e i violenti se ne impadroniscono.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260421T085819Z" creationid="carmi" creationdate="20260205T090405Z">
@@ -2306,6 +2434,14 @@ Mira, so mandende su nùntziu meu cara a tie, issu t'at a aprontare su caminu in
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260921T080113Z" creationid="Gianfranco" creationdate="20260921T080113Z">
         <seg>11,13 &lt;s0/&gt;Si tando bois, chi sezis malos, ischides a lis dare cosa bona a fizos bostros, galu de prus Babbu bostru &lt;s1/&gt;bostru tzeleste at a dare s'Ispìritu Santu a sos chi bi lu pedint!».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,13 E avendo visto di lontano un fico che aveva delle foglie, si avvicinò per vedere se mai vi trovasse qualche cosa; ma giuntovi sotto, non trovò altro che foglie. Non era infatti quella la stagione dei fichi.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203641Z" creationid="Gianfranco" creationdate="20261101T203641Z">
+        <seg>Mc11,13 E bidende·nche dae largu una figu fozida, si fit acurtziadu a bìdere si b'agataiat carchi cosa; ma cando nche fit lòmpidu a suta, no aiat agatadu àteru si non foza: ca non fit tempus de figu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2334,6 +2470,14 @@ Mira, so mandende su nùntziu meu cara a tie, issu t'at a aprontare su caminu in
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,14 E gli disse: «Nessuno possa mai più mangiare i tuoi frutti». E i discepoli l'udirono.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203641Z" creationid="Gianfranco" creationdate="20261101T203641Z">
+        <seg>Mc11,14 E li aiat naradu: «Chi non nde màndighet prus nemos frutu tuo». E sos dischentes aiant intesu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,14&lt;s0/&gt;E se lo volete accettare, egli è quell'Elia che deve venire.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260421T085857Z" creationid="carmi" creationdate="20260205T090406Z">
@@ -2350,6 +2494,14 @@ Mira, so mandende su nùntziu meu cara a tie, issu t'at a aprontare su caminu in
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,15 Andarono intanto a Gerusalemme. Ed entrato nel tempio, si mise a scacciare quelli che vendevano e comperavano nel tempio; rovesciò i tavoli dei cambiavalute e le sedie dei venditori di colombe</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203641Z" creationid="Gianfranco" creationdate="20261101T203641Z">
+        <seg>Mc11,15 Tando fint andados a Gerusalemme. E cando fit intradu a su tèmpiu, si fit postu a nche bogare a sos chi bi fint bendende e comporende; nche aiat bortadu sas mesas de sos cambiadinare e sas cadiras de sos bendidores de columbas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,15&lt;s0/&gt;Chi ha orecchi intenda.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260421T085921Z" creationid="carmi" creationdate="20260205T090407Z">
@@ -2362,6 +2514,14 @@ Mira, so mandende su nùntziu meu cara a tie, issu t'at a aprontare su caminu in
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260921T080602Z" creationid="Gianfranco" creationdate="20260921T080602Z">
         <seg>11,16 &lt;s0/&gt;Àteros a pustis, pro l'iscumproare, li aiant pedidu unu sinnu dae su chelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,16 e non permetteva che si portassero cose attraverso il tempio.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203642Z" creationid="Gianfranco" creationdate="20261101T203642Z">
+        <seg>Mc11,16 e non cheriat a nche carrare cosa de bèndere a su tèmpiu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2390,6 +2550,14 @@ Mira, so mandende su nùntziu meu cara a tie, issu t'at a aprontare su caminu in
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,17 Ed insegnava loro dicendo: «Non sta forse scritto: La mia casa sarà chiamata casa di preghiera per tutte le genti? Voi invece ne avete fatto una spelonca di ladri!».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203642Z" creationid="Gianfranco" creationdate="20261101T203642Z">
+        <seg>Mc11,17 E lis fit imparende: "No est a beru chi b'est iscritu: a domo mea li ant a nàrrere domo de pregadoria / oratzione pro totu sos pòpulos? Bois imbetzes l'azis torrada a una conchedda de furones!».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,17&lt;s0/&gt;Vi abbiamo suonato il flauto e non avete ballato, abbiamo cantato un lamento e non avete pianto.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260421T090259Z" creationid="carmi" creationdate="20260205T090409Z">
@@ -2414,6 +2582,14 @@ Mira, so mandende su nùntziu meu cara a tie, issu t'at a aprontare su caminu in
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,18 L'udirono i sommi sacerdoti e gli scribi e cercavano il modo di farlo morire. Avevano infatti paura di lui, perché tutto il popolo era ammirato del suo insegnamento.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203642Z" creationid="Gianfranco" creationdate="20261101T203642Z">
+        <seg>Mc11,18 L'aiant intesu sos satzerdotes mazores e sos iscribas e fint meledende a comente l'ispèrdere, ca lu timiant, ca totu sa zente si meravizaiat de s'imparu suo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,18&lt;s0/&gt;È venuto Giovanni, che non mangia e non beve, e hanno detto: Ha un demonio.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260423T164523Z" creationid="Gianfranco" creationdate="20260212T092748Z">
@@ -2434,6 +2610,14 @@ Mira, so mandende su nùntziu meu cara a tie, issu t'at a aprontare su caminu in
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20261101T193905Z" creationid="Gianfranco" creationdate="20261101T193905Z">
         <seg>11,19&lt;s0/&gt;Ma si nche bogo sos dimònios in nùmene de Beelzebùl, sos dischentes bostros in nùmene de chie nche los bogant? &lt;s1/&gt;Pro cussu issos etotu ant bos ant a zuigare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,19 Quando venne la sera uscirono dalla città.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203642Z" creationid="Gianfranco" creationdate="20261101T203642Z">
+        <seg>Mc11,19 Arribbados a sero nde fint essidos dae sa tzitade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2490,10 +2674,26 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,2 e disse loro: «Andate nel villaggio che vi sta di fronte, e subito entrando in esso troverete un asinello legato, sul quale nessuno è mai salito. Scioglietelo e conducetelo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203638Z" creationid="Gianfranco" creationdate="20261101T203638Z">
+        <seg>Mc11,2 e lis aiat naradu: «Achirrade a su biddaju chi tenides in dae in antis, e comente intrades deretu azis a agatare unu poleddu presu, chi est galu a si lu sètzere nemos. Isorvide·nche·lu e pigade·nche·lu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,20 &lt;s0/&gt;Se invece io scaccio i demòni con il dito di Dio, è dunque giunto a voi il regno di Dio.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260921T082158Z" creationid="Gianfranco" creationdate="20260921T082158Z">
         <seg>11,20 &lt;s0/&gt;Si imbetzes deo nche bogo a sos dimònios cun su pòddighe de Deus, zai bos est arribbadu a bois su rennu de Deus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,20 La mattina seguente, passando, videro il fico seccato fin dalle radici.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203643Z" creationid="Gianfranco" creationdate="20261101T203643Z">
+        <seg>Mc11,20 Su manzanu in fatu, colende a curtzu, aiant bidu sa figu sicada dae raighinas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2510,6 +2710,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260921T082325Z" creationid="Gianfranco" creationdate="20260921T082325Z">
         <seg>11,21 &lt;s0/&gt;Cando un'òmine forte, armadu bene, bardiat su palatzu, totu sos benes suos sunt&lt;s1/&gt;collidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,21 Allora Pietro, ricordatosi, gli disse: «Maestro, guarda: il fico che hai maledetto si è seccato».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203643Z" creationid="Gianfranco" creationdate="20261101T203643Z">
+        <seg>Mc11,21 Tando Pedru, ammentende·si·nde, li aiat naradu: «Mi', su Mastru,: sa figu chi as maleitu sicada s'est ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -2538,6 +2746,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,22 Gesù allora disse loro: «Abbiate fede in Dio!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203643Z" creationid="Gianfranco" creationdate="20261101T203643Z">
+        <seg>Mc11,22 Gesùs tando lis aiat naradu: «Tenide fide in Deus!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,22&lt;s0/&gt;Ebbene io ve lo dico: Tiro e Sidone nel giorno del giudizio avranno una sorte meno dura della vostra.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260423T164755Z" creationid="Gianfranco" creationdate="20260212T105128Z">
@@ -2550,6 +2766,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260921T082653Z" creationid="Gianfranco" creationdate="20260921T082552Z">
         <seg>11,23&lt;s0/&gt;Chie no est cun megus, est contra de mene; e chie non regollit cun megus, isperdet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,23 In verità vi dico: chi dicesse a questo monte: Lèvati e gettati nel mare, senza dubitare in cuor suo ma credendo che quanto dice avverrà, ciò gli sarà accordato.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203644Z" creationid="Gianfranco" creationdate="20261101T203644Z">
+        <seg>Mc11,23 A beru bos lu naro: Si unu li narat a custu monte: Pesa e gheta·ti·nche a mare, e non bi dudat in coro suo ma credende·bi chi su chi narat acontesset, custu zai li at acontèssere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2578,6 +2802,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,24 Per questo vi dico: tutto quello che domandate nella preghiera, abbiate fede di averlo ottenuto e vi sarà accordato.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203644Z" creationid="Gianfranco" creationdate="20261101T203644Z">
+        <seg>Mc11,24 Pro custu bos naro: totu su chi bos pregades e pedides, credide de l'àere zai retzidu e zai l'azis a tènnere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,24&lt;s0/&gt;Ebbene io vi dico: Nel giorno del giudizio avrà una sorte meno dura della tua!".</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260423T164903Z" creationid="Gianfranco" creationdate="20260212T110259Z">
@@ -2590,6 +2822,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260921T083201Z" creationid="Gianfranco" creationdate="20260921T083201Z">
         <seg>11,25 &lt;s0/&gt;Cando fit arribbadu, l'agatat mundada e cuncordada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,25 Quando vi mettete a pregare, se avete qualcosa contro qualcuno, perdonate, perché anche il Padre vostro che è nei cieli perdoni a voi i vostri peccati».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203644Z" creationid="Gianfranco" creationdate="20261101T203644Z">
+        <seg>Mc 11,25 Cando bos ponides a pregare, si tenides cosa contras a calicunu, perdonade, e gasi Babbu bostru chi nch’est in sos chelos bos at a perdonare sos pecados». Mc 11,26</seg>
       </tuv>
     </tu>
     <tu>
@@ -2626,6 +2866,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,27 Andarono di nuovo a Gerusalemme. E mentre egli si aggirava per il tempio, gli si avvicinarono i sommi sacerdoti, gli scribi e gli anziani e gli dissero:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203644Z" creationid="Gianfranco" creationdate="20261101T203644Z">
+        <seg>Mc11,27 E fint torrados a andare a Gerusalemme. Cando fit caminende in su tèmpiu, li si fint acurtziados sos prides mazores, sos iscribas e sos sèneghes e li aiant naradu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,27&lt;s0/&gt;Tutto mi è stato dato dal Padre mio; nessuno conosce il Figlio se non il Padre, e nessuno conosce il Padre se non il Figlio e colui al quale il Figlio lo voglia rivelare.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260423T164953Z" creationid="Gianfranco" creationdate="20260212T114914Z">
@@ -2642,6 +2890,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,28 «Con quale autorità fai queste cose? O chi ti ha dato l'autorità di farlo?».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203645Z" creationid="Gianfranco" creationdate="20261101T203645Z">
+        <seg>Mc11,28 «Ello cun cale autoridade faghes custas cosas? O chie ti nd'at dadu autoridade de las fàghere?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,28&lt;s0/&gt;Venite a me, voi tutti, che siete affaticati e oppressi, e io vi ristorerò.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260423T165008Z" creationid="Gianfranco" creationdate="20260212T115044Z">
@@ -2654,6 +2910,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260909T164735Z" creationid="carminupintore" creationdate="20260909T164436Z">
         <seg>11,29 &lt;s0/&gt;Comente sas trumas si fint accalcavano, Gesùs aiat cumintzadu a nàrrere: "Custa generatzione est una generatzione &lt;s1/&gt;mala; {issa} unu sinnu chircat, ma non l'at a èssere dadu perunu sinnu francu su sinnu de Giona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,29 Ma Gesù disse loro: «Vi farò anch'io una domanda e, se mi risponderete, vi dirò con quale potere lo faccio.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203645Z" creationid="Gianfranco" creationdate="20261101T203645Z">
+        <seg>Mc11,29 E Gesùs lis aiat naradu: «Bos la fago deo una pregonta ebbia, rispondide e zai bos lu naro (deo) cun cale autoridade lu fago.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2683,10 +2947,26 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,3 E se qualcuno vi dirà: Perché fate questo?, rispondete: Il Signore ne ha bisogno, ma lo rimanderà qui subito».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203638Z" creationid="Gianfranco" creationdate="20261101T203638Z">
+        <seg>Mc11,3 E si in casu bos dimandent: proite sezis faghende gasi? narades: li bisonzat a Su Sennore, ma zai nde lu torrat deretu a inoghe».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,30 &lt;s0/&gt;Poiché come Giona fu un segno per quelli di Nìnive, così anche il Figlio dell'uomo lo sarà per &lt;s1/&gt;questa generazione.</seg>
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260909T164817Z" creationid="carminupintore" creationdate="20260909T164437Z">
         <seg>11,30 &lt;s0/&gt;Ca comente a Giona fit unu sinnu pro sos de Nìnive, gasi etotu su Fizu de s'òmine l'at a èssere pro &lt;s1/&gt;custa generatzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,30 Il battesimo di Giovanni veniva dal cielo o dagli uomini? Rispondetemi».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203645Z" creationid="Gianfranco" creationdate="20261101T203645Z">
+        <seg>Mc11,30 Su batizu de Giuanne dae su chelu o dae sos òmines beniat? Rispondide·mi».</seg>
       </tuv>
     </tu>
     <tu>
@@ -2715,6 +2995,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,31 Ed essi discutevano tra sé dicendo: «Se rispondiamo "dal cielo", dirà: Perché allora non gli avete creduto?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203646Z" creationid="Gianfranco" creationdate="20261101T203646Z">
+        <seg>Mc11,31 E issos fint in arresonu a pare narende: «Si li rispondimus "dae su chelu", nos at a nàrrere: E tando a ite no l'azis crèdidu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,32 &lt;s0/&gt;Quelli di Nìnive sorgeranno nel giudizio insieme con questa generazione e la condanneranno; &lt;s1/&gt;perché essi alla predicazione di Giona si convertirono.</seg>
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260910T084053Z" creationid="carminupintore" creationdate="20260909T164441Z">
@@ -2731,10 +3019,26 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,32 Diciamo dunque "dagli uomini"?». Però temevano la folla, perché tutti consideravano Giovanni come un vero profeta.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203646Z" creationid="Gianfranco" creationdate="20261101T203646Z">
+        <seg>Mc11,32 E tando li naramus "dae sos òmines"?». Ma timiant sa zente, ca totus cunsideraiant a Giuanne comente unu profeta a beru .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,33 &lt;s0/&gt;Nessuno accende una lucerna e la mette in luogo nascosto o sotto il moggio, ma sopra il &lt;s1/&gt;lucerniere, perché quanti entrano vedano la luce.</seg>
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260910T084130Z" creationid="carminupintore" creationdate="20260909T164444Z">
         <seg>11,33 &lt;s0/&gt;Nemos allughet una lughera e la ponet in logu cuadu o in suta de su moju, si non / ma subra de su candelobre, pro chi sos chi intrant bidant sa lughe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,33 Allora diedero a Gesù questa risposta: «Non sappiamo». E Gesù disse loro: «Neanch'io vi dico con quale autorità faccio queste cose».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203646Z" creationid="Gianfranco" creationdate="20261101T203646Z">
+        <seg>Mc11,33 Tando li aiant rispostu a Gesùs: «Non nd'ischimus». E Gesùs lis aiat naradu: «E mancu deo bos (lu/nde) naro cun cale autoridade fago custas cosas»</seg>
       </tuv>
     </tu>
     <tu>
@@ -2815,6 +3119,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260921T073821Z" creationid="Gianfranco" creationdate="20260921T073821Z">
         <seg>11,4 &lt;s0/&gt;e perdona·nos sos pecados nostros, gasi comente nois puru perdonamus a cada depidore nostru, e non nos lasses &lt;s1/&gt;rùere in tentatzione».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,4 Andarono e trovarono un asinello legato vicino a una porta, fuori sulla strada, e lo sciolsero.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203638Z" creationid="Gianfranco" creationdate="20261101T203638Z">
+        <seg>Mc11,4 Fint andados e aiant atzapadu unu molenteddu presu in buca de gianna, in foras a s'ala de su caminu, e nche l'aiant isortu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2931,6 +3243,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,5 E alcuni dei presenti però dissero loro: «Che cosa fate, sciogliendo questo asinello?».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203638Z" creationid="Gianfranco" creationdate="20261101T203638Z">
+        <seg>Mc11,5 E unos cantu de sos chi bi fint sende gasi lis aiant naradu: «Ello it'est chi sezis faghende, isorvende·nche custu molenteddu?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,50 &lt;s0/&gt;perché sia chiesto conto a questa generazione del sangue di tutti i profeti, versato fin &lt;s1/&gt;dall'inizio del mondo,</seg>
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260910T094315Z" creationid="carminupintore" creationdate="20260909T164509Z">
@@ -3004,6 +3324,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,6 Ed essi risposero come aveva detto loro il Signore. E li lasciarono fare.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203639Z" creationid="Gianfranco" creationdate="20261101T203639Z">
+        <seg>Mc11,6 E issos aiant naradu comente lis aiat naradu su Sennore. E zai los aiant lassados andare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,6&lt;s0/&gt;e beato colui che non si scandalizza di me".</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260421T090227Z" creationid="carmi" creationdate="20260205T090348Z">
@@ -3016,6 +3344,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260921T075004Z" creationid="Gianfranco" creationdate="20260921T075004Z">
         <seg>11,7 &lt;s0/&gt;e si issu dae intro li rispondet: Non mi istrobbes, sa gianna nch'est giai tancada e fizos meos &lt;s1/&gt;sunt corcados cun megus, non mi nche podo pesare a ti los dare;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,7 Essi condussero l'asinello da Gesù, e vi gettarono sopra i loro mantelli, ed egli vi montò sopra.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203639Z" creationid="Gianfranco" creationdate="20261101T203639Z">
+        <seg>Mc11,7 Issos aiant pigadu su poleddu a ue fit Gesùs, li aiant ghetadu a subra sos manteddos, e issu si l'aiat sètzidu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3036,6 +3372,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,8 E molti stendevano i propri mantelli sulla strada e altri delle fronde, che avevano tagliate dai campi.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203639Z" creationid="Gianfranco" creationdate="20261101T203639Z">
+        <seg>Mc11,8 E in medas aiant istèrridu sos manteddos in caminu e àteros sida (ramadura), chi aiant segadu in su sartu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,8&lt;s0/&gt;Che cosa dunque siete andati a vedere?</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260210T091742Z" creationid="carmi" creationdate="20260205T090357Z">
@@ -3048,6 +3392,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260921T075352Z" creationid="Gianfranco" creationdate="20260921T075352Z">
         <seg>11,9 &lt;s0/&gt;Tando, doe bos naro: Pedide e bos ant a donare, chircade e azis a agatare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,9 Quelli poi che andavano innanzi, e quelli che venivano dietro gridavano: Osanna! Benedetto colui che viene nel nome del Signore!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203640Z" creationid="Gianfranco" creationdate="20261101T203640Z">
+        <seg>Mc11,9 Sos chi fint in dae in antis e sos chi fint in fatu naraiant a boghe arta: Osanna! Beneitu chi est benende a nùmene de su Sennore!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3124,6 +3476,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,1 Gesù si mise a parlare loro in parabole: «Un uomo piantò una vigna, vi pose attorno una siepe, scavò un torchio, costruì una torre, poi la diede in affitto a dei vignaioli e se ne andò lontano.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203647Z" creationid="Gianfranco" creationdate="20261101T203647Z">
+        <seg>Mc12,1 E Gesùs si fiat postu a lis faeddare in paràbulas: «Un'òmine aiat pastinadu una binza e si l'aiat tancada a cresura, b'aiat iscavadu unu lacu e aiat fraigadu una turre, a pustis bi l'aiat arrendada a binzateris e si nche fit mòvidu a indedda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,10 &lt;s0/&gt;Chiunque parlerà contro il Figlio dell'uomo gli sarà perdonato, ma chi bestemmierà lo Spirito &lt;s1/&gt;Santo non gli sarà perdonato.</seg>
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260914T105621Z" creationid="carminupintore" creationdate="20260914T093621Z">
@@ -3156,6 +3516,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,11 dal Signore è stato fatto questo ed è mirabile agli occhi nostri».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203650Z" creationid="Gianfranco" creationdate="20261101T203650Z">
+        <seg>Mc12,11 custu l'at fatu su Sennore, cosa de ammiru est a ogros nostros»?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,11&lt;s0/&gt;Ed egli disse loro: "Chi tra voi, avendo una pecora, se questa gli cade di sabato in una fossa, non l'afferra e la tira fuori?</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260217T131025Z" creationid="Gianfranco" creationdate="20260217T131025Z">
@@ -3168,6 +3536,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260914T110013Z" creationid="carminupintore" creationdate="20260914T093623Z">
         <seg>12,12 &lt;s0/&gt;ca s'Ispìritu Santu b'at a imparare / inditare tando su chi tocat a nàrrere / cheret naradu".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,12 Allora cercarono di catturarlo, ma ebbero paura della folla; avevano capito infatti che aveva detto quella parabola contro di loro. E, lasciatolo, se ne andarono.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203650Z" creationid="Gianfranco" creationdate="20261101T203650Z">
+        <seg>Mc12,12 Tando aiant chircadu de lu tènnere (ma aiant timidu sa zente), ca aiant cumpresu chi cudda paràbula l'aiat narada contra a issos. E gasi l'aiant lassadu e si nde fint andados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3196,6 +3572,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,13 Gli mandarono però alcuni farisei ed erodiani per coglierlo in fallo nel discorso.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203650Z" creationid="Gianfranco" creationdate="20261101T203650Z">
+        <seg>Mc12,13 Tando li aiant mandadu unos cantu fariseos e erodianos pro lu cassare trampende·si cun sas paràulas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,13&lt;s0/&gt;E rivolto all'uomo, gli disse: "Stendi la mano".</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260217T131332Z" creationid="Gianfranco" creationdate="20260217T131332Z">
@@ -3220,6 +3604,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,14 E venuti, quelli gli dissero: «Maestro, sappiamo che sei veritiero e non ti curi di nessuno; infatti non guardi in faccia agli uomini, ma secondo verità insegni la via di Dio. È lecito o no dare il tributo a Cesare? Lo dobbiamo dare o no?».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203651Z" creationid="Gianfranco" creationdate="20261101T203651Z">
+        <seg>Mc12,14 E arribados cuddos li aiant naradu: «Su Mastru, zai l’ischimus chi ses beridadosu e non nde faghes contu de nemos; difatis no abbàidas in cara a sos òmines, ma segundu veridade imparas su caminu de Deus. Lìtzitu est o nono a li dare su tributu a Tzèsare? Bi lu devimus dare o nono?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,14&lt;s0/&gt;I farisei però, usciti, tennero consiglio contro di lui per toglierlo di mezzo.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260217T142401Z" creationid="Gianfranco" creationdate="20260217T131551Z">
@@ -3232,6 +3624,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260914T110531Z" creationid="carminupintore" creationdate="20260914T093626Z">
         <seg>12,15 &lt;s0/&gt;E lis aiat naradu: "Dade cara e lassade cada asurèntzia, ca mancari unu siat &lt;s1/&gt;in sa bundàntzia sa bida sua non dipendet de sos benes suos".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,15 Ma egli, conoscendo la loro ipocrisia, disse: «Perché mi tentate? Portatemi un denaro perché io lo veda».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203651Z" creationid="Gianfranco" creationdate="20261101T203651Z">
+        <seg>Mc12,15 Ma issu, connoschende·nche sa farsidade / ipocrisia issoro, aiat naradu: «A it'est chi mi sezis tenteende? Aporride unu dinari ca lu bido».</seg>
       </tuv>
     </tu>
     <tu>
@@ -3256,6 +3656,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260914T110628Z" creationid="carminupintore" creationdate="20260914T093627Z">
         <seg>12,16 &lt;s0/&gt;A pustis aiat naradu una paràbula: "Su sartu de un'òmine ricu aiat dadu {un'} incunza bona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,16 Ed essi glielo portarono. Allora disse loro: «Di chi è questa immagine e l'iscrizione?». Gli risposero: «Di Cesare».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203651Z" creationid="Gianfranco" creationdate="20261101T203651Z">
+        <seg>Mc12,16 E issos bi l'aiant aporridu. Tando lis aiat naradu: «Custa imàzine de chie est? E cust'iscritu de chie est?». L'aiant rispòndidu: «De Tzèsare».</seg>
       </tuv>
     </tu>
     <tu>
@@ -3316,6 +3724,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,19 «Maestro, Mosè ci ha lasciato scritto che se muore il fratello di uno e lascia la moglie senza figli, il fratello ne prenda la moglie per dare discendenti al fratello.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203652Z" creationid="Gianfranco" creationdate="20261101T203652Z">
+        <seg>Mc12,19 «Su Mastru, Mosès nos at iscritu chi: si si nche morit su frade de unu e lassat sa muzere chene tènnere fizu, frade suo nde pigat sa muzere pro li dare eredes a su frade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,19&lt;s0/&gt;Non contenderà, né griderà, né si udrà sulle piazze la sua voce.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260217T132202Z" creationid="Gianfranco" creationdate="20260217T132202Z">
@@ -3348,10 +3764,26 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,2 A suo tempo inviò un servo a ritirare da quei vignaioli i frutti della vigna.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203647Z" creationid="Gianfranco" creationdate="20261101T203647Z">
+        <seg>Mc12,2 A tempus de s'incunza aiat mandadu unu tzeracu a sos arrendatàrios pro nche pigare sa parte de sos frutos de sa binza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,20 &lt;s0/&gt;Ma Dio gli disse: Stolto, questa notte stessa ti sarà richiesta la tua vita.</seg>
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260914T154803Z" creationid="carminupintore" creationdate="20260914T093631Z">
         <seg>12,20 &lt;s0/&gt;Ma Deus li aiat naradu: Macu, custa / oe note etotu t'ant a pedire {de torrare} sa bida tua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,20 C'erano sette fratelli: il primo prese moglie e morì senza lasciare discendenza;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203652Z" creationid="Gianfranco" creationdate="20261101T203652Z">
+        <seg>Mc12,20 Sete frades b'aiat: su primu teniat muzere e si nche fit mortu chene lassare erede;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3372,6 +3804,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,21 allora la prese il secondo, ma morì senza lasciare discendenza; e il terzo egualmente,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203652Z" creationid="Gianfranco" creationdate="20261101T203652Z">
+        <seg>Mc12,21 tando si l'aiat pigada su de duos, morinde·si·nche chene lassare erede; e su de tres gasi etotu,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,21&lt;s0/&gt;nel suo nome spereranno le genti.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260217T132404Z" creationid="Gianfranco" creationdate="20260217T132404Z">
@@ -3388,6 +3828,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,22 e nessuno dei sette lasciò discendenza. Infine, dopo tutti, morì anche la donna.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203652Z" creationid="Gianfranco" creationdate="20261101T203652Z">
+        <seg>Mc12,22 e nemos de sos sete aiat lassadu erede. E a pustis de totus, sa fèmina puru si nche fit morta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,22&lt;s0/&gt;In quel tempo gli fu portato un indemoniato, cieco e muto, ed egli lo guarì, sicché il muto parlava e vedeva.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260217T132520Z" creationid="Gianfranco" creationdate="20260217T132520Z">
@@ -3400,6 +3848,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260914T155323Z" creationid="carminupintore" creationdate="20260914T093637Z">
         <seg>12,23 &lt;s0/&gt;Sa bida si balet prus de su màndigu e su corpus prus de su bestire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,23 Nella risurrezione, quando risorgeranno, a chi di loro apparterrà la donna? Poiché in sette l'hanno avuta come moglie».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203653Z" creationid="Gianfranco" creationdate="20261101T203653Z">
+        <seg>Mc12,23 In sa resurretzione, cando ant a torrare a bida, a chie l'at a èssere muzere sa fèmina? Ca sos sete l'ant tenta a mugere».</seg>
       </tuv>
     </tu>
     <tu>
@@ -3428,6 +3884,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,24 Rispose loro Gesù: «Non siete voi forse in errore dal momento che non conoscete le Scritture, né la potenza di Dio?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203653Z" creationid="Gianfranco" creationdate="20261101T203653Z">
+        <seg>Mc12,24 Gesùs lis aiat naradu: «No at èssere pro custu chi bos faddides? Ca non connoschides nen sas Iscrituras nen sa potèntzia de Deus?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,24&lt;s0/&gt;Ma i farisei, udendo questo, presero a dire: "Costui scaccia i demòni in nome di Beelzebùl,&lt;s1/&gt;principe dei demòni".</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260217T132713Z" creationid="Gianfranco" creationdate="20260217T132713Z">
@@ -3444,6 +3908,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,25 Quando risusciteranno dai morti, infatti, non prenderanno moglie né marito, ma saranno come angeli nei cieli.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203653Z" creationid="Gianfranco" creationdate="20261101T203653Z">
+        <seg>Mc12,25 Cando ant a risuscitare dae sos mortos, difatis, no ant a pigare muzere nen maridu, ma ant a èssere comente a ànghelos in sos chelos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,25&lt;s0/&gt;Ma egli, conosciuto il loro pensiero, disse loro: "Ogni regno discorde cade in rovina e nessuna città o famiglia discorde può reggersi.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260217T163910Z" creationid="Gianfranco" creationdate="20260217T132858Z">
@@ -3456,6 +3928,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260914T160701Z" creationid="carminupintore" creationdate="20260914T093641Z">
         <seg>12,26 &lt;s0/&gt;Si duncas  pòdere non nde tenides mancu pro sa minudalla, a it'est chi peleades / bos trumentades pro s'àtera cosa / su restu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,26 A riguardo poi dei morti che devono risorgere, non avete letto nel libro di Mosè, a proposito del roveto, come Dio gli parlò dicendo: Io sono il Dio di Abramo, il Dio di Isacco e di Giacobbe?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203654Z" creationid="Gianfranco" creationdate="20261101T203654Z">
+        <seg>Mc12,26 Torrende a su contu de sos chi devent torrare a vida, non bi l’azis letu in su libru de Moses, torrende a su contu de su ruvarzu allutu, comente lis aiat faeddadu Deus narende: Deo so su Deus de Abramu, su Deus de Isacu e de Zacobbe?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3516,6 +3996,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,29 Gesù rispose: «Il primo è: Ascolta, Israele. Il Signore Dio nostro è l'unico Signore;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203654Z" creationid="Gianfranco" creationdate="20261101T203654Z">
+        <seg>Mc12,29 Gesùs aiat naradu: «Su primu est: Ascurta, o Israele. Su Sennore Deus nostru est s'ùnicu Sennore;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,29&lt;s0/&gt;Come potrebbe uno penetrare nella casa dell'uomo forte e rapirgli le sue cose, se prima non lo lega?</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260212T093050Z" creationid="carmi" creationdate="20260210T105136Z">
@@ -3548,10 +4036,26 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,3 Ma essi, afferratolo, lo bastonarono e lo rimandarono a mani vuote.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203647Z" creationid="Gianfranco" creationdate="20261101T203647Z">
+        <seg>Mc12,3 Ma issos l'aiant tentu, l'aiant gaddadu e nche l'aiant bogadu a manos iscutas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,30 &lt;s0/&gt;di tutte queste cose si preoccupa la gente del mondo; ma il Padre vostro sa che ne avete bisogno.</seg>
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260914T162843Z" creationid="carminupintore" creationdate="20260914T093759Z">
         <seg>12,30 &lt;s0/&gt;totu custas cosas las buscat / las chircat sa zente de su mundu; ma su Babbu bostru ischit chi nde tenides bisonzu / bos bisonzant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,30 amerai dunque il Signore Dio tuo con tutto il tuo cuore, con tutta la tua mente e con tutta la tua forza.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203655Z" creationid="Gianfranco" creationdate="20261101T203655Z">
+        <seg>Mc12,30 e l'as a amare cun totu su coro tuo, cun totu sa mente tua e cun totu sa fortza tua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3572,6 +4076,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,31 E il secondo è questo: Amerai il prossimo tuo come te stesso. Non c'è altro comandamento più importante di questi».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203655Z" creationid="Gianfranco" creationdate="20261101T203655Z">
+        <seg>Mc12,31 E su segundu est custu: As a amare a sos àteros comente a tie matessi. Àteru cumandamentu prus de importu de custos non bi nd'at».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,31&lt;s0/&gt;Perciò io vi dico: Qualunque peccato e bestemmia sarà perdonata agli uomini, ma la bestemmia&lt;s1/&gt;contro lo Spirito non sarà perdonata.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260211T162324Z" creationid="carmi" creationdate="20260210T105138Z">
@@ -3588,6 +4100,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,32 Allora lo scribe gli disse: «Hai detto bene, Maestro, e secondo verità che Egli è unico e non &lt;t0/&gt;v'è altri all'infuori di lui;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203655Z" creationid="Gianfranco" creationdate="20261101T203655Z">
+        <seg>Mc12,32 Tando s'iscriba li aiat naradu: «Zai tenes resone, su Mastru, e segundu sa veridade chi Issu est unu e non bi nd'at àteru chi non siat issu;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,32&lt;s0/&gt;A chiunque parlerà male del Figlio dell'uomo sarà perdonato; ma la bestemmia contro lo Spirito, non gli sarà perdonata né in questo secolo, né in quello futuro.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260212T093838Z" creationid="carmi" creationdate="20260210T105139Z">
@@ -3600,6 +4120,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260921T100230Z" creationid="Gianfranco" creationdate="20260921T100230Z">
         <seg>12,33 &lt;s0/&gt;Bendide su chi tenides e dade·lu in limùsina; faghide·bos bursas chi non b'imbetzant, unu ascusorzu/siddadu &lt;s1/&gt;chi non finit mai in sos chelos, ue sos furones non b'arribbant e ue sa tega non consumit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,33 amarlo con tutto il cuore, con tutta la mente e con tutta la forza e amare il prossimo come se stesso val più di tutti gli olocausti e i sacrifici».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203656Z" creationid="Gianfranco" creationdate="20261101T203656Z">
+        <seg>Mc12,33 e a l'amare cun totu su coro, cun totu sa mente e cun totu sa fortza e a amare sos àteros che a nois etotu balet prus de totu sos votos e sos sacrifìtzios».</seg>
       </tuv>
     </tu>
     <tu>
@@ -3716,6 +4244,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,39 avere i primi seggi nelle sinagoghe e i primi posti nei banchetti.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203746Z" creationid="Gianfranco" creationdate="20261101T203746Z">
+        <seg>Mc12,39 a tènnere sas primas cadiras in sas sinagogas e sos primos postos in sos cùmbidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,39&lt;s0/&gt;"Una generazione perversa e adultera pretende un segno!</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260211T171951Z" creationid="carmi" creationdate="20260210T105145Z">
@@ -3744,6 +4280,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260914T104346Z" creationid="carminupintore" creationdate="20260914T093610Z">
         <seg>12,4 &lt;s0/&gt;A bois  amigos meos, bos naro: Non timedas a sos chi morint su corpus e a pustis non podent fàghere prus nudda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,4 Inviò loro di nuovo un altro servo: anche quello lo picchiarono sulla testa e lo coprirono di insulti.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203647Z" creationid="Gianfranco" creationdate="20261101T203647Z">
+        <seg>Mc12,4 Lis aiat mandadu torra unu àteru tzeracu: a cuddu puru l'aiant fertu a conca e l'aiant inzurzadu male.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3964,6 +4508,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,5 Ne inviò ancora un altro, e questo lo uccisero; e di molti altri, che egli ancora mandò, alcuni li bastonarono, altri li uccisero.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203648Z" creationid="Gianfranco" creationdate="20261101T203648Z">
+        <seg>Mc12,5 Nd'aiat mandadu unu àteru, e a cussu l'aiant mortu; e a àteros meda, chi aiat sighidu a mandare, a chie l'aiant gaddadu e a chie mortu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,50 &lt;s0/&gt;C'è un battesimo che devo ricevere; e come sono angosciato, finché non sia compiuto!</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260921T104416Z" creationid="Gianfranco" creationdate="20260921T104416Z">
@@ -4092,6 +4644,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,6 Aveva ancora uno, il figlio prediletto: lo inviò loro per ultimo, dicendo: Avranno rispetto per mio figlio!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203648Z" creationid="Gianfranco" creationdate="20261101T203648Z">
+        <seg>Mc12,6 Galu unu nde teniat, su fizu suo su prus istimadu: a ùrtimu bi l'aiat mandadu, narende: Zai ant a tènnere rispetu pro fizu meu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,6&lt;s0/&gt;Ora io vi dico che qui c'è qualcosa più grande del tempio.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260217T124912Z" creationid="Gianfranco" creationdate="20260217T124912Z">
@@ -4116,6 +4676,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,7 Ma quei vignaioli dissero tra di loro: Questi è l'erede; su, uccidiamolo e l'eredità sarà nostra.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203648Z" creationid="Gianfranco" creationdate="20261101T203648Z">
+        <seg>Mc12,7 Ma cuddos binzateris aiant naradu intre issos: Custu est s'erederi; ajò ca lu bochimus, e sa sienda at a èssere nostra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,7&lt;s0/&gt;Se aveste compreso che cosa significa: Misericordia io voglio e non sacrificio, non avreste&lt;s1/&gt;condannato persone senza colpa.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260217T140012Z" creationid="Gianfranco" creationdate="20260217T125126Z">
@@ -4132,6 +4700,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,8 E afferratolo, lo uccisero e lo gettarono fuori della vigna.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203648Z" creationid="Gianfranco" creationdate="20261101T203648Z">
+        <seg>Mc12,8 E l'aiant tentu, l'aiant mortu e nche l'aiant ghetadu a foras de sa binza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,8&lt;s0/&gt;Perché il Figlio dell'uomo è signore del sabato".</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260217T125229Z" creationid="Gianfranco" creationdate="20260217T125229Z">
@@ -4144,6 +4720,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260914T104943Z" creationid="carminupintore" creationdate="20260914T093620Z">
         <seg>12,9 &lt;s0/&gt;ma chie m'at a dennegare cara a sos òmines at a èssere dennegadu cara a sos ànghelos de Deus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,9 Che cosa farà dunque il padrone della vigna? Verrà e sterminerà quei vignaioli e darà la vigna ad altri.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203649Z" creationid="Gianfranco" creationdate="20261101T203649Z">
+        <seg>Mc12,9 E ite at a fàghere, duncas, su mere de sa binza? At a arribbare, at a ispèrdere cuddos binzateris e lis at a dare sa binza a àteros.</seg>
       </tuv>
     </tu>
     <tu>

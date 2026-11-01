@@ -64,8 +64,8 @@
       <tuv lang="it">
         <seg>1,11 E si sentì una voce dal cielo: «Tu sei il Figlio mio prediletto, in te mi sono compiaciuto».</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203457Z" creationid="Gianfranco" creationdate="20261101T203457Z">
-        <seg>Mc1,11 E nde fit bènnida una boghe dae chelos: «Tue ses su Fizu meu, su prus istimadu, a tie ti tenzo in prètziu».</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203939Z" creationid="Gianfranco" creationdate="20261101T203457Z">
+        <seg>1,11 E nde fit bènnida una boghe dae chelos: «Tue ses su Fizu meu, su prus istimadu, a tie ti tenzo in prètziu».</seg>
       </tuv>
     </tu>
     <tu>
@@ -88,8 +88,8 @@
       <tuv lang="it">
         <seg>1,12 Subito dopo lo Spirito lo sospinse nel deserto.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203457Z" creationid="Gianfranco" creationdate="20261101T203457Z">
-        <seg>Mc1,12 Deretu a pustis s’Ispìritu nche l’aiat ispintu a su desertu.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203940Z" creationid="Gianfranco" creationdate="20261101T203457Z">
+        <seg>1,12 Deretu a pustis s’Ispìritu nche l’aiat ispintu a su desertu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -112,8 +112,8 @@
       <tuv lang="it">
         <seg>1,13 E vi rimase quaranta giorni, tentato da satana; stava con le fiere e gli angeli lo servivano.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203458Z" creationid="Gianfranco" creationdate="20261101T203458Z">
-        <seg>Mc1,13 e inie fit abarradu baranta dies, tenteadu dae sàtana; e issu fit cun sas feras e sos ànghelos l’atendiant.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203953Z" creationid="Gianfranco" creationdate="20261101T203458Z">
+        <seg>1,13 e inie fit abarradu baranta dies, tenteadu dae sàtana; e issu fit cun sas feras e sos ànghelos l’atendiant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -136,8 +136,8 @@
       <tuv lang="it">
         <seg>1,14 Dopo che Giovanni fu arrestato, Gesù si recò nella Galilea predicando il vangelo di Dio.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203458Z" creationid="Gianfranco" creationdate="20261101T203458Z">
-        <seg>Mc1,14 A pustis chi a Giuanne l’aiant tentu, Gesùs fit andadu a Galilea preighende su evangèliu de Deus, narende:</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203956Z" creationid="Gianfranco" creationdate="20261101T203458Z">
+        <seg>1,14 A pustis chi a Giuanne l’aiant tentu, Gesùs fit andadu a Galilea preighende su evangèliu de Deus, narende:</seg>
       </tuv>
     </tu>
     <tu>
@@ -160,8 +160,8 @@
       <tuv lang="it">
         <seg>1,15 E diceva: «Il tempo è compiuto e il regno di Dio è vicino; convertitevi e credete al vangelo».</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203458Z" creationid="Gianfranco" creationdate="20261101T203458Z">
-        <seg>Mc1,15 «Su tempus est cumpridu e su rennu de Deus est a curtzu; cunvertide·bos e creide in s’evangèliu».</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203959Z" creationid="Gianfranco" creationdate="20261101T203458Z">
+        <seg>1,15 «Su tempus est cumpridu e su rennu de Deus est a curtzu; cunvertide·bos e creide in s’evangèliu».</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,6 +178,14 @@
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260710T141650Z" creationid="Gianfranco" creationdate="20260708T175554Z">
         <seg>1,16 &lt;s0/&gt;e a medas fizos de Israele nche los at a giùghere torra/torrare a su Sennore Deus issoro/de issos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,16 Passando lungo il mare della Galilea, vide Simone e Andrea, fratello di Simone, mentre gettavano le reti in mare; erano infatti pescatori.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204008Z" creationid="Gianfranco" creationdate="20261101T204008Z">
+        <seg>1,16 Colende oru·oru de su mare de sa Galilea, aiat bidu a Simone e Andria, su frade de Simone, ghetende retes in mare, ca fint piscadores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,8 +208,8 @@
       <tuv lang="it">
         <seg>1,17 Gesù disse loro: «Seguitemi, vi farò diventare pescatori di uomini».</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203458Z" creationid="Gianfranco" creationdate="20261101T203458Z">
-        <seg>Mc1,16 Colende oru·oru de su mare de sa Galilea, aiat bidu a Simone e Andria, su frade de Simone, ghetende retes in mare, ca fint piscadores.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204012Z" creationid="Gianfranco" creationdate="20261101T203458Z">
+        <seg>1,16 Colende oru·oru de su mare de sa Galilea, aiat bidu a Simone e Andria, su frade de Simone, ghetende retes in mare, ca fint piscadores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,18 E subito, lasciate le reti, lo seguirono.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204016Z" creationid="Gianfranco" creationdate="20261101T204016Z">
+        <seg>1,18 E deretu, lassadas sas retes, li aiant postu in fatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,18&lt;s0/&gt;Ecco come avvenne la nascita di Gesù Cristo: sua madre Maria, essendo promessa sposa di Giuseppe, prima che andassero a vivere insieme si trovò incinta per opera dello Spirito Santo.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260708T094712Z" creationid="Gianfranco" creationdate="20260126T093851Z">
@@ -242,6 +258,14 @@
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260710T144539Z" creationid="Gianfranco" creationdate="20260708T180829Z">
         <seg>1,19 &lt;s0/&gt;1,19  S'ànghelu li aiat naradu: «Deo so Gabriele, su chi istat in dae in antis a Deus e m'ant mandadu&lt;s1/&gt;a ti faeddare e a ti dare custa bella noa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,19 Andando un poco oltre, vide sulla barca anche Giacomo di Zebedèo e Giovanni suo fratello mentre riassettavano le reti.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204020Z" creationid="Gianfranco" creationdate="20261101T204020Z">
+        <seg>1,19 Andende azicu a dae in antis, aiat bidu subra a sa barca fintzas a Giagu de Zebedeu e a Giuanne, su frade, in s'ora chi fint acontzende sas retes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,20 Li chiamò. Ed essi, lasciato il loro padre Zebedèo sulla barca con i garzoni, lo seguirono.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204027Z" creationid="Gianfranco" creationdate="20261101T204027Z">
+        <seg>1,20 Los aiat mutidos. E issos, lassadu su babbu Zebedeu in sa barca paris cun sos zorronaderis, li aiant postu in fatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,20&lt;s0/&gt;Mentre però stava pensando a queste cose, ecco che gli apparve in sogno un angelo del Signore e gli disse: "Giuseppe, figlio di Davide, non temere di prendere con te Maria, tua sposa, perché quel che è generato in lei viene dallo Spirito Santo.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260708T094719Z" creationid="Gianfranco" creationdate="20260126T094357Z">
@@ -314,6 +346,14 @@
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260710T164411Z" creationid="Gianfranco" creationdate="20260708T182300Z">
         <seg>1,21 &lt;s0/&gt;In s'ìnteris, su pòpulu fit isetende a Zacaria, e fint meravizados pro comente fit istentende in su santuàriu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,21 Andarono a Cafarnao e, entrato proprio di sabato nella sinagoga, Gesù si mise ad insegnare.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204029Z" creationid="Gianfranco" creationdate="20261101T204029Z">
+        <seg>Mc1,21 Fint andados a Cafàrnau e, intradu in die de sàbadu etotu in sa sinagoga, Gesùs si fit postu a fàghere a mastru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,22 Ed erano stupiti del suo insegnamento, perché insegnava loro come uno che ha autorità e non come gli scribi.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204030Z" creationid="Gianfranco" creationdate="20261101T204030Z">
+        <seg>Mc1,22 E fint abbarrados ispantados pro su chi lis fit imparende, ca lis imparaiat che a unu chi tenet autoridade e non che a sos iscribas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,22&lt;s0/&gt;Tutto questo avvenne perché si adempisse ciò che era stato detto dal Signore per mezzo del profeta:</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260127T112534Z" creationid="Gianfranco" creationdate="20260126T095624Z">
@@ -354,6 +402,14 @@
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260708T184626Z" creationid="Gianfranco" creationdate="20260708T184626Z">
         <seg>1,23 &lt;s0/&gt;Cando nch'aiat fatu sas dies de servìtziu, si nche fit torradu a domo sua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,23 Allora un uomo che era nella sinagoga, posseduto da uno spirito immondo, si mise a gridare:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204031Z" creationid="Gianfranco" creationdate="20261101T204031Z">
+        <seg>Mc1,23 Tando un'òmine chi fit in sa sinagoga, possedidu dae un'ispìritu titule, si fit postu a abboghinare:</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,24 «Che c'entri con noi, Gesù Nazareno? Sei venuto a rovinarci! Io so chi tu sei: il santo di Dio».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204031Z" creationid="Gianfranco" creationdate="20261101T204031Z">
+        <seg>Mc1,24 «Ite b'intras cun nois, Gesùs Nazarenu? A nos arruinare ses bènnidu ? Deo l'isco chie ses: su santu de Deus».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,24&lt;s0/&gt;Destatosi dal sonno, Giuseppe fece come gli aveva ordinato l'angelo del Signore e prese con sé la sua sposa,</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260708T094924Z" creationid="Gianfranco" creationdate="20260126T100041Z">
@@ -386,6 +450,14 @@
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260710T150426Z" creationid="Gianfranco" creationdate="20260708T185038Z">
         <seg>1,25 &lt;s0/&gt;«Mi' ite m'at fatu su Sennore, in sas dies chi m’at miradu pro mi nche tirare sa birgonza intre sos òmines».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,25 E Gesù lo sgridò: «Taci! Esci da quell'uomo».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204032Z" creationid="Gianfranco" creationdate="20261101T204032Z">
+        <seg>Mc1,25 E Gesùs l'aiat brigadu: «Calla a sa muda! Essi·nde dae cuss’òmine».</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,10 +478,26 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,26 E lo spirito immondo, straziandolo e gridando forte, uscì da lui.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204032Z" creationid="Gianfranco" creationdate="20261101T204032Z">
+        <seg>Mc1,26 E s'ispìritu malu, turmentende·lu e abboghinende a boghe manna, nche fit essidu a foras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,27 &lt;s0/&gt;a una vergine, promessa sposa di un uomo della casa di Davide, chiamato Giuseppe. La vergine si chiamava Maria.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260710T151033Z" creationid="Gianfranco" creationdate="20260708T185639Z">
         <seg>1,27 &lt;s0/&gt;a una vìrghine, improminta a isposa a un'òmine de s'ereu de Dàvide, chi si narat Zosepe. Sa vìrghine si naraiat Maria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,27 Tutti furono presi da timore, tanto che si chiedevano a vicenda: «Che è mai questo? Una dottrina nuova insegnata con autorità. Comanda persino agli spiriti immondi e gli obbediscono!».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204033Z" creationid="Gianfranco" creationdate="20261101T204033Z">
+        <seg>Mc1,27 Totus cantos fint ispantados, tantu chi si dimandaiant a pare: «Ello it'est custu? Una dutrina noa imparada cun autoridade. Cumandat finas a sos ispìritos malos e li ponent mente!».</seg>
       </tuv>
     </tu>
     <tu>
@@ -423,10 +511,26 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,28 La sua fama si diffuse subito dovunque nei dintorni della Galilea.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204034Z" creationid="Gianfranco" creationdate="20261101T204034Z">
+        <seg>Mc1,28 Sa fama sua si fit ispainada deretu in totue a inghìriu de sa Galilea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,29 &lt;s0/&gt;A queste parole ella rimase turbata e si domandava che senso avesse un tale saluto.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260710T152500Z" creationid="Gianfranco" creationdate="20260708T190014Z">
         <seg>1,29 &lt;s0/&gt;Custas paràulas l'aiant abbolotada e si fit dimandende ite sentidu teniat cussu saludu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,29 E, usciti dalla sinagoga, si recarono subito in casa di Simone e di Andrea, in compagnia di Giacomo e di Giovanni.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204035Z" creationid="Gianfranco" creationdate="20261101T204035Z">
+        <seg>Mc1,29 E, essidos dae sa sinagoga, nche fint andados deretu a domo de Simone e de Andria, paris a Giagu e Giuanne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -463,10 +567,26 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,30 La suocera di Simone era a letto con la febbre e subito gli parlarono di lei.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204035Z" creationid="Gianfranco" creationdate="20261101T204035Z">
+        <seg>Mc1,30 Sa sogra de Simone fit corcada cun sa calentura e issos deretu nde li aiant faeddadu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,31 &lt;s0/&gt;Ecco concepirai un figlio, lo darai alla luce e lo chiamerai Gesù.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260708T190212Z" creationid="Gianfranco" creationdate="20260708T190212Z">
         <seg>1,31 &lt;s0/&gt;Mi' chi as a inzendrare unu fizu, l'as a naschire e l'as a pònnere Gesùs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,31 Egli, accostatosi, la sollevò prendendola per mano; la febbre la lasciò ed essa si mise a servirli.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204036Z" creationid="Gianfranco" creationdate="20261101T204036Z">
+        <seg>Mc1,31 Issu, si fit acurtziadu, l'aiat pigada a sa manu e nde l'aiat pesada; sa calentura li fit passada e issa si fit posta a los atèndere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -479,10 +599,26 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,32 Venuta la sera, dopo il tramonto del sole, gli portavano tutti i malati e gli indemoniati.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204036Z" creationid="Gianfranco" creationdate="20261101T204036Z">
+        <seg>Mc1,32 A sero, a pustis de s'interinada de su sole, li aiant batidu totu sos malàidos e sos indemoniados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,33 &lt;s0/&gt;e regnerà per sempre sulla casa di Giacobbe e il suo regno non avrà fine".</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260710T153307Z" creationid="Gianfranco" creationdate="20260708T190513Z">
         <seg>1,33 &lt;s0/&gt; e at rennare semper subra sa domo de Giacobbu e su rennu suo no at a tènnere mai fine».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,33 Tutta la città era riunita davanti alla porta.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204037Z" creationid="Gianfranco" creationdate="20261101T204037Z">
+        <seg>Mc1,33 Totu sa tzitade fit atrumada in dae in antis de sa gianna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -495,10 +631,26 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,34 Guarì molti che erano afflitti da varie malattie e scacciò molti demòni; ma non permetteva ai demòni di parlare, perché lo conoscevano.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204038Z" creationid="Gianfranco" creationdate="20261101T204038Z">
+        <seg>Mc1,34 Nd'aiat sanadu medas chi patiant maladias de cada zenia e nche aiat bogadu dimònios meda; ma a sos dimònios non los lassaiat faeddare, ca lu connoschiant deretu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,35 &lt;s0/&gt;Le rispose l'angelo: "Lo Spirito Santo scenderà su di te, su te stenderà la sua ombra la potenza dell'Altissimo. Colui che nascerà sarà dunque santo e chiamato Figlio di Dio.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260710T160113Z" creationid="Gianfranco" creationdate="20260708T191103Z">
         <seg>1,35 &lt;s0/&gt;S'ànghelu li aiat rispòndidu: «S'Ispiritu Santu at a pèndere subra de tene, sa potèntzia de Deus Soberanu t’at a inghiriare cun s’umbra sua. Duncas fintzas su chi at a naschire at a èssere santu e li ant a nàrrere su Fizu de Deus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,35 Al mattino si alzò quando ancora era buio e, uscito di casa, si ritirò in un luogo deserto e là pregava.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204040Z" creationid="Gianfranco" creationdate="20261101T204040Z">
+        <seg>Mc1,35 A manzanu si nde fit pesadu chi fit galu iscurigadu e, fit mòvidu a unu logu desertu e in cue si fit postu a pregare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -527,6 +679,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,37 e, trovatolo, gli dissero: «Tutti ti cercano!».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204041Z" creationid="Gianfranco" creationdate="20261101T204041Z">
+        <seg>Mc1,37 e, dae chi l'aiant agatadu, li aiant naradu: «Ti sunt chirchende totus!».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,38 &lt;s0/&gt;Allora Maria disse: "Eccomi, sono la serva del Signore, avvenga di me quello che hai detto".</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260710T160556Z" creationid="carminupintore" creationdate="20260707T154142Z">
@@ -543,10 +703,26 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,38 Egli disse loro: «Andiamocene altrove per i villaggi vicini, perché io predichi anche là; per questo infatti sono venuto!».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204042Z" creationid="Gianfranco" creationdate="20261101T204042Z">
+        <seg>Mc1,38 Issu lis aiat naradu: «Movimus a aterue, a sas biddas a curtzu, a preigare inie puru; ca est pro custu chi so bènnidu!».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,39 &lt;s0/&gt;In quei giorni Maria si mise in viaggio verso la montagna e raggiunse in fretta una città di Giuda.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260710T161604Z" creationid="carminupintore" creationdate="20260707T154145Z">
         <seg>1,39 &lt;s0/&gt;1,39 In cuddas dies Maria fit mòvida in presse a logu de montes a una tzitade de Giudas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,39 E andò per tutta la Galilea, predicando nelle loro sinagoghe e scacciando i demòni.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204042Z" creationid="Gianfranco" creationdate="20261101T204042Z">
+        <seg>Mc1,39 E fit andadu peri totu sa Galilea, preighende in sas sinagogas issoro e boghende·nche sos dimònios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -583,6 +759,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,40 Allora venne a lui un lebbroso: lo supplicava in ginocchio e gli diceva: «Se vuoi, puoi guarirmi!».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204043Z" creationid="Gianfranco" creationdate="20261101T204043Z">
+        <seg>Mc1,40 Tando si l'est acurtziadu unu lebbrosu: suplichende·lu inghenugradu li naraiat: «Si cheres, mi podes sanare!».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,41 &lt;s0/&gt;Appena Elisabetta ebbe udito il saluto di Maria, il bambino le sussultò nel grembo.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260710T161647Z" creationid="carminupintore" creationdate="20260707T154147Z">
@@ -600,10 +784,26 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,41 Mosso a compassione, stese la mano, lo toccò e gli disse: «Lo voglio, guarisci!».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204043Z" creationid="Gianfranco" creationdate="20261101T204043Z">
+        <seg>Mc1,41 E Gesùs nd'aiat tentu dolu, aiat istèrridu sa manu, l'aiat tocadu e li aiat naradu: «Giai cherzo, sana!».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,42 &lt;s0/&gt;ed esclamò a gran voce: "Benedetta tu fra le donne e benedetto il frutto del tuo grembo!</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260710T164003Z" creationid="carminupintore" creationdate="20260707T154149Z">
         <seg>1,42 &lt;s0/&gt;e aiat naradu a boghe arta: «Beneita ses tue intre totu sas fèminas e beneitu su frutu de sas intragnas tuas!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,42 Subito la lebbra scomparve ed egli guarì.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204044Z" creationid="Gianfranco" creationdate="20261101T204044Z">
+        <seg>Mc1,42 Deretu sa lebbra nche li fit passada e issu fit sanadu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -616,6 +816,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,43 E, ammonendolo severamente, lo rimandò e gli disse:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204044Z" creationid="Gianfranco" creationdate="20261101T204044Z">
+        <seg>Mc1,43 E, brighende·lu, nche l'aiat ispatzadu narende·li:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,44 &lt;s0/&gt;Ecco, appena la voce del tuo saluto è giunta ai miei orecchi, il bambino ha esultato di gioia nel mio grembo.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260710T164050Z" creationid="carminupintore" creationdate="20260707T154153Z">
@@ -624,10 +832,26 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,44 «Guarda di non dir niente a nessuno, ma va', presentati al sacerdote, e offri per la tua purificazione quello che Mosè ha ordinato, a testimonianza per loro».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204045Z" creationid="Gianfranco" creationdate="20261101T204045Z">
+        <seg>Mc1,44 «Mira de non li nàrrere nudda a nemos, prus a prestu bae, mustra·ti a su satzerdote e oferi, pro esseres torradu lìmpiu, totu su chi aiat cumandadu Mosès, a testimonia pro issos».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,45 &lt;s0/&gt;E beata colei che ha creduto nell'adempimento delle parole del Signore".</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260710T164102Z" creationid="carminupintore" creationdate="20260707T154154Z">
         <seg>1,45 &lt;s0/&gt;E biada siat sa chi at crètidu chi su chi li at naradu su Sennore s’at èssere cumpridu».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,45 Ma quegli, allontanatosi, cominciò a proclamare e a divulgare il fatto, al punto che Gesù non poteva più entrare pubblicamente in una città, ma se ne stava fuori, in luoghi deserti, e venivano a lui da ogni parte.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204046Z" creationid="Gianfranco" creationdate="20261101T204046Z">
+        <seg>Mc1,45 Ma cuddu, istresiadu, iat cumintzadu a si nde bogare e a ispàrghere sa boghe, tantu chi Gesùs non podiat prus intrare a s'iscrarada a tzitade peruna, ma si nd'istaiat foras, in logos desertos. E galu sighiant acurtziende·si a ue fit issu dae cada logu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10015,6 +10239,14 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>2,1 Ed entrò di nuovo a Cafarnao dopo alcuni giorni. Si seppe che era in casa.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204046Z" creationid="Gianfranco" creationdate="20261101T204046Z">
+        <seg>Mc2,1 E fit torradu a intrare a Cafàrnau unas cantu dies a pustis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>2,10 &lt;s0/&gt;ma l'angelo disse loro: "Non temete, ecco vi annunzio una grande gioia, che sarà di tutto il popolo:</seg>
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260714T140923Z" creationid="carminupintore" creationdate="20260713T175404Z">
@@ -10075,6 +10307,14 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260714T141403Z" creationid="carminupintore" creationdate="20260713T175406Z">
         <seg>2,12 &lt;s0/&gt;Custu est su sinnu pro bois: azis a agatare una creadura fascada, corcadu in una mandigadorza".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>2,12 Quegli si alzò, prese il suo lettuccio e se ne andò in presenza di tutti e tutti si meravigliarono e lodavano Dio dicendo: «Non abbiamo mai visto nulla di simile!».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204053Z" creationid="Gianfranco" creationdate="20261101T204053Z">
+        <seg>Mc2,12 Cuddu si nde fit pesadu, s'aiat pigadu in fatu su corcadorzusuo e cara a totus si nche fit andadu, tantu chi totus fint meravizados e li torraiant glòria a Deus narende: «Cosa gosi no nd'amus mai bidu!».</seg>
       </tuv>
     </tu>
     <tu>
@@ -10167,6 +10407,14 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>2,16 Allora gli scribi della setta dei farisei, vedendolo mangiare con i peccatori e i pubblicani, dicevano ai suoi discepoli: «Come mai egli mangia e beve in compagnia dei pubblicani e dei peccatori?».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204055Z" creationid="Gianfranco" creationdate="20261101T204055Z">
+        <seg>Mc2,16 Tando sos iscribas de sos fariseos, bidende·lu mandighende cun sos pecadores e sos publicanos, lis naraiant a sos dischentes suos: «Ello a ite est mandighende paris cun sos publicanos e cun sos pecadores?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>2,16&lt;s0/&gt;Erode, accortosi che i Magi si erano presi gioco di lui, s'infuriò e mandò ad uccidere tutti i bambini di Betlemme e del suo territorio dai due anni in giù, corrispondenti al tempo su cui era stato informato dai Magi.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260708T095418Z" creationid="carmi" creationdate="20260118T185449Z">
@@ -10231,6 +10479,14 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>2,19 Gesù disse loro: «Possono forse digiunare gli invitati a nozze quando lo sposo è con loro? Finché hanno lo sposo con loro, non possono digiunare.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204057Z" creationid="Gianfranco" creationdate="20261101T204057Z">
+        <seg>Mc2,19 Gesùs lis aiat naradu: «A podent zeunare sos cumbidados a unu cojuviu cando b’est s’isposu paris cun issos? Fintzas a cando s'isposu est paris cun issos, non podent zeunare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>2,19&lt;s0/&gt;Morto Erode, un angelo del Signore apparve in sogno a Giuseppe in Egitto</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260120T122406Z" creationid="carmi" creationdate="20260118T185452Z">
@@ -10287,6 +10543,14 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>2,2 E si radunarono tante persone, da non esserci più posto neanche davanti alla porta, ed egli annunziava loro la parola.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204047Z" creationid="Gianfranco" creationdate="20261101T204047Z">
+        <seg>Mc2,2 e zente meda aiat abbojadu, chi non b'aiat prus logu mancu in dae in antis a sa gianna, e issu lis nuntziaiat sa paràula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>2,20 &lt;s0/&gt;I pastori poi se ne tornarono, glorificando e lodando Dio per tutto quello che avevano udito e visto, com'era stato detto loro.</seg>
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260714T145251Z" creationid="carminupintore" creationdate="20260713T175416Z">
@@ -10315,6 +10579,14 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260714T150831Z" creationid="carminupintore" creationdate="20260713T175417Z">
         <seg>2,21 &lt;s0/&gt;E coladas sas oto dies / prescrìvidos pro sa tzircuntzisione, li aiant postu a nùmene Gesùs, comente bi li aiat postu s'ànghelu in antis de èssere cuntzepidu in sas intragnas de sa mama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>2,21 Nessuno cuce una toppa di panno grezzo su un vestito vecchio; altrimenti il rattoppo nuovo squarcia il vecchio e si forma uno strappo peggiore.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204058Z" creationid="Gianfranco" creationdate="20261101T204058Z">
+        <seg>Mc2,21 Nemos li ponet unu tzàpulu de pannu ruzu a unu bestire betzu; si nono s’azunta noa nch’iscòrriat su betzu e s’iscòrriu torrat pejus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10496,6 +10768,14 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>2,3 Si recarono da lui con un paralitico portato da quattro persone.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204047Z" creationid="Gianfranco" creationdate="20261101T204047Z">
+        <seg>Mc2,3 Nde fit arribbada zente batende·li unu màrturu, zutu dae bator persones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>2,30 &lt;s0/&gt;perché i miei occhi han visto la tua salvezza,</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260721T162719Z" creationid="Gianfranco" creationdate="20260721T162719Z">
@@ -10616,6 +10896,14 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>2,4 Non potendo però portarglielo innanzi, a causa della folla, scoperchiarono il tetto nel punto dov'egli si trovava e, fatta un'apertura, calarono il lettuccio su cui giaceva il paralitico.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204048Z" creationid="Gianfranco" creationdate="20261101T204048Z">
+        <seg>Mc2,4 Sende chi peroe non faghiat a bi lu zùghere a dae in antis, pro more de totu sa zente chi b'aiat, nd'aiant iscubertadu sa bòveda in ue fit issu, aiant fatu una trapa e nch'aiant caladu su corcadorzu in ue fit corcadu su màrturu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>2,40 &lt;s0/&gt;Il bambino cresceva e si fortificava, pieno di sapienza, e la grazia di Dio era sopra di lui.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260721T171029Z" creationid="Gianfranco" creationdate="20260721T171029Z">
@@ -10728,6 +11016,14 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>2,5 Gesù, vista la loro fede, disse al paralitico: «Figliolo, ti sono rimessi i tuoi peccati».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204049Z" creationid="Gianfranco" creationdate="20261101T204049Z">
+        <seg>Mc2,5 Gesùs, bidende sa fide issoro, li aiat naradu a su màrturu: «Fizu meu, sos pecados tuos ti sunt perdonados».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>2,50 &lt;s0/&gt;Ma essi non compresero le sue parole.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260721T181619Z" creationid="Gianfranco" creationdate="20260721T181619Z">
@@ -10776,6 +11072,14 @@ faghende·si a mastros de dutrinas chi sunt pretzetos de òmines".</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>2,6 Seduti là erano alcuni scribi che pensavano in cuor loro:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204049Z" creationid="Gianfranco" creationdate="20261101T204049Z">
+        <seg>Mc2,6 B'aiat sètzidos inie unos cantu iscribas chi in coro issoro istaiant pensende /si fint pensende :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>2,6&lt;s0/&gt;E tu, Betlemme, terra di Giuda, non sei davvero il più piccolo capoluogo di Giuda: da te uscirà infatti un capo che pascerà il mio popolo, Israele.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260708T105641Z" creationid="Gianfranco" creationdate="20260126T104937Z">
@@ -10794,6 +11098,14 @@ ca dae tene b'at a essire  una ghia chi at a pàschere su pòpulu meu, Israele»
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>2,7 «Perché costui parla così? Bestemmia! Chi può rimettere i peccati se non Dio solo?».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204050Z" creationid="Gianfranco" creationdate="20261101T204050Z">
+        <seg>Mc2,7 «A it'est chi faeddat gosi custu? Frastimende est! Chie est chi podet perdonare sos pecados si non Deus ebbia?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>2,7&lt;s0/&gt;Allora Erode, chiamati segretamente i Magi, si fece dire con esattezza da loro il tempo in cui era apparsa la stella</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260708T095215Z" creationid="Gianfranco" creationdate="20260126T105126Z">
@@ -10806,6 +11118,14 @@ ca dae tene b'at a essire  una ghia chi at a pàschere su pòpulu meu, Israele»
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260714T092446Z" creationid="carminupintore" creationdate="20260713T175400Z">
         <seg>2,8 &lt;s0/&gt; In cussu logu etotu b'aiat pastores chi nche colaiant su note bizande / a sa tenta de sa gama issoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>2,8 Ma Gesù, avendo subito conosciuto nel suo spirito che così pensavano tra sé, disse loro: «Perché pensate così nei vostri cuori?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204051Z" creationid="Gianfranco" creationdate="20261101T204051Z">
+        <seg>Mc2,8 Ma Gesùs, aende connotu deretu in s'ispìritu suo ite totu si fint pensende, lis aiat naradu: «Pro ite seis pensende gasi in coros bostros?</seg>
       </tuv>
     </tu>
     <tu>
@@ -15766,6 +16086,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>3,20 Entrò in una casa e si radunò di nuovo attorno a lui molta folla, al punto che non potevano neppure prendere cibo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204109Z" creationid="Gianfranco" creationdate="20261101T204109Z">
+        <seg>Mc3,20 Fit intradu a una domo e a inghìriu suo b'aiat zente meda, tantu chi non faghiat mancu a mandigare unu cantzu de pane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>3,21 &lt;s0/&gt;Quando tutto il popolo fu battezzato e mentre Gesù, ricevuto anche lui il battesimo, stava in preghiera, il cielo si aprì</seg>
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260722T113431Z" creationid="carminupintore" creationdate="20260714T160612Z">
@@ -15802,6 +16130,14 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260722T115045Z" creationid="carminupintore" creationdate="20260714T160614Z">
         <seg>3,23 &lt;s0/&gt;E tando Gesùs, cando aiat incumentzadu su ministèriu suo, teniat unos trinta annos e fit, a su chi si creiat, fizu de Zosepe, fizu de Eli,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>3,23 Ma egli, chiamatili, diceva loro in parabole: «Come può satana scacciare satana?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204112Z" creationid="Gianfranco" creationdate="20261101T204112Z">
+        <seg>Mc3,23 Tando issu los aiat mutidos e lis naraiat cun paràbolas: «Comente faghet sàtana a nche bogare a sàtana?</seg>
       </tuv>
     </tu>
     <tu>
@@ -16175,6 +16511,14 @@ adderetade sas àndalas suas!
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260805T074409Z" creationid="Gianfranco" creationdate="20260722T144007Z">
         <seg>3,8 &lt;s0/&gt;Faghide duncas òperas dinnas de cunversione, e non bos cumintzedas a nàrrere intre bois: Abramu nos est babbu! Ca bos naro chi Deus nde podet pesare fizos de Abramu dae custas pedras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>3,8 Dalla Giudea e da Gerusalemme e dall'Idumea e dalla Transgiordania e dalle parti di Tiro e Sidone una gran folla, sentendo ciò che faceva, si recò da lui.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204107Z" creationid="Gianfranco" creationdate="20261101T204107Z">
+        <seg>Mc3,8 Dae Giudea e dae Gerusalemme e dae Idumea e dae s’àter’ala de su riu Giordanu, dae sos oros de Tiru e Sidone trumas e trumas de zente nche l'aiat sighidu ca aiant intesu su chi aiat fatu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16805,6 +17149,14 @@ adderetade sas àndalas suas!
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>4,19 Ma sopraggiungono le preoccupazioni del mondo e l'inganno della ricchezza e tutte le altre bramosie, soffocano la parola e questa rimane senza frutto.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204155Z" creationid="Gianfranco" creationdate="20261101T204155Z">
+        <seg>Mc4,19 ma nche suprint sos pistighinzos de su mundu e s'ingannu de sa richesa e totu sos àteros disizos, afocant sa paràula chi non bogat frutu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>4,19&lt;s0/&gt;E disse loro: "Seguitemi, vi farò pescatori di uomini".</seg>
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260701T160812Z" creationid="carmi" creationdate="20260120T113151Z">
@@ -17093,6 +17445,14 @@ adderetade sas àndalas suas!
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>4,3 «Ascoltate. Ecco, uscì il seminatore a seminare.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204116Z" creationid="Gianfranco" creationdate="20261101T204116Z">
+        <seg>Mc4,3 «Ascurtade! [...] Unu semenadore fit essidu a semenare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>4,30 &lt;s0/&gt;Ma egli, passando in mezzo a loro, se ne andò.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260726T092403Z" creationid="Gianfranco" creationdate="20260726T092403Z">
@@ -17369,6 +17729,14 @@ adderetade sas àndalas suas!
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260724T081833Z" creationid="carminupintore" creationdate="20260714T160810Z">
         <seg>4,6 &lt;s0/&gt;«T'apo a dare totu custa potèntzia e sa glòria de custos rennos, ca a mie est {istada} intregada e deo bi la do a chie cherzo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>4,6 Ma quando si levò il sole, restò bruciata e, non avendo radice, si seccò.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204118Z" creationid="Gianfranco" creationdate="20261101T204118Z">
+        <seg>Mc4,6 ma cando fit essidu su sole, nche l'aiat brusiada e, non zughende raighina, si fit sicada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17729,6 +18097,14 @@ adderetade sas àndalas suas!
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260729T183007Z" creationid="Gianfranco" creationdate="20260729T183007Z">
         <seg>5,13 &lt;s0/&gt;E Gesùs aiat istèrridu sa manu, l'aiat tocadu e li aiat naradu: «Zai cherzo, sanadu sias». E deretu sa lebbra&lt;s1/&gt;nche li fit passada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>5,13 Glielo permise. E gli spiriti immondi uscirono ed entrarono nei porci e il branco si precipitò dal burrone nel mare; erano circa duemila e affogarono uno dopo l’altro nel mare.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204157Z" creationid="Gianfranco" creationdate="20261101T204157Z">
+        <seg>Mc5,13 Bi lu aiat permìtidu. E sos ispìritos titules nde fint bessidos e nche fint intrados a sos porcos e su grustu si fit ispentumadu dae su trèmene a mare; e unos duamiza nche fint afogados in mare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21091,6 +21467,14 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260828T163227Z" creationid="Gianfranco" creationdate="20260828T162943Z">
         <seg>7,6 &lt;s0/&gt;Gesùs fit tzucadu cun issos. Oramai non fit gasi indedda dae sa domo/li mancaiat pagu a sa domo cando su tzenturione aiat mandadu amigos a li nàrrere: «Sennore, non ti pighes istrobbu, deo non so dinnu chi coles a suta de sa cuperta (de domo) mea;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,6 Ed egli rispose loro: «Bene ha profetato Isaia di voi, ipocriti, come sta scritto:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204213Z" creationid="Gianfranco" creationdate="20261101T204213Z">
+        <seg>7,6 Ed egli rispose loro: «Bene ha profetato Isaia di voi, ipocriti, come sta scritto:</seg>
       </tuv>
     </tu>
     <tu>

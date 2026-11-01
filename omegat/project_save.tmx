@@ -3716,6 +3716,14 @@ Mi’ a unu mandigamundos e imbriagone, amigu de sos publicanos e de sos pecador
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,10 Non avete forse letto questa Scrittura:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204557Z" creationid="Gianfranco" creationdate="20261101T204557Z">
+        <seg> 12,10 No l'azis lèzida custa Iscritura:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,10&lt;s0/&gt;Ed ecco, c'era un uomo che aveva una mano inaridita, ed essi chiesero a Gesù: "È permesso curare di sabato?".</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260217T125712Z" creationid="Gianfranco" creationdate="20260217T125712Z">
@@ -21473,8 +21481,8 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       <tuv lang="it">
         <seg>7,6 Ed egli rispose loro: «Bene ha profetato Isaia di voi, ipocriti, come sta scritto:</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204213Z" creationid="Gianfranco" creationdate="20261101T204213Z">
-        <seg>7,6 Ed egli rispose loro: «Bene ha profetato Isaia di voi, ipocriti, come sta scritto:</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204416Z" creationid="Gianfranco" creationdate="20261101T204213Z">
+        <seg>7,6 E issu lis aiat naradu: «Isaia zai at profetizadu bene de bois, ipòcritos, dae su chi b'est iscritu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23767,6 +23775,14 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       </tuv>
       <tuv lang="sc" changeid="carminupintore" changedate="20260831T103910Z" creationid="carminupintore" creationdate="20260829T154711Z">
         <seg>9,40 &lt;s0/&gt;Apo pregadu a sos dischentes tuos nche lu bogare, ma non nche sunt resèssidos".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,40 Chi non è contro di noi è per noi.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204506Z" creationid="Gianfranco" creationdate="20261101T204506Z">
+        <seg>9,40 Chie no est contra a nois est pro nois.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27704,9 +27720,8 @@ Gesùs fit andadu in fatu suo. Una truma manna l’apretaiat dae cad’ala.</seg
       <tuv lang="it">
         <seg>Questo popolo mi onora con le labbra, ma il suo cuore è lontano da me.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T203548Z" creationid="Gianfranco" creationdate="20261101T203548Z">
-        <seg>15,8&lt;s0/&gt;Custu pòpulu m'onorat a paràulas,
-ma su coro suo est a largu dae mene.</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T204423Z" creationid="Gianfranco" creationdate="20261101T203548Z">
+        <seg>Custu pòpulu m'onorat a paràulas, ma su coro suo est a largu dae mene.</seg>
       </tuv>
     </tu>
     <tu>

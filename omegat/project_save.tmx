@@ -8802,8 +8802,8 @@ ca dae tene b'at a essire  una ghia chi at a pàschere su pòpulu meu, Israele»
       <tuv lang="it">
         <seg>20,33 &lt;s0/&gt;Questa donna dunque, nella risurrezione, di chi sarà moglie?</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T185919Z" creationid="Gianfranco" creationdate="20261101T185919Z">
-        <seg>20,33 &lt;s0/&gt;Custa fèmina tando, in sa resurretzione, at a èssere sa muzere de chie?</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T190010Z" creationid="Gianfranco" creationdate="20261101T185919Z">
+        <seg>20,33 &lt;s0/&gt;Custa fèmina tando, in sa resurretzione, a cale de sos sete l'at a èssere muzere?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8816,10 +8816,26 @@ ca dae tene b'at a essire  una ghia chi at a pàschere su pòpulu meu, Israele»
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>20,34 &lt;s0/&gt;Gesù rispose: "I figli di questo mondo prendono moglie e prendono marito;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T190143Z" creationid="Gianfranco" creationdate="20261101T190143Z">
+        <seg>20,34 &lt;s0/&gt;Gesùs li aiat rispòndidu: «Sos fizos de custu mundu si còjuant s'unu cun s'àtera;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>20,34&lt;s0/&gt;Gesù si commosse, toccò loro gli occhi e subito ricuperarono la vista e lo seguirono.</seg>
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260309T085920Z" creationid="carmi" creationdate="20260309T082104Z">
         <seg>20,34&lt;s0/&gt;Gesùs nd'aiat tentu dolu, lis aiat tocadu sos ogros e deretu aiant torradu a bi bìdere e li aiant postu in fatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>20,35 &lt;s0/&gt;ma quelli che sono giudicati degni dell'altro mondo e della risurrezione dai morti, non prendono &lt;s1/&gt;moglie né marito;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T190256Z" creationid="Gianfranco" creationdate="20261101T190256Z">
+        <seg>20,35 &lt;s0/&gt;ma cussos chi sunt zuigados dinnos de s'àteru mundu e de sa resurretzione dae sos mortos, non si còjuant &lt;s1/&gt;nen cun muzere nen cun maridu;</seg>
       </tuv>
     </tu>
     <tu>

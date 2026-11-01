@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="it"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="paragraph" srclang="it"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1786,6 +1786,14 @@ Mira, so mandende su nùntziu meu cara a tie, issu t'at a aprontare su caminu in
       </tuv>
       <tuv lang="sc" changeid="carmi" changedate="20260421T085937Z" creationid="carmi" creationdate="20260205T090408Z">
         <seg>11,16&lt;s0/&gt;Ma deo a chie l'apo a assimizare custa generatzione?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,16&lt;s0/&gt;Ma a chi paragonerò io questa generazione? Essa è simile a quei fanciulli seduti sulle piazze che si rivolgono agli altri compagni e dicono:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T192911Z" creationid="Gianfranco" creationdate="20261101T192911Z">
+        <seg>11,16&lt;s0/&gt;Ma deo a chie l'apo a assimizare custa generatzione? S’assimizat a cuddos pitzocos sètzidos in pratza chi li ghetant una boghe a sos cumpànzos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14476,6 +14484,14 @@ No iszuramentes / Non bi zures de badas, ma torra contu a su Sennore de su chi a
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>5,47&lt;s0/&gt;E se date il saluto soltanto ai vostri fratelli, che cosa fate di straordinario? Non fanno così anche i pagani?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T192754Z" creationid="Gianfranco" creationdate="20261101T192754Z">
+        <seg>5,47&lt;s0/&gt;E si saludades petzi a frades bostros, ite sezis faghende in prus de sos àteros ? Sos paganos puru non faghent gasi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>5,48&lt;s0/&gt;Siate voi dunque perfetti come è perfetto il Padre vostro celeste.</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260708T101031Z" creationid="Gianfranco" creationdate="20260127T112320Z">
@@ -14929,8 +14945,8 @@ No iszuramentes / Non bi zures de badas, ma torra contu a su Sennore de su chi a
       <tuv lang="it">
         <seg>6,26&lt;s0/&gt;Guardate gli uccelli del cielo: non seminano, né mietono, né ammassano nei granai; eppure il Padre vostro celeste li nutre. Non contate voi forse più di loro?</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260708T112149Z" creationid="Gianfranco" creationdate="20260708T112149Z">
-        <seg>[fuzzy]6,26&lt;s0/&gt;Abbaidade sos puzones de su chelu: non bi sèmenant, nen messant, ne ammuntonant in sos granales; e mancari gasi Babbu bostru tzeleste lis daet alimentu.Ello bois non balides de prus de issos?</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T192825Z" creationid="Gianfranco" creationdate="20260708T112149Z">
+        <seg>6,26&lt;s0/&gt;Abbaidade sos puzones de su chelu: non bi sèmenant, nen messant, ne ammuntonant in sos granales; e mancari gasi Babbu bostru tzeleste lis daet alimentu.Ello bois non balides de prus de issos?</seg>
       </tuv>
     </tu>
     <tu>
@@ -16526,8 +16542,8 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       <tuv lang="it">
         <seg>8,32&lt;s0/&gt;Egli disse loro: "Andate!". Ed essi, usciti dai corpi degli uomini, entrarono in quelli dei porci: ed ecco tutta la mandria si precipitò dal dirupo nel mare e perì nei flutti.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260708T113118Z" creationid="Gianfranco" creationdate="20260708T112506Z">
-        <seg>8,32&lt;s0/&gt;[fuzzy] E issos nde fint essidos dae sos corpos de sos òmines, nche fint intrados a cuddos de sos porcos: e mi' totu su tazu ghetende·si·nche dae su trèmene a mare e fint mortos in sas abbas.
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T192830Z" creationid="Gianfranco" creationdate="20260708T112506Z">
+        <seg>8,32&lt;s0/&gt;E issos nde fint essidos dae sos corpos de sos òmines, nche fint intrados a cuddos de sos porcos: e mi' totu su tazu ghetende·si·nche dae su trèmene a mare e fint mortos in sas abbas.
 </seg>
       </tuv>
     </tu>
@@ -17753,8 +17769,8 @@ Abbaidade comente creschent sos lizos de su campu: non bi traballant e non bi fi
       <tuv lang="it">
         <seg>9,9&lt;s0/&gt;Andando via di là, Gesù vide un uomo chiamato Matteo, seduto al banco delle imposte, e gli disse:&lt;s1/&gt;"Seguimi". Ed egli si alzò e lo seguì.</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20260708T112537Z" creationid="Gianfranco" creationdate="20260708T112537Z">
-        <seg>[fuzzy]9,9&lt;s0/&gt;Andende·si·nde, Gesùs aiat bidu a un'òmine chi li naraiant Mateu, sètzidu in su bancu de sos pagamentos, e li aiat naradu: «Beni in fatu meu».</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261101T192846Z" creationid="Gianfranco" creationdate="20260708T112537Z">
+        <seg>9,9&lt;s0/&gt;Andende·si·nde, Gesùs aiat bidu a un'òmine chi li naraiant Mateu, sètzidu in su bancu de sos pagamentos, e li aiat naradu: «Beni in fatu meu».</seg>
       </tuv>
     </tu>
     <tu>

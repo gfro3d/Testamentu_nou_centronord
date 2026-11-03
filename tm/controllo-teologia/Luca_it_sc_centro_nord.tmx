@@ -8392,5 +8392,347 @@
         <seg>Lc20,47 Nche lis màndigant sas domos a sas viudas e si nde bogant chi pregant meda; sa cundenna chi lis at a tocare a issos at èssere sa prus manna».</seg>
       </tuv>
     </tu>
+    <tu tuid="Lc21_1">
+      <prop type="x-reference">Lc21,1</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,1 Alzati gli occhi, vide alcuni ricchi che gettavano le loro offerte nel tesoro.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,1 Artziados sos ogros, aiat bidu unos cantu ricos chi fint ghetende sas ofertas issoro a su siddadu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_2">
+      <prop type="x-reference">Lc21,2</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,2 Vide anche una vedova povera che vi gettava due spiccioli</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,2 Aiat bidu fintzas a una viuda pòvera ghetende·nche duos soddos</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_3">
+      <prop type="x-reference">Lc21,3</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,3 e disse: "In verità vi dico: questa vedova, povera, ha messo più di tutti.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,3 e aiat naradu: «Bos lu naro a beru: custa viuda, pòbera, at postu prus de totus.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_4">
+      <prop type="x-reference">Lc21,4</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,4 Tutti costoro, infatti, han deposto come offerta del loro superfluo, questa invece nella sua miseria ha dato tutto quanto aveva per vivere".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,4 Totus custos, difatis, b'ant postu comente oferta su chi teniant in prus, custa imbetzes in sa misèria sua at dadu totu su chi teniat pro campare».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_5">
+      <prop type="x-reference">Lc21,5</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,5 Mentre alcuni parlavano del tempio e delle belle pietre e dei doni votivi che lo adornavano, disse:</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,5 In s'ora chi unos cantu fint faeddende de su tèmpiu e de sas pedras bellas e de sos donos in votu chi lu mudaiant, aiat naradu:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_6">
+      <prop type="x-reference">Lc21,6</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,6 "Verranno giorni in cui, di tutto quello che ammirate, non resterà pietra su pietra che non venga distrutta".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,6 «Ant a bènnere dies chi, de totu su chi ammirades, non b'at a abbarrare preda in subra de pedra chi non siat derruta».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_7">
+      <prop type="x-reference">Lc21,7</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,7 Gli domandarono: "Maestro, quando accadrà questo e quale sarà il segno che ciò sta per compiersi?".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,7 Li aiant dimandadu: «Su Mastru, cando at a acontèssere custu e cale at a èssere su sinnu chi custu est pro si cumprire?».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_8">
+      <prop type="x-reference">Lc21,8</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,8 Rispose: "Guardate di non lasciarvi ingannare. Molti verranno sotto il mio nome dicendo: "Sono io" e: "Il tempo è prossimo"; non seguiteli.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,8 Aiat rispòndidu: «Dade cara a non bos lassare trampare. In medas ant a bènnere in nùmene meu narende: “So deo” e: “Su tempus est a curtzu”; no los sighedas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_9">
+      <prop type="x-reference">Lc21,9</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,9 Quando sentirete parlare di guerre e di rivoluzioni, non vi terrorizzate. Devono infatti accadere prima queste cose, ma non sarà subito la fine".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,9 Cando azis a intèndere faeddare de gherras e abbolotos/rivolutziones, non bos assustedas. Ca in antis depent galu acontèssere custas cosas, ma non at a èssere deretu sa fine».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_10">
+      <prop type="x-reference">Lc21,10</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,10 Poi disse loro: "Si solleverà popolo contro popolo e regno contro regno,</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,10 A pustis lis aiat naradu: «S'at a pesare natzione contra a natzione e rennu contra rennu,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_11">
+      <prop type="x-reference">Lc21,11</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,11 e vi saranno di luogo in luogo terremoti, carestie e pestilenze; vi saranno anche fatti terrificanti e segni grandi dal cielo.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,11 e b'at a àere terremotos, carestias e pestas mannas; b'at a àere fintzas fatos ispantosos e sinnos mannos dae su chelu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_12">
+      <prop type="x-reference">Lc21,12</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,12 Ma prima di tutto questo metteranno le mani su di voi e vi perseguiteranno, consegnandovi alle sinagoghe e alle prigioni, trascinandovi davanti a re e a governatori, a causa del mio nome.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,12 Ma in antis de totu custu bos ant a pònnere sas manos in subra bostru e bos ant a persighire, intreghende·bos a sas sinagogas e sas presones, traghende·bos in antis a res e a guvernadores, pro more de su nùmene meu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_13">
+      <prop type="x-reference">Lc21,13</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,13 Questo vi darà occasione di render testimonianza.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,13 Custu bos at a dare ocasione de fàghere testimonia.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_14">
+      <prop type="x-reference">Lc21,14</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,14 Mettetevi bene in mente di non preparare prima la vostra difesa;</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,14 Tenide bene in mente a no ammaniare in antis sa defensa bostra;</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_15">
+      <prop type="x-reference">Lc21,15</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,15 io vi darò lingua e sapienza, a cui tutti i vostri avversari non potranno resistere, né controbattere.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,15 deo bos apo a dare limba e sabiesa, chi totus sos aversàrios bostros non ant a pòdere aguantare, nen rispòndere/contraddìghere.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_16">
+      <prop type="x-reference">Lc21,16</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,16 Sarete traditi perfino dai genitori, dai fratelli, dai parenti e dagli amici, e metteranno a morte alcuni di voi;</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,16 Bos ant a traire fintzas babbos e mamas, frades, parentes e amigos, e a unos cantu de bois bos ant a mandare a mòrrere;</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_17">
+      <prop type="x-reference">Lc21,17</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,17 sarete odiati da tutti per causa del mio nome.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,17 totus bos ant a odiare pro more de su nùmene meu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_18">
+      <prop type="x-reference">Lc21,18</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,18 Ma nemmeno un capello del vostro capo perirà.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,18 Ma nemancu unu pilu de sa conca bostra non s’at a pèrdere.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_19">
+      <prop type="x-reference">Lc21,19</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,19 Con la vostra perseveranza salverete le vostre anime.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,19 Cun s’aguantu bostru azis a sarvare sas ànimas bostras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_20">
+      <prop type="x-reference">Lc21,20</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,20 Ma quando vedrete Gerusalemme circondata da eserciti, sappiate allora che la sua devastazione è vicina.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,20 Ma cando azis a bìdere Gerusalemme inghiriada dae esèrtzitos, ischedas tando chi s'isperdìtziu est a cùrtziu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_21">
+      <prop type="x-reference">Lc21,21</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,21 Allora coloro che si trovano nella Giudea fuggano ai monti, coloro che sono dentro la città se ne allontanino, e quelli in campagna non tornino in città;</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,21 Tando sos chi sunt in Giudea si nche fuant a sos montes, sos chi sunt in intro de sa tzitade si nch'istesient, e sos chi sunt in sos sartos non b'intrent / non torrent a bidda;</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_22">
+      <prop type="x-reference">Lc21,22</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,22 saranno infatti giorni di vendetta, perché tutto ciò che è stato scritto si compia.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,22 ca custas sunt dies de vindita / venga / zustìtzia [ἐκδικήσεως], pro chi si cumprat totu su chi {b'}est iscritu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_23">
+      <prop type="x-reference">Lc21,23</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,23 Guai alle donne che sono incinte e allattano in quei giorni, perché vi sarà grande calamità nel paese e ira contro questo popolo.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,23 Arguai a sas chi sunt prinzas e a sas chi sunt allatende in cuddas dies! Ca b'at a àere una tribbulia manna/ disacatu mannu in sa terra e arrènnegu contra a custu pòpulu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_24">
+      <prop type="x-reference">Lc21,24</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,24 Cadranno a fil di spada e saranno condotti prigionieri tra tutti i popoli; Gerusalemme sarà calpestata dai pagani finché i tempi dei pagani siano compiuti.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,24 E ant a rùere a filu de atza e ant a èssere carrados {che} presoneris in mesu de totu sas natziones; e Gerusalemme at a èssere apedigada dae sos paganos, fintzas a cando non si cumprent / s’ant a cumprire sos tempos de sos paganos.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_25">
+      <prop type="x-reference">Lc21,25</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,25 Vi saranno segni nel sole, nella luna e nelle stelle, e sulla terra angoscia di popoli in ansia per il fragore del mare e dei flutti,</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,25 E b'at a àere sinnos in su sole, in sa luna e in sos astros, e in sa terra, angùstia / amargura [Ruju] de sas natziones in apentu / isporadas pro s'istripitu / su degòlliu [Turtas] de su mare e de sas undas,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_26">
+      <prop type="x-reference">Lc21,26</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,26 mentre gli uomini moriranno per la paura e per l'attesa di ciò che dovrà accadere sulla terra. Le potenze dei cieli infatti saranno sconvolte.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,26 e sos òmines s’ant a isalenare pro su pore / sa timoria e pro s'isetu / s’anneu [Ruju] de su chi est benende subra de / rugrende [Turtas] su mundu; ca sas potèntzias de sos chelos ant a èssere abbolotadas / iscutzinadas [Turtas].</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_27">
+      <prop type="x-reference">Lc21,27</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,27 Allora vedranno il Figlio dell'uomo venire su una nube con potenza e gloria grande.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,27 E tando ant a bìdere a su Fizu de s'òmine benende in una nue cun potèntzia e glòria manna.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_28">
+      <prop type="x-reference">Lc21,28</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,28 Quando cominceranno ad accadere queste cose, alzatevi e levate il capo, perché la vostra liberazione è vicina".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,28 Cando custas cosas ant a cumintzare a sutzèdere, pesade·bos / arritzade·bos e artziade sa conca, ca sa redentzione / liberatzione bostra s'est acurtziende».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_29">
+      <prop type="x-reference">Lc21,29</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,29 E disse loro una parabola: "Guardate il fico e tutte le piante;</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,29 E lis aiat naradu una paràbula: «Mirade sa figu e totu sos àrbores:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_30">
+      <prop type="x-reference">Lc21,30</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,30 quando già germogliano, guardandoli capite da voi stessi che ormai l'estate è vicina.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,30 cando sunt boghende / bogant foza, bidende·los, l’ischides / bos sapides / cumprendides [Ruju] bois etotu chi s'istiu zai est a curtzu / chi oramai s’istiu est a curtzu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_31">
+      <prop type="x-reference">Lc21,31</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,31 Così pure, quando voi vedrete accadere queste cose, sappiate che il regno di Dio è vicino.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,31 Gasi etotu bois, cando azis a bìdere sutzedende custas cosas, ischide chi su rennu de Deus est a curtzu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_32">
+      <prop type="x-reference">Lc21,32</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,32 In verità vi dico: non passerà questa generazione finché tutto ciò sia avvenuto.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,32 Bos lu naro a beru: non nch'at a colare custa generatzione in antis chi totu sutzedat.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_33">
+      <prop type="x-reference">Lc21,33</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,33 Il cielo e la terra passeranno, ma le mie parole non passeranno.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,33 Su chelu e sa terra nch'ant a colare, ma sas paràulas meas non nch'ant a colare {mai}.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_34">
+      <prop type="x-reference">Lc21,34</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,34 State bene attenti che i vostri cuori non si appesantiscano in dissipazioni, ubriachezze e affanni della vita e che quel giorno non vi piombi addosso improvviso;</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,34 Dade cara a bois etotu / Dade·bos cara [Turtas: Datze cara a bois matessi] , chi sos coros bostros non si fagant graes cun s'istravìtziu [Turtas: disonestade], s'imbriaghera e sos pistighinzos / anneos / pensamentos de sa bida, e chi cudda die non bos ruat a subra / non bos nche tenzat a s'ispessada / de repente [Ruju],</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_35">
+      <prop type="x-reference">Lc21,35</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,35 come un laccio esso si abbatterà sopra tutti coloro che abitano sulla faccia di tutta la terra.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,35 comente un’artana / unu latzu / una trampa; ca at a bènnere subra de totu sos chi istant in subra de totu sa terra.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_36">
+      <prop type="x-reference">Lc21,36</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,36 Vegliate e pregate in ogni momento, perché abbiate la forza di sfuggire a tutto ciò che deve accadere, e di comparire davanti al Figlio dell'uomo".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,36 Bizade in cada tempus, preghende pro tènneredes / chi tenzedas sa fortza de iscampare a totu custas cosas chi sunt pro / a puntu de sutzèdere, e de abbarrare ritzos / cumpàrrere [Turtas / Ruju] in dae in antis a su Fizu de s'òmine».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_37">
+      <prop type="x-reference">Lc21,37</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,37 Durante il giorno insegnava nel tempio, la notte usciva e pernottava all'aperto sul monte detto degli Ulivi.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,37 A de die fit dende imparu in su tèmpiu, e a de note nch'essiat e colaiat sa note in su monte chi li naraiant de sas Olias.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc21_38">
+      <prop type="x-reference">Lc21,38</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc21,38 E tutto il popolo veniva a lui di buon mattino nel tempio per ascoltarlo.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc21,38 E totu su pòpulu, a manzanu chitzo, acudiat a ue fit issu, a su tèmpiu, pro / a l'ascurtare. times new roman 12 interlinea singola spazio prima del paragrafo: nudda spazio dopo il paragrafo: nudda</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>

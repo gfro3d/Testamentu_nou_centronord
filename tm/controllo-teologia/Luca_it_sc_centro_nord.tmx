@@ -8734,5 +8734,320 @@
         <seg>Lc21,38 E totu su pòpulu, a manzanu chitzo, acudiat a ue fit issu, a su tèmpiu, pro / a l'ascurtare. times new roman 12 interlinea singola spazio prima del paragrafo: nudda spazio dopo il paragrafo: nudda</seg>
       </tuv>
     </tu>
+    <tu tuid="Lc22_1">
+      <prop type="x-reference">Lc22,1</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,1 Si avvicinava la festa degli Azzimi, chiamata Pasqua,</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,1 Si fit acurtziende sa festa de sos Panes Àzimos, chi li naraiant Pasca,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_2">
+      <prop type="x-reference">Lc22,2</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,2 e i sommi sacerdoti e gli scribi cercavano come toglierlo di mezzo, poiché temevano il popolo.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,2 e sos satzerdotes mazores e sos iscribas fint chirchende comente l'ispèrdere / si lu bogare dae pedes [Ruju (dae mesu de pedes?)], ca timiant su pòpulu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_3">
+      <prop type="x-reference">Lc22,3</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,3 Allora satana entrò in Giuda, detto Iscariota, che era nel numero dei Dodici.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,3 Tando Sàtana fit intradu in / a intro de Giudas, {su} chi li naraiant Iscariota, chi fit unu de sos Dòighi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_4">
+      <prop type="x-reference">Lc22,4</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,4 Ed egli andò a discutere con i sommi sacerdoti e i capi delle guardie sul modo di consegnarlo nelle loro mani.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,4 E issu fit andadu e aiat arresonadu / chistionadu cun sos satzerdotes mazores e cun sos capos de sas guàrdias in contu de comente bi lu intregare / li ghetare manu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_5">
+      <prop type="x-reference">Lc22,5</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,5 Essi si rallegrarono e si accordarono di dargli del denaro.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,5 {E} Issos si nde fint alligrados / pretziados e si fint postos de acòrdiu pro li dare dinari.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_6">
+      <prop type="x-reference">Lc22,6</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,6 Egli fu d'accordo e cercava l'occasione propizia per consegnarlo loro di nascosto dalla folla.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,6 E issu aiat atzetadu, e fit chirchende s'ocasione bona pro bi lu intregare a fura / a cua [Ruju] dae sa truma / chene chi b’esseret sa truma.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_7">
+      <prop type="x-reference">Lc22,7</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,7 Venne il giorno degli Azzimi, nel quale si doveva immolare la vittima di Pasqua.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,7 E fit arribbada sa die de sos Panes Àzimos, cando tocaiat a sacrificare sa Pasca.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_8">
+      <prop type="x-reference">Lc22,8</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,8 Gesù mandò Pietro e Giovanni dicendo: "Andate a preparare per noi la Pasqua, perché possiamo mangiare".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,8 {Tando} Gesùs aiat mandadu a Pedru e a Giuanne narende: «Andade a nos ammaniare sa Pasca, pro chi la mandighemus / pro la mandigaremus».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_9">
+      <prop type="x-reference">Lc22,9</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,9 Gli chiesero: "Dove vuoi che la prepariamo?".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,9 Issos li aiant naradu: «In ue cheres chi l'ammaniemus / ammaniamus / a ammaniaremus?».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_10">
+      <prop type="x-reference">Lc22,10</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,10 Ed egli rispose: "Appena entrati in città, vi verrà incontro un uomo che porta una brocca d'acqua. Seguitelo nella casa dove entrerà</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,10 E issu lis aiat naradu: «Mirade, comente intrades a tzitade, at a addobiare un'òmine chi est zughende / zughet una broca de abba/ cun una broca de abba; sighide·lu / ponide·li in fatu a {intro de} sa domo a ue intrat,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_11">
+      <prop type="x-reference">Lc22,11</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,11 e direte al padrone di casa: Il Maestro ti dice: Dov'è la stanza in cui posso mangiare la Pasqua con i miei discepoli?</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,11 e li azis a nàrrere a su mere de domo: “Su Mastru ti narat: In ue est s'aposentu in ue podo mandigare sa Pasca {paris} cun sos dischentes meos?”.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_12">
+      <prop type="x-reference">Lc22,12</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,12 Egli vi mostrerà una sala al piano superiore, grande e addobbata; là preparate".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,12 E issu bos at a mustrare una sala manna / un’aposentu mannu in su pranu de susu, cun tapetes [Ruju manna e furnida]; inie ammaniade / ammaniade inie».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_13">
+      <prop type="x-reference">Lc22,13</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,13 Essi andarono e trovarono tutto come aveva loro detto e prepararono la Pasqua.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,13 Issos fint andados e aiant agatadu {sa cosa} comente lis aiat naradu, e aiant ammaniadu sa Pasca.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_14">
+      <prop type="x-reference">Lc22,14</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,14 Quando fu l'ora, prese posto a tavola e gli apostoli con lui,</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,14 E cando fit {arribada} s'ora, si fit postu in mesa e sos apòstolos paris cun issu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_15">
+      <prop type="x-reference">Lc22,15</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,15 e disse: "Ho desiderato ardentemente di mangiare questa Pasqua con voi, prima della mia passione,</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,15 E lis aiat naradu: «Cun disizu mannu {m’}apo disizadu [epithymìa epethỳmesa. Ruju: M’apo disizadu cun totu su coro] de mandigare custa Pasca cun bois in antis de patire / de sa passione mea;</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_16">
+      <prop type="x-reference">Lc22,16</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,16 poiché vi dico: non la mangerò più, finché essa non si compia nel regno di Dio".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,16 ca bos naro: non l'apo a mandigare {prus / torra} fintzas a cando [Ruju: issa ]non si cumprat / s’at a cumprire in su rennu de Deus».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_17">
+      <prop type="x-reference">Lc22,17</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,17 E preso un calice, rese grazie e disse: "Prendetelo e distribuitelo tra voi,</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,17 E aiat pigadu unu càlighe, aiat torradu gràtzias e aiat naradu: «Pigade·lu e partzide·lu intre bois / partzide·bos·lu;</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_18">
+      <prop type="x-reference">Lc22,18</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,18 poiché vi dico: da questo momento non berrò più del frutto della vite, finché non venga il regno di Dio".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,18 ca bos naro: dae como non nd'apo a bìbere {prus / torra} de frutu de sa bide, fintzas a cando non benzat / at a bènnere su rennu de Deus».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_19">
+      <prop type="x-reference">Lc22,19</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,19 Poi, preso un pane, rese grazie, lo spezzò e lo diede loro dicendo: "Questo è il mio corpo che è dato per voi; fate questo in memoria di me".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,19 E aiat pigadu unu pane, aiat torradu gràtzias, l'aiat segadu e bi l'aiat dadu narende: «Custu est su corpus meu chi est dadu / donadu pro bois; faghide custu in ammentu meu».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_20">
+      <prop type="x-reference">Lc22,20</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,20 Allo stesso modo dopo aver cenato, prese il calice dicendo: "Questo calice è la nuova alleanza nel mio sangue, che viene versato per voi".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,20 E gasi etotu, a pustis de àere chenadu, aiat pigadu su càlighe narende: «Custu càlighe est s'alleàntzia noa in su sàmbene meu, chi est ghetadu [est su càlighe o su sàmbene?] pro bois».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_21">
+      <prop type="x-reference">Lc22,21</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,21 "Ma ecco, la mano di chi mi tradisce è con me, sulla tavola.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,21 Ma mi’: sa manu de su chi mi traighet est cun megus, in sa mesa / subra de sa mesa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_22">
+      <prop type="x-reference">Lc22,22</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,22 Il Figlio dell'uomo se ne va, secondo quanto è stabilito; ma guai a quell'uomo dal quale è tradito!".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,22 Ca su Fizu de s'òmine si nch'andat {gesi etotu} comente est disinnadu / istabilidu; ma arguai a cuss’/cudd’òmine chi lu traighet [Ruju: chi m’at traitu]!».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_23">
+      <prop type="x-reference">Lc22,23</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,23 Allora essi cominciarono a domandarsi a vicenda chi di essi avrebbe fatto ciò.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,23 E issos aiant cumintzadu a si dimandare intre pare [Ruju: a binchidas de pare]chie de issos esseret su chi fit pro fàghere custu / su chi lu diat àere fatu / l’aeret fatu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_24">
+      <prop type="x-reference">Lc22,24</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,24 Sorse anche una discussione, chi di loro poteva esser considerato il più grande.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,24 E fit nàschida / si fit pesada intre issos fintzas una cuntierra, pro chie de issos pariat su prus mannu / tocaiat a lu cunsiderare su prus mannu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_25">
+      <prop type="x-reference">Lc22,25</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,25 Egli disse: "I re delle nazioni le governano, e coloro che hanno il potere su di esse si fanno chiamare benefattori.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,25 E issu lis aiat naradu: «Sos res de sas natziones si nde faghent meres, e sos chi tenent autoridade subra de issas si faghent nàrrere benefatores / a sos chi … li narant benefatores.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_26">
+      <prop type="x-reference">Lc22,26</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,26 Per voi però non sia così; ma chi è il più grande tra voi diventi come il più piccolo e chi governa come colui che serve.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,26 Ma non siat gasi pro bois / bois non siades gasi; antzis, su prus mannu intre bois si fagat che a su prus minore, e su chi cumandat che a su chi serbit / serbende [Ruju: comente a chie fachet su tzeracu].</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_27">
+      <prop type="x-reference">Lc22,27</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,27 Infatti chi è più grande, chi sta a tavola o chi serve? Non è forse colui che sta a tavola? Eppure io sto in mezzo a voi come colui che serve.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,27 Ca chie est prus mannu, su chi est in mesa o su chi serbit? Ello no est su chi est in mesa? Ma deo so in mesu a bois che a su chi serbit.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_28">
+      <prop type="x-reference">Lc22,28</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,28 Voi siete quelli che avete perseverato con me nelle mie prove;</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,28 Bois sezis sos chi sezis abbarrados / chi azis agguantadu cun megus in sas tentatziones / proas meas;</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_29">
+      <prop type="x-reference">Lc22,29</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,29 e io preparo per voi un regno, come il Padre l'ha preparato per me,</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,29 e deo bos disponzo [Ruju: ammànio] unu rennu, comente Babbu meu nd'at dispostu [ammaniadu] unu pro mene,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_30">
+      <prop type="x-reference">Lc22,30</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,30 perché possiate mangiare e bere alla mia mensa nel mio regno e siederete in trono a giudicare le dodici tribù di Israele.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,30 pro chi mandighedas e bibedas in sa mesa mea in su rennu meu, e bos azis a sètzere in tronas a zuigare sas dòighi tribùs de Israele.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_31">
+      <prop type="x-reference">Lc22,31</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,31 Simone, Simone, ecco satana vi ha cercato per vagliarvi come il grano;</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,31 Simone, Simone, mira: / mi’ chi Sàtana bos at pretèndidu / acramadu / chircadu pro bos chilibrare che a su trigu;</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_32">
+      <prop type="x-reference">Lc22,32</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,32 ma io ho pregato per te, che non venga meno la tua fede; e tu, una volta ravveduto, conferma i tuoi fratelli".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,32 ma deo apo pregadu pro tene, pro chi sa fide tua non mancet; e tue, una borta cunvertidu, afòrtia [Ruju: cunfirma] a {sos} frades tuos».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_33">
+      <prop type="x-reference">Lc22,33</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,33 E Pietro gli disse: "Signore, con te sono pronto ad andare in prigione e alla morte".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,33 E issu li aiat naradu: «Sennore, cun tegus so prontu a andare / tzucare{fintzas }a presone e a sa morte».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_34">
+      <prop type="x-reference">Lc22,34</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,34 Gli rispose: "Pietro, io ti dico: non canterà oggi il gallo prima che tu per tre volte avrai negato di conoscermi".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,34 Issu li aiat naradu: «Ti naro, Pedru: su puddu no / non b’at a cantare oe in antis chi tue m'apas dennegadu tres bortas, narende chi non mi connosches».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc22_35">
+      <prop type="x-reference">Lc22,35</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc22,35 Poi disse: "Quando vi ho mandato senza borsa, né bisaccia, né sandali, vi è forse mancato qualcosa?". Risposero: "Nulla".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc22,35 E / A pustis lis aiat naradu: «Cando bos apo mandados chene bussa, nen bèrtula, nen sàndalos, ello bos est mancadu carchi cosa / Ello cosa bos est mancada?». Issos aiant naradu: «Nudda». times new roman 12 interlinea singola spazio prima del paragrafo: nudda spazio dopo il paragrafo: nudda</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>

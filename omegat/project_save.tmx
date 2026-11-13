@@ -15174,8 +15174,8 @@ ca dae tene b'at a essire  una ghia chi at a pàschere su pòpulu meu, Israele»
       <tuv lang="it">
         <seg>23,14 &lt;s0/&gt;disse: "Mi avete portato quest'uomo come sobillatore del popolo; ecco, l'ho esaminato davanti a &lt;s1/&gt;voi, ma non ho trovato in lui nessuna colpa di quelle di cui lo accusate;</seg>
       </tuv>
-      <tuv lang="sc" changeid="Gianfranco" changedate="20261113T123700Z" creationid="Gianfranco" creationdate="20261113T123700Z">
-        <seg>23,14 &lt;s0/&gt;aiat naradu: «Mi nch'azis batidu cust'òmine comente pilisadore de su pòpulu; Mi', l'apo averguadu in antis bostru &lt;s1/&gt;, ma no apo agatadu in issu peruna neghe de sas chi lu sezis incurpende;</seg>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261113T163744Z" creationid="Gianfranco" creationdate="20261113T123700Z">
+        <seg>23,14 &lt;s0/&gt;aiat naradu: «Mi nch'azis batidu a cust'òmine comente a unu pilisadore de su pòpulu; Mi', l'apo averguadu in dae in antis bostru &lt;s1/&gt;, ma in issu no apo agatadu peruna neghe de sas chi lu sezis incurpende;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15184,6 +15184,14 @@ ca dae tene b'at a essire  una ghia chi at a pàschere su pòpulu meu, Israele»
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20260318T085220Z" creationid="Gianfranco" creationdate="20260318T085220Z">
         <seg>23,14&lt;s0/&gt;[]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>23,15 &lt;s0/&gt;e neanche Erode, infatti ce l'ha rimandato. Ecco, egli non ha fatto nulla che meriti la morte.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20261113T164311Z" creationid="Gianfranco" creationdate="20261113T164311Z">
+        <seg>23,15 &lt;s0/&gt;e mancu Erode, difatis nos l'at torradu a mandare. Bidu, issu no at fatu nudda pro si meritare sa morte.</seg>
       </tuv>
     </tu>
     <tu>
